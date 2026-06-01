@@ -1,42 +1,59 @@
 import os
+import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
 from config import STEAM_IDS, DISCORD_WEBHOOK_URL
-from steam_api import get_player_summaries, get_owned_games
+from steam_api import (
+    get_player_summaries,
+    get_owned_games,
+    get_app_details
+)
 
 # ----------------------------
-# IN-MEMORY STATE (NO FILES)
+# FILE STATE (PERSISTENT)
 # ----------------------------
-STATE = {
-    "owned_games": {},
-    "reviews": set()
-}
+REVIEWS_FILE = "state_reviews.json"
+GAMES_FILE = "state_games.json"
+
+
+def load_json(file, default):
+    if os.path.exists(file):
+        try:
+            with open(file, "r") as f:
+                return json.load(f)
+        except:
+            pass
+    return default
+
+
+def save_json(file, data):
+    with open(file, "w") as f:
+        json.dump(data, f, indent=2)
+
 
 # ----------------------------
-# DISCORD WEBHOOK
+# DISCORD
 # ----------------------------
 def send_embed(embed):
     if not DISCORD_WEBHOOK_URL:
-        print("Missing DISCORD_WEBHOOK_URL")
         return
 
-    try:
-        requests.post(
-            DISCORD_WEBHOOK_URL,
-            json={"embeds": [embed]},
-            timeout=10
-        )
-    except Exception as e:
-        print("Discord webhook error:", e)
+    requests.post(
+        DISCORD_WEBHOOK_URL,
+        json={"embeds": [embed]},
+        timeout=10
+    )
 
 
 # ----------------------------
-# 🛒 NEW GAME PURCHASES
+# 🛒 NEW PURCHASES
 # ----------------------------
 def check_new_purchases():
-    print("Checking new purchases...")
+    print("Checking purchases...")
+
+    state = load_json(GAMES_FILE, {})
 
     for steamid in STEAM_IDS:
         players = get_player_summaries([steamid])
@@ -47,36 +64,38 @@ def check_new_purchases():
         name = player.get("personaname", "Unknown")
 
         games = get_owned_games(steamid)
-        current_ids = {str(g["appid"]): g for g in games}
+        current = {str(g["appid"]): g for g in games}
 
-        previous_ids = STATE["owned_games"].get(steamid)
+        previous = set(state.get(steamid, []))
 
-        # First run baseline (no alerts)
-        if not previous_ids:
-            STATE["owned_games"][steamid] = set(current_ids.keys())
+        if not previous:
+            state[steamid] = list(current.keys())
             continue
 
-        previous_ids = STATE["owned_games"][steamid]
-
-        new_games = set(current_ids.keys()) - previous_ids
+        new_games = set(current.keys()) - previous
 
         for appid in new_games:
-            game = current_ids.get(appid)
+            game = current.get(appid)
+            details = get_app_details(appid)
+
+            game_name = details.get("name", game.get("name", "Unknown"))
 
             embed = {
                 "title": "🛒 New Steam Purchase",
-                "description": f"**{name}** bought **{game.get('name', 'Unknown Game')}**",
+                "description": f"**{name}** bought **{game_name}**",
                 "color": 0x57F287,
                 "timestamp": datetime.utcnow().isoformat()
             }
 
             send_embed(embed)
 
-        STATE["owned_games"][steamid] = set(current_ids.keys())
+        state[steamid] = list(current.keys())
+
+    save_json(GAMES_FILE, state)
 
 
 # ----------------------------
-# ✍️ STEAM REVIEWS (SCRAPE)
+# ✍️ REVIEWS (FIXED)
 # ----------------------------
 def get_reviews(steamid):
     url = f"https://steamcommunity.com/profiles/{steamid}/recommended"
@@ -99,13 +118,14 @@ def get_reviews(steamid):
 
         return reviews
 
-    except Exception as e:
-        print("Review scrape failed:", e)
+    except:
         return []
 
 
 def check_reviews():
     print("Checking reviews...")
+
+    seen = set(load_json(REVIEWS_FILE, []))
 
     for steamid in STEAM_IDS:
         players = get_player_summaries([steamid])
@@ -117,30 +137,32 @@ def check_reviews():
 
         reviews = get_reviews(steamid)
 
-        for review_url in reviews:
-            key = f"{steamid}:{review_url}"
+        for r in reviews:
+            key = f"{steamid}:{r}"
 
-            if key in STATE["reviews"]:
+            if key in seen:
                 continue
 
-            STATE["reviews"].add(key)
+            seen.add(key)
 
             embed = {
                 "title": "✍️ New Steam Review",
                 "description": f"**{name}** posted a new review",
-                "url": review_url,
+                "url": r,
                 "color": 0x3498DB,
                 "timestamp": datetime.utcnow().isoformat()
             }
 
             send_embed(embed)
 
+    save_json(REVIEWS_FILE, list(seen))
+
 
 # ----------------------------
-# MAIN ENTRY (GitHub Actions safe)
+# MAIN
 # ----------------------------
 def main():
-    print("Steam bot running (cron-job / Actions mode)")
+    print("Steam bot running")
 
     check_new_purchases()
     check_reviews()
