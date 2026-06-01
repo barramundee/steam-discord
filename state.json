@@ -3042,7 +3042,9 @@
       }
     },
     "level": 29,
-    "achievements": {},
+    "achievements": {
+      "3940070": []
+    },
     "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 412313,
@@ -3840,7 +3842,9 @@
       }
     },
     "level": 10,
-    "achievements": {},
+    "achievements": {
+      "1337010": []
+    },
     "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 40008,
@@ -6945,7 +6949,16 @@
       }
     },
     "level": 37,
-    "achievements": {},
+    "achievements": {
+      "397540": [],
+      "1422450": [],
+      "1850570": [],
+      "2747330": [],
+      "3041230": [],
+      "3321460": [],
+      "3527290": [],
+      "3892270": []
+    },
     "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 568969,
@@ -7848,7 +7861,11 @@
       }
     },
     "level": 19,
-    "achievements": {},
+    "achievements": {
+      "1422450": [],
+      "2694490": [],
+      "3041230": []
+    },
     "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 404783,
