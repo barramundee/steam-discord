@@ -1,1 +1,8358 @@
-{}
+{
+  "76561199040518497": {
+    "games": {
+      "220": {
+        "playtime": 0,
+        "name": "Half-Life 2"
+      },
+      "320": {
+        "playtime": 0,
+        "name": "Half-Life 2: Deathmatch"
+      },
+      "360": {
+        "playtime": 0,
+        "name": "Half-Life Deathmatch: Source"
+      },
+      "620": {
+        "playtime": 590,
+        "name": "Portal 2"
+      },
+      "3483": {
+        "playtime": 116,
+        "name": "Peggle Extreme"
+      },
+      "238320": {
+        "playtime": 47,
+        "name": "Outlast"
+      },
+      "242760": {
+        "playtime": 0,
+        "name": "The Forest"
+      },
+      "282800": {
+        "playtime": 0,
+        "name": "100% Orange Juice"
+      },
+      "341800": {
+        "playtime": 28,
+        "name": "Keep Talking and Nobody Explodes"
+      },
+      "377160": {
+        "playtime": 525,
+        "name": "Fallout 4"
+      },
+      "379720": {
+        "playtime": 0,
+        "name": "DOOM"
+      },
+      "383870": {
+        "playtime": 218,
+        "name": "Firewatch"
+      },
+      "409710": {
+        "playtime": 0,
+        "name": "BioShock Remastered"
+      },
+      "413150": {
+        "playtime": 4235,
+        "name": "Stardew Valley"
+      },
+      "418370": {
+        "playtime": 161,
+        "name": "Resident Evil 7 Biohazard"
+      },
+      "418670": {
+        "playtime": 0,
+        "name": "Pankapu"
+      },
+      "427410": {
+        "playtime": 1533,
+        "name": "Abiotic Factor"
+      },
+      "442070": {
+        "playtime": 47,
+        "name": "Drawful 2"
+      },
+      "489630": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Gladius - Relics of War"
+      },
+      "501300": {
+        "playtime": 139,
+        "name": "What Remains of Edith Finch"
+      },
+      "548430": {
+        "playtime": 64,
+        "name": "Deep Rock Galactic"
+      },
+      "582500": {
+        "playtime": 120,
+        "name": "We Were Here"
+      },
+      "582660": {
+        "playtime": 0,
+        "name": "Black Desert"
+      },
+      "599140": {
+        "playtime": 0,
+        "name": "Graveyard Keeper"
+      },
+      "613100": {
+        "playtime": 52,
+        "name": "House Flipper"
+      },
+      "677160": {
+        "playtime": 151,
+        "name": "We Were Here Too"
+      },
+      "683320": {
+        "playtime": 453,
+        "name": "GRIS"
+      },
+      "702670": {
+        "playtime": 162,
+        "name": "Donut County"
+      },
+      "739630": {
+        "playtime": 371,
+        "name": "Phasmophobia"
+      },
+      "865360": {
+        "playtime": 0,
+        "name": "We Were Here Together"
+      },
+      "960090": {
+        "playtime": 7175,
+        "name": "Bloons TD 6"
+      },
+      "972660": {
+        "playtime": 112,
+        "name": "Spiritfarer®: Farewell Edition"
+      },
+      "990630": {
+        "playtime": 303,
+        "name": "The Last Campfire"
+      },
+      "1056610": {
+        "playtime": 90,
+        "name": "Heal"
+      },
+      "1082430": {
+        "playtime": 0,
+        "name": "Before Your Eyes"
+      },
+      "1097100": {
+        "playtime": 190,
+        "name": "Please, Touch The Artwork"
+      },
+      "1118240": {
+        "playtime": 0,
+        "name": "Lake"
+      },
+      "1134700": {
+        "playtime": 0,
+        "name": "Wild Terra 2: New Lands"
+      },
+      "1140270": {
+        "playtime": 2,
+        "name": "Monster Prom 2: Monster Camp"
+      },
+      "1172450": {
+        "playtime": 0,
+        "name": "Carto"
+      },
+      "1180660": {
+        "playtime": 0,
+        "name": "Tell Me Why"
+      },
+      "1210320": {
+        "playtime": 93,
+        "name": "Potion Craft: Alchemist Simulator"
+      },
+      "1284190": {
+        "playtime": 1109,
+        "name": "The Planet Crafter"
+      },
+      "1296610": {
+        "playtime": 114,
+        "name": "Peglin"
+      },
+      "1307580": {
+        "playtime": 648,
+        "name": "TOEM"
+      },
+      "1337010": {
+        "playtime": 315,
+        "name": "Alba: A Wildlife Adventure"
+      },
+      "1341290": {
+        "playtime": 0,
+        "name": "We Were Here Forever"
+      },
+      "1422450": {
+        "playtime": 0,
+        "name": "Deadlock"
+      },
+      "1507190": {
+        "playtime": 0,
+        "name": "Machinika Museum"
+      },
+      "1586800": {
+        "playtime": 0,
+        "name": "Lil Gator Game"
+      },
+      "1629520": {
+        "playtime": 482,
+        "name": "A Little to the Left"
+      },
+      "1730700": {
+        "playtime": 1648,
+        "name": "We Love Katamari REROLL+ Royal Reverie"
+      },
+      "1754850": {
+        "playtime": 180,
+        "name": "The Planet Crafter Demo"
+      },
+      "1896700": {
+        "playtime": 2510,
+        "name": "Wylde Flowers"
+      },
+      "1985690": {
+        "playtime": 94,
+        "name": "The Looker"
+      },
+      "2071500": {
+        "playtime": 0,
+        "name": "Islands of Insight"
+      },
+      "2113850": {
+        "playtime": 18,
+        "name": "Spirit City: Lofi Sessions"
+      },
+      "2296990": {
+        "playtime": 0,
+        "name": "We Were Here Expeditions: The FriendShip"
+      },
+      "2303350": {
+        "playtime": 48,
+        "name": "Sticky Business"
+      },
+      "2313250": {
+        "playtime": 10,
+        "name": "Travellin Cats in Paris"
+      },
+      "2366980": {
+        "playtime": 159,
+        "name": "Thank Goodness You're Here!"
+      },
+      "2666510": {
+        "playtime": 0,
+        "name": "Rusty's Retirement"
+      },
+      "2678990": {
+        "playtime": 428,
+        "name": "Minami Lane"
+      },
+      "2709570": {
+        "playtime": 744,
+        "name": "Supermarket Together"
+      },
+      "2754380": {
+        "playtime": 0,
+        "name": "The Roottrees are Dead"
+      },
+      "2796010": {
+        "playtime": 0,
+        "name": "Party Club"
+      },
+      "2881650": {
+        "playtime": 44,
+        "name": "Content Warning"
+      },
+      "2920570": {
+        "playtime": 149,
+        "name": "Dale & Dawson Stationery Supplies"
+      },
+      "2935040": {
+        "playtime": 25,
+        "name": "Galaxy Burger Demo"
+      },
+      "3002280": {
+        "playtime": 58,
+        "name": "Tiny Bookshop Demo"
+      },
+      "3144950": {
+        "playtime": 0,
+        "name": "Pet Lands"
+      },
+      "3241660": {
+        "playtime": 491,
+        "name": "R.E.P.O."
+      },
+      "3405340": {
+        "playtime": 1594,
+        "name": "Megabonk"
+      },
+      "3419430": {
+        "playtime": 11228,
+        "name": "Bongo Cat"
+      },
+      "3461780": {
+        "playtime": 42,
+        "name": "Is This Seat Taken? Demo"
+      },
+      "3527290": {
+        "playtime": 893,
+        "name": "PEAK"
+      }
+    },
+    "level": 10,
+    "achievements": {
+      "1337010": []
+    },
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 40008,
+    "weeklyTopGame": "Alba: A Wildlife Adventure",
+    "weeklyAchievements": 0
+  },
+  "76561198197833939": {
+    "games": {
+      "70": {
+        "playtime": 0,
+        "name": "Half-Life"
+      },
+      "220": {
+        "playtime": 0,
+        "name": "Half-Life 2"
+      },
+      "320": {
+        "playtime": 0,
+        "name": "Half-Life 2: Deathmatch"
+      },
+      "360": {
+        "playtime": 0,
+        "name": "Half-Life Deathmatch: Source"
+      },
+      "400": {
+        "playtime": 0,
+        "name": "Portal"
+      },
+      "620": {
+        "playtime": 0,
+        "name": "Portal 2"
+      },
+      "2210": {
+        "playtime": 0,
+        "name": "Quake 4"
+      },
+      "3700": {
+        "playtime": 0,
+        "name": "Sniper Elite"
+      },
+      "7670": {
+        "playtime": 0,
+        "name": "BioShock"
+      },
+      "8850": {
+        "playtime": 0,
+        "name": "BioShock 2"
+      },
+      "8870": {
+        "playtime": 0,
+        "name": "BioShock Infinite"
+      },
+      "21670": {
+        "playtime": 0,
+        "name": "Bionic Commando"
+      },
+      "21690": {
+        "playtime": 0,
+        "name": "Resident Evil 5"
+      },
+      "22380": {
+        "playtime": 0,
+        "name": "Fallout: New Vegas"
+      },
+      "25000": {
+        "playtime": 0,
+        "name": "Overgrowth"
+      },
+      "45740": {
+        "playtime": 0,
+        "name": "Dead Rising 2"
+      },
+      "63380": {
+        "playtime": 0,
+        "name": "Sniper Elite V2"
+      },
+      "63500": {
+        "playtime": 0,
+        "name": "Swords and Soldiers HD"
+      },
+      "71340": {
+        "playtime": 0,
+        "name": "Sonic Generations"
+      },
+      "98400": {
+        "playtime": 0,
+        "name": "Hard Reset"
+      },
+      "99300": {
+        "playtime": 0,
+        "name": "Renegade Ops"
+      },
+      "115800": {
+        "playtime": 0,
+        "name": "Owlboy"
+      },
+      "203160": {
+        "playtime": 0,
+        "name": "Tomb Raider"
+      },
+      "203770": {
+        "playtime": 0,
+        "name": "Crusader Kings II"
+      },
+      "209000": {
+        "playtime": 0,
+        "name": "Batman™: Arkham Origins"
+      },
+      "209670": {
+        "playtime": 0,
+        "name": "Cortex Command"
+      },
+      "212680": {
+        "playtime": 0,
+        "name": "FTL: Faster Than Light"
+      },
+      "213610": {
+        "playtime": 0,
+        "name": "Sonic Adventure™ 2 "
+      },
+      "213670": {
+        "playtime": 0,
+        "name": "South Park™: The Stick of Truth™"
+      },
+      "214340": {
+        "playtime": 0,
+        "name": "Deponia"
+      },
+      "215690": {
+        "playtime": 0,
+        "name": "Zeno Clash 2"
+      },
+      "218620": {
+        "playtime": 0,
+        "name": "PAYDAY 2"
+      },
+      "220200": {
+        "playtime": 0,
+        "name": "Kerbal Space Program"
+      },
+      "222480": {
+        "playtime": 0,
+        "name": "Resident Evil Revelations"
+      },
+      "223850": {
+        "playtime": 0,
+        "name": "3DMark"
+      },
+      "230230": {
+        "playtime": 0,
+        "name": "Divinity: Original Sin (Classic)"
+      },
+      "231430": {
+        "playtime": 0,
+        "name": "Company of Heroes 2"
+      },
+      "236850": {
+        "playtime": 0,
+        "name": "Europa Universalis IV"
+      },
+      "236870": {
+        "playtime": 0,
+        "name": "HITMAN™"
+      },
+      "240720": {
+        "playtime": 0,
+        "name": "Getting Over It with Bennett Foddy"
+      },
+      "241930": {
+        "playtime": 0,
+        "name": "Middle-earth™: Shadow of Mordor™"
+      },
+      "242640": {
+        "playtime": 0,
+        "name": "Styx: Master of Shadows"
+      },
+      "251060": {
+        "playtime": 0,
+        "name": "Wargame: Red Dragon"
+      },
+      "251130": {
+        "playtime": 0,
+        "name": "Chroma Squad"
+      },
+      "254700": {
+        "playtime": 0,
+        "name": "Resident Evil 4 (2005)"
+      },
+      "255710": {
+        "playtime": 0,
+        "name": "Cities: Skylines"
+      },
+      "258910": {
+        "playtime": 0,
+        "name": "Citizens of Earth"
+      },
+      "261510": {
+        "playtime": 0,
+        "name": "Tesla Effect"
+      },
+      "262470": {
+        "playtime": 0,
+        "name": "Rollers of the Realm"
+      },
+      "265930": {
+        "playtime": 0,
+        "name": "Goat Simulator"
+      },
+      "266510": {
+        "playtime": 0,
+        "name": "Hand of Fate"
+      },
+      "268870": {
+        "playtime": 0,
+        "name": "Satellite Reign"
+      },
+      "271590": {
+        "playtime": 0,
+        "name": "Grand Theft Auto V Legacy"
+      },
+      "273350": {
+        "playtime": 0,
+        "name": "Evolve Stage 2"
+      },
+      "275850": {
+        "playtime": 0,
+        "name": "No Man's Sky"
+      },
+      "276810": {
+        "playtime": 0,
+        "name": "Mordheim: City of the Damned"
+      },
+      "280160": {
+        "playtime": 0,
+        "name": "Aragami"
+      },
+      "281990": {
+        "playtime": 0,
+        "name": "Stellaris"
+      },
+      "285190": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Dawn of War III"
+      },
+      "286160": {
+        "playtime": 0,
+        "name": "Tabletop Simulator"
+      },
+      "287700": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+      },
+      "289070": {
+        "playtime": 0,
+        "name": "Sid Meier's Civilization VI"
+      },
+      "292030": {
+        "playtime": 0,
+        "name": "The Witcher 3: Wild Hunt"
+      },
+      "293780": {
+        "playtime": 0,
+        "name": "Crawl"
+      },
+      "300550": {
+        "playtime": 0,
+        "name": "Shadowrun: Dragonfall - Director's Cut"
+      },
+      "301970": {
+        "playtime": 0,
+        "name": "Screencheat"
+      },
+      "303210": {
+        "playtime": 0,
+        "name": "The Beginner's Guide"
+      },
+      "305620": {
+        "playtime": 0,
+        "name": "The Long Dark"
+      },
+      "306130": {
+        "playtime": 0,
+        "name": "The Elder Scrolls Online"
+      },
+      "307690": {
+        "playtime": 0,
+        "name": "Sleeping Dogs: Definitive Edition"
+      },
+      "308060": {
+        "playtime": 0,
+        "name": "Black The Fall"
+      },
+      "310560": {
+        "playtime": 0,
+        "name": "DiRT Rally"
+      },
+      "311340": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES"
+      },
+      "312660": {
+        "playtime": 0,
+        "name": "Sniper Elite 4"
+      },
+      "314790": {
+        "playtime": 0,
+        "name": "Silence"
+      },
+      "315210": {
+        "playtime": 0,
+        "name": "Suicide Squad: Kill the Justice League"
+      },
+      "319630": {
+        "playtime": 0,
+        "name": "Life is Strange™"
+      },
+      "324740": {
+        "playtime": 0,
+        "name": "The Warlock of Firetop Mountain"
+      },
+      "327890": {
+        "playtime": 0,
+        "name": "I Am Bread"
+      },
+      "329050": {
+        "playtime": 0,
+        "name": "Devil May Cry 4 Special Edition"
+      },
+      "330830": {
+        "playtime": 0,
+        "name": "Tales from the Borderlands"
+      },
+      "331870": {
+        "playtime": 0,
+        "name": "AER Memories of Old"
+      },
+      "334230": {
+        "playtime": 0,
+        "name": "Town of Salem"
+      },
+      "337000": {
+        "playtime": 0,
+        "name": "Deus Ex: Mankind Divided™"
+      },
+      "341800": {
+        "playtime": 0,
+        "name": "Keep Talking and Nobody Explodes"
+      },
+      "343860": {
+        "playtime": 0,
+        "name": "Tacoma"
+      },
+      "346010": {
+        "playtime": 0,
+        "name": "Besiege"
+      },
+      "351510": {
+        "playtime": 0,
+        "name": "Quiplash"
+      },
+      "351920": {
+        "playtime": 0,
+        "name": "Crazy Machines 3"
+      },
+      "355790": {
+        "playtime": 0,
+        "name": "Styx: Shards of Darkness"
+      },
+      "356190": {
+        "playtime": 0,
+        "name": "Middle-earth™: Shadow of War™"
+      },
+      "359320": {
+        "playtime": 0,
+        "name": "Elite Dangerous"
+      },
+      "359550": {
+        "playtime": 0,
+        "name": "Tom Clancy's Rainbow Six Siege"
+      },
+      "360430": {
+        "playtime": 0,
+        "name": "Mafia III: Definitive Edition"
+      },
+      "363440": {
+        "playtime": 0,
+        "name": "Mega Man Legacy Collection"
+      },
+      "365450": {
+        "playtime": 0,
+        "name": "Hacknet"
+      },
+      "366320": {
+        "playtime": 0,
+        "name": "Seasons after Fall"
+      },
+      "373420": {
+        "playtime": 0,
+        "name": "Divinity: Original Sin Enhanced Edition"
+      },
+      "374320": {
+        "playtime": 0,
+        "name": "DARK SOULS™ III"
+      },
+      "377160": {
+        "playtime": 0,
+        "name": "Fallout 4"
+      },
+      "383980": {
+        "playtime": 0,
+        "name": "Rivals of Aether"
+      },
+      "388750": {
+        "playtime": 0,
+        "name": "BlazBlue: Chronophantasma Extend"
+      },
+      "391220": {
+        "playtime": 0,
+        "name": "Rise of the Tomb Raider"
+      },
+      "392160": {
+        "playtime": 0,
+        "name": "X4: Foundations"
+      },
+      "393420": {
+        "playtime": 0,
+        "name": "Hurtworld"
+      },
+      "394360": {
+        "playtime": 0,
+        "name": "Hearts of Iron IV"
+      },
+      "397950": {
+        "playtime": 0,
+        "name": "Clustertruck"
+      },
+      "403640": {
+        "playtime": 0,
+        "name": "Dishonored 2"
+      },
+      "403970": {
+        "playtime": 0,
+        "name": "The Dwarves"
+      },
+      "404540": {
+        "playtime": 0,
+        "name": "Nex Machina"
+      },
+      "407810": {
+        "playtime": 0,
+        "name": "Hard Reset Redux"
+      },
+      "409710": {
+        "playtime": 0,
+        "name": "BioShock Remastered"
+      },
+      "409720": {
+        "playtime": 0,
+        "name": "BioShock 2 Remastered"
+      },
+      "410320": {
+        "playtime": 0,
+        "name": "EARTH DEFENSE FORCE 4.1  The Shadow of New Despair"
+      },
+      "412830": {
+        "playtime": 0,
+        "name": "STEINS;GATE"
+      },
+      "415200": {
+        "playtime": 0,
+        "name": "Motorsport Manager"
+      },
+      "418240": {
+        "playtime": 0,
+        "name": "Shadow Tactics: Blades of the Shogun"
+      },
+      "423230": {
+        "playtime": 0,
+        "name": "Furi"
+      },
+      "427190": {
+        "playtime": 0,
+        "name": "Dead Rising"
+      },
+      "429660": {
+        "playtime": 0,
+        "name": "Tales of Berseria"
+      },
+      "431240": {
+        "playtime": 0,
+        "name": "Golf With Your Friends"
+      },
+      "431960": {
+        "playtime": 0,
+        "name": "Wallpaper Engine"
+      },
+      "433850": {
+        "playtime": 0,
+        "name": "Z1 Battle Royale"
+      },
+      "435150": {
+        "playtime": 0,
+        "name": "Divinity: Original Sin 2"
+      },
+      "435530": {
+        "playtime": 0,
+        "name": "The Final Station"
+      },
+      "438270": {
+        "playtime": 0,
+        "name": "Learn Japanese To Survive - Hiragana Battle"
+      },
+      "438490": {
+        "playtime": 0,
+        "name": "GOD EATER 2 Rage Burst"
+      },
+      "439700": {
+        "playtime": 0,
+        "name": "H1Z1: Test Server"
+      },
+      "441380": {
+        "playtime": 0,
+        "name": "PAC-MAN™ CHAMPIONSHIP EDITION 2"
+      },
+      "442780": {
+        "playtime": 0,
+        "name": "STRAFE: Gold Edition"
+      },
+      "445980": {
+        "playtime": 0,
+        "name": "Wizard of Legend"
+      },
+      "448510": {
+        "playtime": 0,
+        "name": "Overcooked"
+      },
+      "460870": {
+        "playtime": 0,
+        "name": "GOD EATER RESURRECTION"
+      },
+      "464170": {
+        "playtime": 0,
+        "name": "VRMark"
+      },
+      "466560": {
+        "playtime": 0,
+        "name": "Northgard: Definitive Edition"
+      },
+      "473690": {
+        "playtime": 0,
+        "name": "Absolver"
+      },
+      "474960": {
+        "playtime": 0,
+        "name": "Quantum Break"
+      },
+      "475190": {
+        "playtime": 0,
+        "name": "Scanner Sombre"
+      },
+      "475550": {
+        "playtime": 0,
+        "name": "Beholder"
+      },
+      "489140": {
+        "playtime": 0,
+        "name": "Mr Shifty"
+      },
+      "491950": {
+        "playtime": 0,
+        "name": "Orwell"
+      },
+      "501320": {
+        "playtime": 0,
+        "name": "The Shrouded Isle"
+      },
+      "502500": {
+        "playtime": 0,
+        "name": "ACE COMBAT™7: SKIES UNKNOWN"
+      },
+      "503560": {
+        "playtime": 0,
+        "name": "911 Operator"
+      },
+      "504210": {
+        "playtime": 0,
+        "name": "SHENZHEN I/O"
+      },
+      "504230": {
+        "playtime": 0,
+        "name": "Celeste"
+      },
+      "508440": {
+        "playtime": 0,
+        "name": "Totally Accurate Battle Simulator"
+      },
+      "512300": {
+        "playtime": 0,
+        "name": "Unbox"
+      },
+      "523780": {
+        "playtime": 0,
+        "name": "Emily is Away Too"
+      },
+      "524390": {
+        "playtime": 0,
+        "name": "PCMark 10"
+      },
+      "529340": {
+        "playtime": 0,
+        "name": "Victoria 3"
+      },
+      "530020": {
+        "playtime": 0,
+        "name": "World to the West"
+      },
+      "534290": {
+        "playtime": 0,
+        "name": "Cursed Castilla (Maldita Castilla EX)"
+      },
+      "537800": {
+        "playtime": 0,
+        "name": "Bomber Crew"
+      },
+      "540840": {
+        "playtime": 0,
+        "name": "Lara Croft GO"
+      },
+      "543460": {
+        "playtime": 0,
+        "name": "Dead Rising 4"
+      },
+      "544330": {
+        "playtime": 0,
+        "name": "Snake Pass"
+      },
+      "546560": {
+        "playtime": 0,
+        "name": "Half-Life: Alyx"
+      },
+      "552500": {
+        "playtime": 0,
+        "name": "Warhammer: Vermintide 2"
+      },
+      "552590": {
+        "playtime": 0,
+        "name": "The Sexy Brutale"
+      },
+      "579760": {
+        "playtime": 0,
+        "name": "The Journey Down: Chapter Three"
+      },
+      "582010": {
+        "playtime": 0,
+        "name": "Monster Hunter: World"
+      },
+      "582550": {
+        "playtime": 0,
+        "name": "Passpartout: The Starving Artist"
+      },
+      "582660": {
+        "playtime": 0,
+        "name": "Black Desert"
+      },
+      "599140": {
+        "playtime": 0,
+        "name": "Graveyard Keeper"
+      },
+      "611500": {
+        "playtime": 0,
+        "name": "Quake Champions"
+      },
+      "613100": {
+        "playtime": 0,
+        "name": "House Flipper"
+      },
+      "613830": {
+        "playtime": 0,
+        "name": "CHRONO TRIGGER"
+      },
+      "623940": {
+        "playtime": 0,
+        "name": "HIVESWAP: ACT 1"
+      },
+      "623990": {
+        "playtime": 0,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server"
+      },
+      "632470": {
+        "playtime": 0,
+        "name": "Disco Elysium"
+      },
+      "638970": {
+        "playtime": 0,
+        "name": "Yakuza 0"
+      },
+      "646570": {
+        "playtime": 0,
+        "name": "Slay the Spire"
+      },
+      "686600": {
+        "playtime": 0,
+        "name": "Rapture Rejects"
+      },
+      "696480": {
+        "playtime": 0,
+        "name": "The Norwood Suite"
+      },
+      "700600": {
+        "playtime": 0,
+        "name": "Evil Genius 2"
+      },
+      "718670": {
+        "playtime": 0,
+        "name": "Cultist Simulator"
+      },
+      "728880": {
+        "playtime": 0,
+        "name": "Overcooked! 2"
+      },
+      "737800": {
+        "playtime": 0,
+        "name": "F1 2018"
+      },
+      "750920": {
+        "playtime": 0,
+        "name": "Shadow of the Tomb Raider"
+      },
+      "760060": {
+        "playtime": 0,
+        "name": "Mutant Year Zero: Road to Eden"
+      },
+      "761620": {
+        "playtime": 0,
+        "name": "Beholder 2"
+      },
+      "774201": {
+        "playtime": 0,
+        "name": "Heaven's Vault"
+      },
+      "794260": {
+        "playtime": 0,
+        "name": "Outward"
+      },
+      "826600": {
+        "playtime": 0,
+        "name": "I’m not a Monster"
+      },
+      "834530": {
+        "playtime": 0,
+        "name": "Yakuza Kiwami (Legacy)"
+      },
+      "874260": {
+        "playtime": 0,
+        "name": "The Forgotten City"
+      },
+      "920210": {
+        "playtime": 0,
+        "name": "LEGO® Star Wars™: The Skywalker Saga"
+      },
+      "927380": {
+        "playtime": 0,
+        "name": "Yakuza Kiwami 2 (Legacy)"
+      },
+      "954850": {
+        "playtime": 0,
+        "name": "Kerbal Space Program 2"
+      },
+      "956680": {
+        "playtime": 0,
+        "name": "M.A.S.S. Builder"
+      },
+      "960990": {
+        "playtime": 0,
+        "name": "Beyond: Two Souls"
+      },
+      "972660": {
+        "playtime": 0,
+        "name": "Spiritfarer®: Farewell Edition"
+      },
+      "990080": {
+        "playtime": 0,
+        "name": "Hogwarts Legacy"
+      },
+      "993090": {
+        "playtime": 0,
+        "name": "Lossless Scaling"
+      },
+      "1085660": {
+        "playtime": 0,
+        "name": "Destiny 2"
+      },
+      "1086940": {
+        "playtime": 0,
+        "name": "Baldur's Gate 3"
+      },
+      "1088710": {
+        "playtime": 0,
+        "name": "Yakuza 3 Remastered"
+      },
+      "1088850": {
+        "playtime": 0,
+        "name": "Marvel's Guardians of the Galaxy"
+      },
+      "1091500": {
+        "playtime": 0,
+        "name": "Cyberpunk 2077"
+      },
+      "1105500": {
+        "playtime": 0,
+        "name": "Yakuza 4 Remastered"
+      },
+      "1105510": {
+        "playtime": 0,
+        "name": "Yakuza 5 Remastered"
+      },
+      "1145360": {
+        "playtime": 0,
+        "name": "Hades"
+      },
+      "1151640": {
+        "playtime": 0,
+        "name": "Horizon Zero Dawn™ Complete Edition"
+      },
+      "1172380": {
+        "playtime": 0,
+        "name": "STAR WARS Jedi: Fallen Order™ "
+      },
+      "1184370": {
+        "playtime": 0,
+        "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+      },
+      "1237970": {
+        "playtime": 0,
+        "name": "Titanfall® 2"
+      },
+      "1277400": {
+        "playtime": 0,
+        "name": "Monster Hunter Stories 2: Wings of Ruin"
+      },
+      "1286680": {
+        "playtime": 0,
+        "name": "Tiny Tina's Wonderlands"
+      },
+      "1388590": {
+        "playtime": 0,
+        "name": "Yakuza 6: The Song of Life"
+      },
+      "1422450": {
+        "playtime": 0,
+        "name": "Deadlock"
+      },
+      "1426210": {
+        "playtime": 0,
+        "name": "It Takes Two"
+      },
+      "1454400": {
+        "playtime": 0,
+        "name": "Cookie Clicker"
+      },
+      "1496790": {
+        "playtime": 0,
+        "name": "Gotham Knights"
+      },
+      "1517290": {
+        "playtime": 0,
+        "name": "Battlefield™ 2042"
+      },
+      "1623730": {
+        "playtime": 0,
+        "name": "Palworld"
+      },
+      "1681430": {
+        "playtime": 0,
+        "name": "RoboCop: Rogue City"
+      },
+      "1712840": {
+        "playtime": 0,
+        "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure"
+      },
+      "1716740": {
+        "playtime": 0,
+        "name": "Starfield"
+      },
+      "1774580": {
+        "playtime": 0,
+        "name": "STAR WARS Jedi: Survivor™"
+      },
+      "1778820": {
+        "playtime": 0,
+        "name": "TEKKEN 8"
+      },
+      "2009100": {
+        "playtime": 0,
+        "name": "Immortals of Aveum™"
+      },
+      "2246340": {
+        "playtime": 0,
+        "name": "Monster Hunter Wilds"
+      },
+      "2356560": {
+        "playtime": 0,
+        "name": "Monster Hunter Stories"
+      },
+      "2420110": {
+        "playtime": 0,
+        "name": "Horizon Forbidden West™ Complete Edition"
+      },
+      "2527500": {
+        "playtime": 0,
+        "name": "MiSide"
+      },
+      "2561580": {
+        "playtime": 0,
+        "name": "Horizon Zero Dawn™ Remastered"
+      },
+      "2567870": {
+        "playtime": 0,
+        "name": "Chained Together"
+      },
+      "2592160": {
+        "playtime": 0,
+        "name": "Dispatch"
+      },
+      "3144950": {
+        "playtime": 0,
+        "name": "Pet Lands"
+      },
+      "3240220": {
+        "playtime": 0,
+        "name": "Grand Theft Auto V Enhanced"
+      },
+      "3241660": {
+        "playtime": 0,
+        "name": "R.E.P.O."
+      },
+      "3478050": {
+        "playtime": 0,
+        "name": "Road to Empress I"
+      },
+      "3527290": {
+        "playtime": 0,
+        "name": "PEAK"
+      },
+      "3717340": {
+        "playtime": 0,
+        "name": "Yakuza Kiwami 2"
+      },
+      "3949040": {
+        "playtime": 0,
+        "name": "RV There Yet?"
+      }
+    },
+    "level": 16,
+    "achievements": {},
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 0,
+    "weeklyTopGame": null,
+    "weeklyAchievements": 0
+  },
+  "76561198067569007": {
+    "games": {
+      "70": {
+        "playtime": 0,
+        "name": "Half-Life"
+      },
+      "570": {
+        "playtime": 0,
+        "name": "Dota 2"
+      },
+      "730": {
+        "playtime": 0,
+        "name": "Counter-Strike 2"
+      },
+      "4000": {
+        "playtime": 0,
+        "name": "Garry's Mod"
+      },
+      "15100": {
+        "playtime": 0,
+        "name": "Assassin's Creed"
+      },
+      "17480": {
+        "playtime": 0,
+        "name": "Command & Conquer™ Red Alert™ 3"
+      },
+      "24790": {
+        "playtime": 0,
+        "name": "Command & Conquer 3: Tiberium Wars™"
+      },
+      "24800": {
+        "playtime": 0,
+        "name": "Command & Conquer™ Red Alert™ 3 - Uprising"
+      },
+      "24810": {
+        "playtime": 0,
+        "name": "Command & Conquer 3: Kane's Wrath™"
+      },
+      "33230": {
+        "playtime": 0,
+        "name": "Assassin's Creed II"
+      },
+      "38400": {
+        "playtime": 0,
+        "name": "Fallout"
+      },
+      "40990": {
+        "playtime": 0,
+        "name": "Mafia"
+      },
+      "43160": {
+        "playtime": 0,
+        "name": "Metro: Last Light Complete Edition"
+      },
+      "47700": {
+        "playtime": 0,
+        "name": "Command & Conquer™ 4 Tiberian Twilight"
+      },
+      "57300": {
+        "playtime": 0,
+        "name": "Amnesia: The Dark Descent"
+      },
+      "67370": {
+        "playtime": 0,
+        "name": "The Darkness II"
+      },
+      "105600": {
+        "playtime": 0,
+        "name": "Terraria"
+      },
+      "203770": {
+        "playtime": 0,
+        "name": "Crusader Kings II"
+      },
+      "203810": {
+        "playtime": 0,
+        "name": "Dear Esther"
+      },
+      "208480": {
+        "playtime": 0,
+        "name": "Assassin's Creed® III"
+      },
+      "214340": {
+        "playtime": 0,
+        "name": "Deponia"
+      },
+      "218620": {
+        "playtime": 0,
+        "name": "PAYDAY 2"
+      },
+      "220780": {
+        "playtime": 0,
+        "name": "Thomas Was Alone"
+      },
+      "226700": {
+        "playtime": 0,
+        "name": "Infestation: The New Beginning"
+      },
+      "228280": {
+        "playtime": 0,
+        "name": "Baldur's Gate: Enhanced Edition"
+      },
+      "239200": {
+        "playtime": 0,
+        "name": "Amnesia: A Machine for Pigs"
+      },
+      "252490": {
+        "playtime": 0,
+        "name": "Rust"
+      },
+      "257350": {
+        "playtime": 0,
+        "name": "Baldur's Gate II: Enhanced Edition"
+      },
+      "275850": {
+        "playtime": 0,
+        "name": "No Man's Sky"
+      },
+      "282800": {
+        "playtime": 0,
+        "name": "100% Orange Juice"
+      },
+      "286690": {
+        "playtime": 0,
+        "name": "Metro 2033 Redux"
+      },
+      "287100": {
+        "playtime": 0,
+        "name": "Chaos Domain"
+      },
+      "287390": {
+        "playtime": 0,
+        "name": "Metro: Last Light Redux"
+      },
+      "297020": {
+        "playtime": 0,
+        "name": "The Culling Of The Cows"
+      },
+      "312840": {
+        "playtime": 0,
+        "name": "Fahrenheit: Indigo Prophecy Remastered"
+      },
+      "321800": {
+        "playtime": 0,
+        "name": "Icewind Dale: Enhanced Edition"
+      },
+      "367450": {
+        "playtime": 0,
+        "name": "Poly Bridge"
+      },
+      "368230": {
+        "playtime": 0,
+        "name": "Kingdom: Classic"
+      },
+      "384310": {
+        "playtime": 0,
+        "name": "Dead In Bermuda"
+      },
+      "410110": {
+        "playtime": 0,
+        "name": "12 is Better Than 6"
+      },
+      "412020": {
+        "playtime": 0,
+        "name": "Metro Exodus"
+      },
+      "413150": {
+        "playtime": 0,
+        "name": "Stardew Valley"
+      },
+      "418270": {
+        "playtime": 0,
+        "name": "Draw Slasher"
+      },
+      "424840": {
+        "playtime": 0,
+        "name": "Little Nightmares"
+      },
+      "427410": {
+        "playtime": 0,
+        "name": "Abiotic Factor"
+      },
+      "427520": {
+        "playtime": 0,
+        "name": "Factorio"
+      },
+      "439250": {
+        "playtime": 0,
+        "name": "Space Pilgrim Episode III: Delta Pavonis"
+      },
+      "457140": {
+        "playtime": 0,
+        "name": "Oxygen Not Included"
+      },
+      "460960": {
+        "playtime": 0,
+        "name": "The Deed: Dynasty"
+      },
+      "466300": {
+        "playtime": 0,
+        "name": "Planescape: Torment: Enhanced Edition"
+      },
+      "470220": {
+        "playtime": 0,
+        "name": "UNO"
+      },
+      "489520": {
+        "playtime": 0,
+        "name": "Minion Masters"
+      },
+      "489630": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Gladius - Relics of War"
+      },
+      "503560": {
+        "playtime": 0,
+        "name": "911 Operator"
+      },
+      "520720": {
+        "playtime": 0,
+        "name": "Dear Esther: Landmark Edition"
+      },
+      "548430": {
+        "playtime": 0,
+        "name": "Deep Rock Galactic"
+      },
+      "552500": {
+        "playtime": 0,
+        "name": "Warhammer: Vermintide 2"
+      },
+      "553310": {
+        "playtime": 0,
+        "name": "Lethal League Blaze"
+      },
+      "569610": {
+        "playtime": 0,
+        "name": "Distant Space"
+      },
+      "582660": {
+        "playtime": 0,
+        "name": "Black Desert"
+      },
+      "599140": {
+        "playtime": 0,
+        "name": "Graveyard Keeper"
+      },
+      "605230": {
+        "playtime": 0,
+        "name": "Grey Hack"
+      },
+      "613100": {
+        "playtime": 0,
+        "name": "House Flipper"
+      },
+      "632470": {
+        "playtime": 0,
+        "name": "Disco Elysium"
+      },
+      "635850": {
+        "playtime": 0,
+        "name": "Sentience: The Android's Tale"
+      },
+      "640700": {
+        "playtime": 0,
+        "name": "Narvas"
+      },
+      "645630": {
+        "playtime": 0,
+        "name": "Car Mechanic Simulator 2018"
+      },
+      "729720": {
+        "playtime": 0,
+        "name": "Zomborg"
+      },
+      "739630": {
+        "playtime": 0,
+        "name": "Phasmophobia"
+      },
+      "740240": {
+        "playtime": 0,
+        "name": "Snake Eyes Dungeon"
+      },
+      "743390": {
+        "playtime": 0,
+        "name": "DISTRAINT 2"
+      },
+      "862740": {
+        "playtime": 0,
+        "name": "OneShift"
+      },
+      "897630": {
+        "playtime": 0,
+        "name": "Death Fungeon"
+      },
+      "928840": {
+        "playtime": 0,
+        "name": "Cybarian: The Time Travelling Warrior"
+      },
+      "945360": {
+        "playtime": 0,
+        "name": "Among Us"
+      },
+      "960910": {
+        "playtime": 0,
+        "name": "Heavy Rain"
+      },
+      "960990": {
+        "playtime": 0,
+        "name": "Beyond: Two Souls"
+      },
+      "967050": {
+        "playtime": 0,
+        "name": "Pacify"
+      },
+      "978520": {
+        "playtime": 0,
+        "name": "Legend of Keepers"
+      },
+      "1035110": {
+        "playtime": 0,
+        "name": "Moonrise Fall"
+      },
+      "1070580": {
+        "playtime": 0,
+        "name": "Drift86"
+      },
+      "1086940": {
+        "playtime": 0,
+        "name": "Baldur's Gate 3"
+      },
+      "1091500": {
+        "playtime": 0,
+        "name": "Cyberpunk 2077"
+      },
+      "1134700": {
+        "playtime": 0,
+        "name": "Wild Terra 2: New Lands"
+      },
+      "1145360": {
+        "playtime": 0,
+        "name": "Hades"
+      },
+      "1174180": {
+        "playtime": 0,
+        "name": "Red Dead Redemption 2"
+      },
+      "1190340": {
+        "playtime": 0,
+        "name": "SUPER PEOPLE"
+      },
+      "1200580": {
+        "playtime": 0,
+        "name": "One Gun Guy"
+      },
+      "1222140": {
+        "playtime": 0,
+        "name": "Detroit: Become Human"
+      },
+      "1269500": {
+        "playtime": 0,
+        "name": "Crowalt: Traces of the Lost Colony"
+      },
+      "1284190": {
+        "playtime": 0,
+        "name": "The Planet Crafter"
+      },
+      "1332010": {
+        "playtime": 0,
+        "name": "Stray"
+      },
+      "1422450": {
+        "playtime": 0,
+        "name": "Deadlock"
+      },
+      "1426210": {
+        "playtime": 0,
+        "name": "It Takes Two"
+      },
+      "1449560": {
+        "playtime": 0,
+        "name": "Metro Exodus Enhanced Edition"
+      },
+      "1456200": {
+        "playtime": 0,
+        "name": "Initial Drift Online"
+      },
+      "1510580": {
+        "playtime": 0,
+        "name": "Toy Tinker Simulator"
+      },
+      "1634080": {
+        "playtime": 0,
+        "name": "Nocturnal"
+      },
+      "1712840": {
+        "playtime": 0,
+        "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure"
+      },
+      "1755300": {
+        "playtime": 0,
+        "name": "Smart Factory Tycoon"
+      },
+      "1850570": {
+        "playtime": 0,
+        "name": "DEATH STRANDING DIRECTOR'S CUT"
+      },
+      "1868140": {
+        "playtime": 0,
+        "name": "DAVE THE DIVER"
+      },
+      "2149010": {
+        "playtime": 0,
+        "name": "Little Nightmares Enhanced Edition"
+      },
+      "2229830": {
+        "playtime": 0,
+        "name": "Command & Conquer™ and The Covert Operations™"
+      },
+      "2229840": {
+        "playtime": 0,
+        "name": "Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™"
+      },
+      "2229850": {
+        "playtime": 0,
+        "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™"
+      },
+      "2229870": {
+        "playtime": 0,
+        "name": "Command & Conquer™: Generals"
+      },
+      "2229880": {
+        "playtime": 0,
+        "name": "Command & Conquer™ Tiberian Sun™ and Firestorm™"
+      },
+      "2229890": {
+        "playtime": 0,
+        "name": "Command & Conquer™: Renegade"
+      },
+      "2379780": {
+        "playtime": 0,
+        "name": "Balatro"
+      },
+      "2543510": {
+        "playtime": 0,
+        "name": "GUNTOUCHABLES"
+      },
+      "2732960": {
+        "playtime": 0,
+        "name": "Command & Conquer™ Generals Zero Hour"
+      },
+      "2747770": {
+        "playtime": 0,
+        "name": "Wednesdays"
+      },
+      "2792610": {
+        "playtime": 0,
+        "name": "Stickman Killing Zombie"
+      },
+      "3017580": {
+        "playtime": 0,
+        "name": "Paragnosia"
+      },
+      "3098890": {
+        "playtime": 0,
+        "name": "World Crafter TD"
+      },
+      "3527290": {
+        "playtime": 0,
+        "name": "PEAK"
+      },
+      "3948120": {
+        "playtime": 0,
+        "name": "Scritchy Scratchy"
+      }
+    },
+    "level": 11,
+    "achievements": {},
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 0,
+    "weeklyTopGame": null,
+    "weeklyAchievements": 0
+  },
+  "76561198165227407": {
+    "games": {
+      "220": {
+        "playtime": 0,
+        "name": "Half-Life 2"
+      },
+      "320": {
+        "playtime": 0,
+        "name": "Half-Life 2: Deathmatch"
+      },
+      "360": {
+        "playtime": 0,
+        "name": "Half-Life Deathmatch: Source"
+      },
+      "440": {
+        "playtime": 11301,
+        "name": "Team Fortress 2"
+      },
+      "550": {
+        "playtime": 971,
+        "name": "Left 4 Dead 2"
+      },
+      "570": {
+        "playtime": 7461,
+        "name": "Dota 2"
+      },
+      "620": {
+        "playtime": 459,
+        "name": "Portal 2"
+      },
+      "730": {
+        "playtime": 11654,
+        "name": "Counter-Strike 2"
+      },
+      "1250": {
+        "playtime": 253,
+        "name": "Killing Floor"
+      },
+      "3170": {
+        "playtime": 0,
+        "name": "King's Bounty: Armored Princess"
+      },
+      "4560": {
+        "playtime": 0,
+        "name": "Company of Heroes - Legacy Edition"
+      },
+      "7670": {
+        "playtime": 0,
+        "name": "BioShock"
+      },
+      "8850": {
+        "playtime": 0,
+        "name": "BioShock 2"
+      },
+      "8870": {
+        "playtime": 545,
+        "name": "BioShock Infinite"
+      },
+      "15320": {
+        "playtime": 0,
+        "name": "IL-2 Sturmovik: 1946"
+      },
+      "25900": {
+        "playtime": 0,
+        "name": "King's Bounty: The Legend"
+      },
+      "29900": {
+        "playtime": 0,
+        "name": "Dark Sector"
+      },
+      "34010": {
+        "playtime": 0,
+        "name": "Alpha Protocol"
+      },
+      "34270": {
+        "playtime": 137,
+        "name": "SEGA Mega Drive & Genesis Classics"
+      },
+      "34330": {
+        "playtime": 0,
+        "name": "Total War: SHOGUN 2"
+      },
+      "35420": {
+        "playtime": 0,
+        "name": "Killing Floor Mod: Defence Alliance 2"
+      },
+      "35450": {
+        "playtime": 285,
+        "name": "Rising Storm/Red Orchestra 2 Multiplayer"
+      },
+      "35480": {
+        "playtime": 0,
+        "name": "Dwarfs!?"
+      },
+      "42120": {
+        "playtime": 0,
+        "name": "Lead and Gold - Gangs of the Wild West"
+      },
+      "43160": {
+        "playtime": 0,
+        "name": "Metro: Last Light Complete Edition"
+      },
+      "49520": {
+        "playtime": 0,
+        "name": "Borderlands 2"
+      },
+      "55230": {
+        "playtime": 0,
+        "name": "Saints Row: The Third"
+      },
+      "57300": {
+        "playtime": 0,
+        "name": "Amnesia: The Dark Descent"
+      },
+      "63910": {
+        "playtime": 0,
+        "name": "King's Bounty: Crossworlds"
+      },
+      "67370": {
+        "playtime": 0,
+        "name": "The Darkness II"
+      },
+      "99300": {
+        "playtime": 0,
+        "name": "Renegade Ops"
+      },
+      "99900": {
+        "playtime": 321,
+        "name": "Spiral Knights"
+      },
+      "105600": {
+        "playtime": 9961,
+        "name": "Terraria"
+      },
+      "113400": {
+        "playtime": 88,
+        "name": "APB Reloaded"
+      },
+      "115800": {
+        "playtime": 325,
+        "name": "Owlboy"
+      },
+      "203750": {
+        "playtime": 0,
+        "name": "Binary Domain"
+      },
+      "204880": {
+        "playtime": 245,
+        "name": "Sins of a Solar Empire: Rebellion"
+      },
+      "204940": {
+        "playtime": 0,
+        "name": "Crusader Kings Complete"
+      },
+      "205100": {
+        "playtime": 579,
+        "name": "Dishonored"
+      },
+      "208090": {
+        "playtime": 405,
+        "name": "Loadout"
+      },
+      "210970": {
+        "playtime": 0,
+        "name": "The Witness"
+      },
+      "211160": {
+        "playtime": 0,
+        "name": "Viking: Battle for Asgard"
+      },
+      "211820": {
+        "playtime": 680,
+        "name": "Starbound"
+      },
+      "214340": {
+        "playtime": 0,
+        "name": "Deponia"
+      },
+      "214510": {
+        "playtime": 242,
+        "name": "LEGO® The Lord of the Rings™"
+      },
+      "215080": {
+        "playtime": 78,
+        "name": "WAKFU"
+      },
+      "218620": {
+        "playtime": 771,
+        "name": "PAYDAY 2"
+      },
+      "219150": {
+        "playtime": 37,
+        "name": "Hotline Miami"
+      },
+      "219740": {
+        "playtime": 110,
+        "name": "Don't Starve"
+      },
+      "222880": {
+        "playtime": 76,
+        "name": "Insurgency"
+      },
+      "223100": {
+        "playtime": 401,
+        "name": "Homefront: The Revolution"
+      },
+      "225260": {
+        "playtime": 0,
+        "name": "Brütal Legend"
+      },
+      "227300": {
+        "playtime": 0,
+        "name": "Euro Truck Simulator 2"
+      },
+      "228200": {
+        "playtime": 184,
+        "name": "Company of Heroes "
+      },
+      "232090": {
+        "playtime": 215,
+        "name": "Killing Floor 2"
+      },
+      "232890": {
+        "playtime": 769,
+        "name": "Stronghold Crusader 2"
+      },
+      "234390": {
+        "playtime": 0,
+        "name": "Teleglitch: Die More Edition"
+      },
+      "234650": {
+        "playtime": 152,
+        "name": "Shadowrun Returns"
+      },
+      "235900": {
+        "playtime": 0,
+        "name": "RPG Maker XP"
+      },
+      "238960": {
+        "playtime": 3214,
+        "name": "Path of Exile"
+      },
+      "239200": {
+        "playtime": 0,
+        "name": "Amnesia: A Machine for Pigs"
+      },
+      "242700": {
+        "playtime": 0,
+        "name": "Injustice: Gods Among Us Ultimate Edition"
+      },
+      "242720": {
+        "playtime": 41,
+        "name": "GunZ 2: The Second Duel"
+      },
+      "242760": {
+        "playtime": 108,
+        "name": "The Forest"
+      },
+      "244160": {
+        "playtime": 783,
+        "name": "Homeworld Remastered Collection"
+      },
+      "250900": {
+        "playtime": 5335,
+        "name": "The Binding of Isaac: Rebirth"
+      },
+      "251950": {
+        "playtime": 0,
+        "name": "WWII Online"
+      },
+      "252410": {
+        "playtime": 0,
+        "name": "SteamWorld Dig"
+      },
+      "252490": {
+        "playtime": 10026,
+        "name": "Rust"
+      },
+      "257850": {
+        "playtime": 628,
+        "name": "Hyper Light Drifter"
+      },
+      "261570": {
+        "playtime": 0,
+        "name": "Ori and the Blind Forest"
+      },
+      "265590": {
+        "playtime": 185,
+        "name": "The Red Solstice"
+      },
+      "268910": {
+        "playtime": 504,
+        "name": "Cuphead"
+      },
+      "274170": {
+        "playtime": 0,
+        "name": "Hotline Miami 2: Wrong Number"
+      },
+      "278360": {
+        "playtime": 0,
+        "name": "A Story About My Uncle"
+      },
+      "282070": {
+        "playtime": 0,
+        "name": "This War of Mine"
+      },
+      "282800": {
+        "playtime": 0,
+        "name": "100% Orange Juice"
+      },
+      "283880": {
+        "playtime": 0,
+        "name": "Heroine's Quest: The Herald of Ragnarok"
+      },
+      "285160": {
+        "playtime": 1,
+        "name": "LEGO® The Hobbit™"
+      },
+      "286000": {
+        "playtime": 0,
+        "name": "Tooth and Tail"
+      },
+      "286690": {
+        "playtime": 0,
+        "name": "Metro 2033 Redux"
+      },
+      "289070": {
+        "playtime": 2870,
+        "name": "Sid Meier's Civilization VI"
+      },
+      "289130": {
+        "playtime": 0,
+        "name": "ENDLESS™ Legend"
+      },
+      "291390": {
+        "playtime": 218,
+        "name": "Three Dead Zed"
+      },
+      "291550": {
+        "playtime": 6286,
+        "name": "Brawlhalla"
+      },
+      "297130": {
+        "playtime": 0,
+        "name": "Titan Souls"
+      },
+      "303390": {
+        "playtime": 326,
+        "name": "Dead Bits"
+      },
+      "304050": {
+        "playtime": 829,
+        "name": "Trove"
+      },
+      "304390": {
+        "playtime": 254,
+        "name": "FOR HONOR"
+      },
+      "304430": {
+        "playtime": 287,
+        "name": "INSIDE"
+      },
+      "304930": {
+        "playtime": 0,
+        "name": "Unturned"
+      },
+      "308060": {
+        "playtime": 179,
+        "name": "Black The Fall"
+      },
+      "319630": {
+        "playtime": 168,
+        "name": "Life is Strange™"
+      },
+      "319830": {
+        "playtime": 0,
+        "name": "AX:EL"
+      },
+      "321270": {
+        "playtime": 0,
+        "name": "UNLOVED"
+      },
+      "322330": {
+        "playtime": 1811,
+        "name": "Don't Starve Together"
+      },
+      "322500": {
+        "playtime": 66,
+        "name": "SUPERHOT"
+      },
+      "322680": {
+        "playtime": 285,
+        "name": "BLACKHOLE"
+      },
+      "328100": {
+        "playtime": 0,
+        "name": "Gunspell: Steam Edition"
+      },
+      "331480": {
+        "playtime": 0,
+        "name": "Pinstripe"
+      },
+      "343860": {
+        "playtime": 284,
+        "name": "Tacoma"
+      },
+      "345180": {
+        "playtime": 765,
+        "name": "Victor Vran"
+      },
+      "346110": {
+        "playtime": 0,
+        "name": "ARK: Survival Evolved"
+      },
+      "346940": {
+        "playtime": 0,
+        "name": "Shadowrun: Hong Kong - Extended Edition"
+      },
+      "359310": {
+        "playtime": 0,
+        "name": "Evoland 2"
+      },
+      "367520": {
+        "playtime": 6392,
+        "name": "Hollow Knight"
+      },
+      "367540": {
+        "playtime": 0,
+        "name": "Starbound - Unstable"
+      },
+      "368230": {
+        "playtime": 89,
+        "name": "Kingdom: Classic"
+      },
+      "371140": {
+        "playtime": 0,
+        "name": "Aegis Defenders"
+      },
+      "372000": {
+        "playtime": 45,
+        "name": "Tree of Savior (English Ver.)"
+      },
+      "374040": {
+        "playtime": 0,
+        "name": "Portal Knights"
+      },
+      "381210": {
+        "playtime": 4556,
+        "name": "Dead by Daylight"
+      },
+      "383180": {
+        "playtime": 0,
+        "name": "Dead Island Riptide Definitive Edition"
+      },
+      "383870": {
+        "playtime": 190,
+        "name": "Firewatch"
+      },
+      "384310": {
+        "playtime": 0,
+        "name": "Dead In Bermuda"
+      },
+      "386360": {
+        "playtime": 2609,
+        "name": "SMITE"
+      },
+      "387290": {
+        "playtime": 643,
+        "name": "Ori and the Blind Forest: Definitive Edition"
+      },
+      "391540": {
+        "playtime": 99,
+        "name": "Undertale"
+      },
+      "400110": {
+        "playtime": 0,
+        "name": "Else Heart.Break()"
+      },
+      "402390": {
+        "playtime": 0,
+        "name": "Hyperdrive Massacre"
+      },
+      "403640": {
+        "playtime": 960,
+        "name": "Dishonored 2"
+      },
+      "407510": {
+        "playtime": 10,
+        "name": "Devilian"
+      },
+      "407530": {
+        "playtime": 0,
+        "name": "ARK: Survival Of The Fittest"
+      },
+      "409160": {
+        "playtime": 26,
+        "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist"
+      },
+      "409710": {
+        "playtime": 1122,
+        "name": "BioShock Remastered"
+      },
+      "409720": {
+        "playtime": 0,
+        "name": "BioShock 2 Remastered"
+      },
+      "410110": {
+        "playtime": 0,
+        "name": "12 is Better Than 6"
+      },
+      "413150": {
+        "playtime": 6514,
+        "name": "Stardew Valley"
+      },
+      "418670": {
+        "playtime": 0,
+        "name": "Pankapu"
+      },
+      "422100": {
+        "playtime": 212,
+        "name": "Heaven Island Life"
+      },
+      "427410": {
+        "playtime": 6893,
+        "name": "Abiotic Factor"
+      },
+      "438100": {
+        "playtime": 342,
+        "name": "VRChat"
+      },
+      "440950": {
+        "playtime": 0,
+        "name": "Story Of the Survivor"
+      },
+      "442070": {
+        "playtime": 133,
+        "name": "Drawful 2"
+      },
+      "442080": {
+        "playtime": 5536,
+        "name": "Riders of Icarus"
+      },
+      "457140": {
+        "playtime": 823,
+        "name": "Oxygen Not Included"
+      },
+      "460950": {
+        "playtime": 692,
+        "name": "Katana ZERO"
+      },
+      "462960": {
+        "playtime": 90,
+        "name": "Caveman World: Mountains of Unga Boonga"
+      },
+      "464920": {
+        "playtime": 0,
+        "name": "Surviving Mars"
+      },
+      "466240": {
+        "playtime": 39,
+        "name": "Deceit"
+      },
+      "467090": {
+        "playtime": 270,
+        "name": "A Game of Changes"
+      },
+      "471810": {
+        "playtime": 0,
+        "name": "Death Squared"
+      },
+      "475150": {
+        "playtime": 0,
+        "name": "Titan Quest Anniversary Edition"
+      },
+      "489520": {
+        "playtime": 343,
+        "name": "Minion Masters"
+      },
+      "493540": {
+        "playtime": 0,
+        "name": "Figment"
+      },
+      "497400": {
+        "playtime": 224,
+        "name": "1 Moment Of Time: Silentville"
+      },
+      "498850": {
+        "playtime": 0,
+        "name": "Ortus Arena, online strategy board game"
+      },
+      "503560": {
+        "playtime": 0,
+        "name": "911 Operator"
+      },
+      "504130": {
+        "playtime": 0,
+        "name": "Manual Samuel - Last Tuesday Edition"
+      },
+      "504230": {
+        "playtime": 290,
+        "name": "Celeste"
+      },
+      "504370": {
+        "playtime": 7446,
+        "name": "Battlerite"
+      },
+      "504390": {
+        "playtime": 0,
+        "name": "Along the Edge"
+      },
+      "506540": {
+        "playtime": 24,
+        "name": "Last Man Standing"
+      },
+      "510330": {
+        "playtime": 218,
+        "name": "Shotgun Raiders"
+      },
+      "510840": {
+        "playtime": 152,
+        "name": "Evolvation"
+      },
+      "527710": {
+        "playtime": 0,
+        "name": "Crown Champion: Legends of the Arena"
+      },
+      "537800": {
+        "playtime": 0,
+        "name": "Bomber Crew"
+      },
+      "544330": {
+        "playtime": 247,
+        "name": "Snake Pass"
+      },
+      "548430": {
+        "playtime": 3080,
+        "name": "Deep Rock Galactic"
+      },
+      "552500": {
+        "playtime": 143,
+        "name": "Warhammer: Vermintide 2"
+      },
+      "553310": {
+        "playtime": 416,
+        "name": "Lethal League Blaze"
+      },
+      "553340": {
+        "playtime": 94,
+        "name": "SolarGun"
+      },
+      "553850": {
+        "playtime": 2342,
+        "name": "HELLDIVERS™ 2"
+      },
+      "555720": {
+        "playtime": 0,
+        "name": "Grave Danger"
+      },
+      "560380": {
+        "playtime": 335,
+        "name": "MapleStory 2"
+      },
+      "562430": {
+        "playtime": 177,
+        "name": "Alien Hostage"
+      },
+      "582010": {
+        "playtime": 8344,
+        "name": "Monster Hunter: World"
+      },
+      "582500": {
+        "playtime": 121,
+        "name": "We Were Here"
+      },
+      "582660": {
+        "playtime": 219,
+        "name": "Black Desert"
+      },
+      "587620": {
+        "playtime": 55,
+        "name": "Okami HD"
+      },
+      "590380": {
+        "playtime": 190,
+        "name": "Into the Breach"
+      },
+      "594650": {
+        "playtime": 11131,
+        "name": "Hunt: Showdown 1896"
+      },
+      "599140": {
+        "playtime": 0,
+        "name": "Graveyard Keeper"
+      },
+      "602770": {
+        "playtime": 0,
+        "name": "Clatter"
+      },
+      "607050": {
+        "playtime": 0,
+        "name": "Wargroove"
+      },
+      "608990": {
+        "playtime": 0,
+        "name": "The Archotek Project"
+      },
+      "611360": {
+        "playtime": 14,
+        "name": "Video Horror Society"
+      },
+      "613100": {
+        "playtime": 0,
+        "name": "House Flipper"
+      },
+      "616560": {
+        "playtime": 0,
+        "name": "Ultimate Epic Battle Simulator"
+      },
+      "624690": {
+        "playtime": 0,
+        "name": "NEXT JUMP: Shmup Tactics"
+      },
+      "632360": {
+        "playtime": 6360,
+        "name": "Risk of Rain 2"
+      },
+      "632470": {
+        "playtime": 987,
+        "name": "Disco Elysium"
+      },
+      "646570": {
+        "playtime": 854,
+        "name": "Slay the Spire"
+      },
+      "653530": {
+        "playtime": 417,
+        "name": "Return of the Obra Dinn"
+      },
+      "654310": {
+        "playtime": 0,
+        "name": "For Honor - Public Test"
+      },
+      "665360": {
+        "playtime": 701,
+        "name": "Comedy Night"
+      },
+      "667530": {
+        "playtime": 33,
+        "name": "Drunken Wrestlers 2"
+      },
+      "670290": {
+        "playtime": 706,
+        "name": "Real Pool 3D - Poolians"
+      },
+      "674940": {
+        "playtime": 12,
+        "name": "Stick Fight: The Game"
+      },
+      "677160": {
+        "playtime": 152,
+        "name": "We Were Here Too"
+      },
+      "679530": {
+        "playtime": 0,
+        "name": "Professor Watts: Memory Match"
+      },
+      "684460": {
+        "playtime": 0,
+        "name": "Project Lucie"
+      },
+      "696480": {
+        "playtime": 125,
+        "name": "The Norwood Suite"
+      },
+      "698780": {
+        "playtime": 19,
+        "name": "Doki Doki Literature Club"
+      },
+      "700330": {
+        "playtime": 173,
+        "name": "SCP: Secret Laboratory"
+      },
+      "700580": {
+        "playtime": 0,
+        "name": "Rust - Staging Branch"
+      },
+      "725280": {
+        "playtime": 0,
+        "name": "Psi Project"
+      },
+      "726160": {
+        "playtime": 0,
+        "name": "The Under"
+      },
+      "736260": {
+        "playtime": 41,
+        "name": "Baba Is You"
+      },
+      "739630": {
+        "playtime": 4732,
+        "name": "Phasmophobia"
+      },
+      "743390": {
+        "playtime": 0,
+        "name": "DISTRAINT 2"
+      },
+      "753640": {
+        "playtime": 3815,
+        "name": "Outer Wilds"
+      },
+      "761890": {
+        "playtime": 35,
+        "name": "Albion Online"
+      },
+      "770720": {
+        "playtime": 0,
+        "name": "Hunt: Showdown 1896 (Test Server)"
+      },
+      "792220": {
+        "playtime": 49,
+        "name": "Paunch"
+      },
+      "797410": {
+        "playtime": 0,
+        "name": "Headsnatchers"
+      },
+      "808090": {
+        "playtime": 0,
+        "name": "Bury me, my Love"
+      },
+      "813230": {
+        "playtime": 1838,
+        "name": "ANIMAL WELL"
+      },
+      "813540": {
+        "playtime": 0,
+        "name": "Scheming Through The Zombie Apocalypse: The Beginning"
+      },
+      "840610": {
+        "playtime": 0,
+        "name": "Fortune-499"
+      },
+      "865360": {
+        "playtime": 0,
+        "name": "We Were Here Together"
+      },
+      "883710": {
+        "playtime": 536,
+        "name": "Resident Evil 2"
+      },
+      "899770": {
+        "playtime": 3850,
+        "name": "Last Epoch"
+      },
+      "945360": {
+        "playtime": 2968,
+        "name": "Among Us"
+      },
+      "960090": {
+        "playtime": 10576,
+        "name": "Bloons TD 6"
+      },
+      "967050": {
+        "playtime": 29,
+        "name": "Pacify"
+      },
+      "978520": {
+        "playtime": 0,
+        "name": "Legend of Keepers"
+      },
+      "1020470": {
+        "playtime": 0,
+        "name": "Evoland Legendary Edition"
+      },
+      "1030300": {
+        "playtime": 4932,
+        "name": "Hollow Knight: Silksong"
+      },
+      "1035110": {
+        "playtime": 0,
+        "name": "Moonrise Fall"
+      },
+      "1055540": {
+        "playtime": 195,
+        "name": "A Short Hike"
+      },
+      "1057090": {
+        "playtime": 943,
+        "name": "Ori and the Will of the Wisps"
+      },
+      "1085660": {
+        "playtime": 713,
+        "name": "Destiny 2"
+      },
+      "1086940": {
+        "playtime": 12802,
+        "name": "Baldur's Gate 3"
+      },
+      "1088150": {
+        "playtime": 10,
+        "name": "Scribble It!"
+      },
+      "1091500": {
+        "playtime": 1244,
+        "name": "Cyberpunk 2077"
+      },
+      "1092790": {
+        "playtime": 1284,
+        "name": "Inscryption"
+      },
+      "1145350": {
+        "playtime": 3742,
+        "name": "Hades II"
+      },
+      "1145360": {
+        "playtime": 2579,
+        "name": "Hades"
+      },
+      "1172470": {
+        "playtime": 36584,
+        "name": "Apex Legends"
+      },
+      "1174180": {
+        "playtime": 686,
+        "name": "Red Dead Redemption 2"
+      },
+      "1180660": {
+        "playtime": 0,
+        "name": "Tell Me Why"
+      },
+      "1196590": {
+        "playtime": 830,
+        "name": "Resident Evil Village"
+      },
+      "1200580": {
+        "playtime": 0,
+        "name": "One Gun Guy"
+      },
+      "1222140": {
+        "playtime": 1065,
+        "name": "Detroit: Become Human"
+      },
+      "1222700": {
+        "playtime": 405,
+        "name": "A Way Out"
+      },
+      "1236300": {
+        "playtime": 0,
+        "name": "Resident Evil Re:Verse"
+      },
+      "1245620": {
+        "playtime": 6270,
+        "name": "ELDEN RING"
+      },
+      "1283700": {
+        "playtime": 10158,
+        "name": "SUPERVIVE"
+      },
+      "1284190": {
+        "playtime": 2015,
+        "name": "The Planet Crafter"
+      },
+      "1284210": {
+        "playtime": 89,
+        "name": "Guild Wars 2®"
+      },
+      "1289310": {
+        "playtime": 21,
+        "name": "Helltaker"
+      },
+      "1307580": {
+        "playtime": 365,
+        "name": "TOEM"
+      },
+      "1337520": {
+        "playtime": 664,
+        "name": "Risk of Rain Returns"
+      },
+      "1341290": {
+        "playtime": 0,
+        "name": "We Were Here Forever"
+      },
+      "1408720": {
+        "playtime": 24,
+        "name": "Krunker"
+      },
+      "1422450": {
+        "playtime": 31965,
+        "name": "Deadlock"
+      },
+      "1426210": {
+        "playtime": 2072,
+        "name": "It Takes Two"
+      },
+      "1446780": {
+        "playtime": 1494,
+        "name": "MONSTER HUNTER RISE"
+      },
+      "1454400": {
+        "playtime": 1020,
+        "name": "Cookie Clicker"
+      },
+      "1456200": {
+        "playtime": 0,
+        "name": "Initial Drift Online"
+      },
+      "1486630": {
+        "playtime": 0,
+        "name": "Intravenous"
+      },
+      "1504980": {
+        "playtime": 125,
+        "name": "It Takes Two Friend's Pass"
+      },
+      "1507190": {
+        "playtime": 0,
+        "name": "Machinika Museum"
+      },
+      "1510580": {
+        "playtime": 0,
+        "name": "Toy Tinker Simulator"
+      },
+      "1582170": {
+        "playtime": 72,
+        "name": "Knockout City™ Trial"
+      },
+      "1588550": {
+        "playtime": 968,
+        "name": "Cairn"
+      },
+      "1593500": {
+        "playtime": 2014,
+        "name": "God of War"
+      },
+      "1599340": {
+        "playtime": 24655,
+        "name": "Lost Ark"
+      },
+      "1599600": {
+        "playtime": 5547,
+        "name": "PlateUp!"
+      },
+      "1604030": {
+        "playtime": 2263,
+        "name": "V Rising"
+      },
+      "1608450": {
+        "playtime": 0,
+        "name": "Hellslave"
+      },
+      "1625450": {
+        "playtime": 279,
+        "name": "Muck"
+      },
+      "1634080": {
+        "playtime": 0,
+        "name": "Nocturnal"
+      },
+      "1659040": {
+        "playtime": 0,
+        "name": "HITMAN World of Assassination"
+      },
+      "1687950": {
+        "playtime": 10871,
+        "name": "Persona 5 Royal"
+      },
+      "1703140": {
+        "playtime": 0,
+        "name": "Isle of Jura"
+      },
+      "1714040": {
+        "playtime": 328,
+        "name": "Super Auto Pets"
+      },
+      "1755300": {
+        "playtime": 0,
+        "name": "Smart Factory Tycoon"
+      },
+      "1755910": {
+        "playtime": 0,
+        "name": "Capcom Arcade 2nd Stadium"
+      },
+      "1782210": {
+        "playtime": 15,
+        "name": "Crab Game"
+      },
+      "1793660": {
+        "playtime": 901,
+        "name": "Lost Ark Closed Technical Beta "
+      },
+      "1794680": {
+        "playtime": 4002,
+        "name": "Vampire Survivors"
+      },
+      "1808500": {
+        "playtime": 5369,
+        "name": "ARC Raiders"
+      },
+      "1818750": {
+        "playtime": 234,
+        "name": "MultiVersus"
+      },
+      "1850570": {
+        "playtime": 3724,
+        "name": "DEATH STRANDING DIRECTOR'S CUT"
+      },
+      "1868140": {
+        "playtime": 3023,
+        "name": "DAVE THE DIVER"
+      },
+      "1869590": {
+        "playtime": 77,
+        "name": "Omega Strikers"
+      },
+      "1888930": {
+        "playtime": 1796,
+        "name": "The Last of Us™ Part I"
+      },
+      "1931770": {
+        "playtime": 534,
+        "name": "Chants of Sennaar"
+      },
+      "1938090": {
+        "playtime": 448,
+        "name": "Call of Duty®"
+      },
+      "1966720": {
+        "playtime": 3017,
+        "name": "Lethal Company"
+      },
+      "1966900": {
+        "playtime": 1052,
+        "name": "20 Minutes Till Dawn"
+      },
+      "1985690": {
+        "playtime": 58,
+        "name": "The Looker"
+      },
+      "2001120": {
+        "playtime": 1252,
+        "name": "Split Fiction"
+      },
+      "2073850": {
+        "playtime": 356,
+        "name": "THE FINALS"
+      },
+      "2161700": {
+        "playtime": 400,
+        "name": "Persona 3 Reload"
+      },
+      "2296990": {
+        "playtime": 105,
+        "name": "We Were Here Expeditions: The FriendShip"
+      },
+      "2337860": {
+        "playtime": 0,
+        "name": "Nubs!"
+      },
+      "2352620": {
+        "playtime": 3093,
+        "name": "Fellowship"
+      },
+      "2429640": {
+        "playtime": 27,
+        "name": "THRONE AND LIBERTY"
+      },
+      "2475490": {
+        "playtime": 188,
+        "name": "Mouthwashing"
+      },
+      "2516250": {
+        "playtime": 117,
+        "name": "Project Loki Playtest"
+      },
+      "2531310": {
+        "playtime": 2766,
+        "name": "The Last of Us™ Part II Remastered"
+      },
+      "2543510": {
+        "playtime": 0,
+        "name": "GUNTOUCHABLES"
+      },
+      "2666510": {
+        "playtime": 2894,
+        "name": "Rusty's Retirement"
+      },
+      "2678990": {
+        "playtime": 9,
+        "name": "Minami Lane"
+      },
+      "2700950": {
+        "playtime": 0,
+        "name": "BAPBAP Playtest"
+      },
+      "2709570": {
+        "playtime": 516,
+        "name": "Supermarket Together"
+      },
+      "2720950": {
+        "playtime": 180,
+        "name": "Grunn"
+      },
+      "2747770": {
+        "playtime": 0,
+        "name": "Wednesdays"
+      },
+      "2763670": {
+        "playtime": 387,
+        "name": "Arctic Eggs"
+      },
+      "2767030": {
+        "playtime": 311,
+        "name": "Marvel Rivals"
+      },
+      "2784470": {
+        "playtime": 380,
+        "name": "9 Kings"
+      },
+      "2796010": {
+        "playtime": 0,
+        "name": "Party Club"
+      },
+      "2825880": {
+        "playtime": 85,
+        "name": "Death Howl"
+      },
+      "2835590": {
+        "playtime": 0,
+        "name": "8AM"
+      },
+      "2881650": {
+        "playtime": 166,
+        "name": "Content Warning"
+      },
+      "2920570": {
+        "playtime": 282,
+        "name": "Dale & Dawson Stationery Supplies"
+      },
+      "2923300": {
+        "playtime": 522,
+        "name": "Banana"
+      },
+      "3062930": {
+        "playtime": 0,
+        "name": "Unplagued"
+      },
+      "3065170": {
+        "playtime": 71,
+        "name": "Monster Hunter Wilds Beta test"
+      },
+      "3124540": {
+        "playtime": 606,
+        "name": "Far Far West"
+      },
+      "3144950": {
+        "playtime": 0,
+        "name": "Pet Lands"
+      },
+      "3241660": {
+        "playtime": 1851,
+        "name": "R.E.P.O."
+      },
+      "3419430": {
+        "playtime": 1439,
+        "name": "Bongo Cat"
+      },
+      "3513350": {
+        "playtime": 44,
+        "name": "Wuthering Waves"
+      },
+      "3527290": {
+        "playtime": 1544,
+        "name": "PEAK"
+      },
+      "3940070": {
+        "playtime": 53,
+        "name": "About Fishing Playtest"
+      },
+      "4128260": {
+        "playtime": 69,
+        "name": "Highguard"
+      }
+    },
+    "level": 29,
+    "achievements": {
+      "1588550": [
+        "ReachTenzingTop",
+        "MeetBrokenClimbot",
+        "Shower",
+        "MeetMarco",
+        "AuroraBorealis",
+        "Nightmare",
+        "MeetDamas",
+        "SurviveAvalanche",
+        "ReachSummit",
+        "FallSurvive",
+        "FallPitonMinigame",
+        "JumpOnWall",
+        "CompostTrash",
+        "Fish",
+        "Grouik",
+        "GlowingGloves",
+        "BoozeCocktail",
+        "MarcoInterrupt",
+        "EagleView",
+        "Bear",
+        "Edelweiss",
+        "FirstGuardianCrystal",
+        "SecondGuardianCrystal",
+        "ThirdGuardianCrystal",
+        "RopeLimit",
+        "Overkill",
+        "ShakeArm",
+        "TapeFingers",
+        "BagSorted",
+        "ShepherdessLetter",
+        "CrystalHunter",
+        "CorpseFood",
+        "StormDoll",
+        "Origami"
+      ],
+      "3940070": []
+    },
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 412312,
+    "weeklyTopGame": "Monster Hunter Wilds",
+    "weeklyAchievements": 34
+  },
+  "76561198069131630": {
+    "games": {
+      "400": {
+        "playtime": 176,
+        "name": "Portal"
+      },
+      "500": {
+        "playtime": 160,
+        "name": "Left 4 Dead"
+      },
+      "550": {
+        "playtime": 913,
+        "name": "Left 4 Dead 2"
+      },
+      "620": {
+        "playtime": 2565,
+        "name": "Portal 2"
+      },
+      "730": {
+        "playtime": 8123,
+        "name": "Counter-Strike 2"
+      },
+      "7670": {
+        "playtime": 0,
+        "name": "BioShock"
+      },
+      "8850": {
+        "playtime": 3,
+        "name": "BioShock 2"
+      },
+      "8870": {
+        "playtime": 1069,
+        "name": "BioShock Infinite"
+      },
+      "17410": {
+        "playtime": 557,
+        "name": "Mirror's Edge"
+      },
+      "35140": {
+        "playtime": 643,
+        "name": "Batman: Arkham Asylum GOTY Edition"
+      },
+      "43160": {
+        "playtime": 0,
+        "name": "Metro: Last Light Complete Edition"
+      },
+      "67370": {
+        "playtime": 311,
+        "name": "The Darkness II"
+      },
+      "105600": {
+        "playtime": 12665,
+        "name": "Terraria"
+      },
+      "109400": {
+        "playtime": 212,
+        "name": "MicroVolts Surge"
+      },
+      "200010": {
+        "playtime": 86,
+        "name": "Quantum Conundrum"
+      },
+      "200260": {
+        "playtime": 0,
+        "name": "Batman: Arkham City GOTY"
+      },
+      "203160": {
+        "playtime": 29,
+        "name": "Tomb Raider"
+      },
+      "206210": {
+        "playtime": 95,
+        "name": "Gotham City Impostors: Free To Play"
+      },
+      "208650": {
+        "playtime": 0,
+        "name": "Batman™: Arkham Knight"
+      },
+      "209000": {
+        "playtime": 0,
+        "name": "Batman™: Arkham Origins"
+      },
+      "220440": {
+        "playtime": 0,
+        "name": "DmC Devil May Cry"
+      },
+      "225260": {
+        "playtime": 53,
+        "name": "Brütal Legend"
+      },
+      "230410": {
+        "playtime": 25155,
+        "name": "Warframe"
+      },
+      "235460": {
+        "playtime": 321,
+        "name": "METAL GEAR RISING: REVENGEANCE"
+      },
+      "238320": {
+        "playtime": 34,
+        "name": "Outlast"
+      },
+      "239140": {
+        "playtime": 3207,
+        "name": "Dying Light"
+      },
+      "244210": {
+        "playtime": 177,
+        "name": "Assetto Corsa"
+      },
+      "248820": {
+        "playtime": 90,
+        "name": "Risk of Rain (2013)"
+      },
+      "250900": {
+        "playtime": 34654,
+        "name": "The Binding of Isaac: Rebirth"
+      },
+      "251130": {
+        "playtime": 0,
+        "name": "Chroma Squad"
+      },
+      "252490": {
+        "playtime": 38641,
+        "name": "Rust"
+      },
+      "252950": {
+        "playtime": 40,
+        "name": "Rocket League"
+      },
+      "261760": {
+        "playtime": 93,
+        "name": "Lichdom: Battlemage"
+      },
+      "264200": {
+        "playtime": 68,
+        "name": "One Finger Death Punch"
+      },
+      "265930": {
+        "playtime": 62,
+        "name": "Goat Simulator"
+      },
+      "273350": {
+        "playtime": 0,
+        "name": "Evolve Stage 2"
+      },
+      "275850": {
+        "playtime": 1040,
+        "name": "No Man's Sky"
+      },
+      "278360": {
+        "playtime": 277,
+        "name": "A Story About My Uncle"
+      },
+      "285900": {
+        "playtime": 170,
+        "name": "Gang Beasts"
+      },
+      "286690": {
+        "playtime": 578,
+        "name": "Metro 2033 Redux"
+      },
+      "287390": {
+        "playtime": 50,
+        "name": "Metro: Last Light Redux"
+      },
+      "287700": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+      },
+      "293180": {
+        "playtime": 0,
+        "name": "Overcast - Walden and the Werewolf"
+      },
+      "300550": {
+        "playtime": 0,
+        "name": "Shadowrun: Dragonfall - Director's Cut"
+      },
+      "304930": {
+        "playtime": 660,
+        "name": "Unturned"
+      },
+      "307070": {
+        "playtime": 0,
+        "name": "Memories of a Vagabond"
+      },
+      "311210": {
+        "playtime": 300,
+        "name": "Call of Duty: Black Ops III"
+      },
+      "311340": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES"
+      },
+      "311690": {
+        "playtime": 8359,
+        "name": "Enter the Gungeon"
+      },
+      "312660": {
+        "playtime": 498,
+        "name": "Sniper Elite 4"
+      },
+      "324800": {
+        "playtime": 663,
+        "name": "Shadow Warrior 2"
+      },
+      "327890": {
+        "playtime": 25,
+        "name": "I Am Bread"
+      },
+      "329050": {
+        "playtime": 72,
+        "name": "Devil May Cry 4 Special Edition"
+      },
+      "333930": {
+        "playtime": 84,
+        "name": "Dirty Bomb"
+      },
+      "342350": {
+        "playtime": 0,
+        "name": "Into The Gloom"
+      },
+      "342480": {
+        "playtime": 281,
+        "name": "Gunscape"
+      },
+      "346110": {
+        "playtime": 0,
+        "name": "ARK: Survival Evolved"
+      },
+      "351140": {
+        "playtime": 7,
+        "name": "Rustbucket Rumble"
+      },
+      "352520": {
+        "playtime": 156,
+        "name": "The Silent Age"
+      },
+      "367520": {
+        "playtime": 1125,
+        "name": "Hollow Knight"
+      },
+      "374320": {
+        "playtime": 2709,
+        "name": "DARK SOULS™ III"
+      },
+      "377160": {
+        "playtime": 7743,
+        "name": "Fallout 4"
+      },
+      "379720": {
+        "playtime": 271,
+        "name": "DOOM"
+      },
+      "389570": {
+        "playtime": 14,
+        "name": "Mitos.is: The Game"
+      },
+      "391460": {
+        "playtime": 47,
+        "name": "WARMODE"
+      },
+      "397540": {
+        "playtime": 3086,
+        "name": "Borderlands 3"
+      },
+      "397950": {
+        "playtime": 54,
+        "name": "Clustertruck"
+      },
+      "403640": {
+        "playtime": 2162,
+        "name": "Dishonored 2"
+      },
+      "407530": {
+        "playtime": 0,
+        "name": "ARK: Survival Of The Fittest"
+      },
+      "409710": {
+        "playtime": 0,
+        "name": "BioShock Remastered"
+      },
+      "409720": {
+        "playtime": 670,
+        "name": "BioShock 2 Remastered"
+      },
+      "418370": {
+        "playtime": 777,
+        "name": "Resident Evil 7 Biohazard"
+      },
+      "420210": {
+        "playtime": 0,
+        "name": "KRUM - Edge Of Darkness"
+      },
+      "431960": {
+        "playtime": 44,
+        "name": "Wallpaper Engine"
+      },
+      "435530": {
+        "playtime": 0,
+        "name": "The Final Station"
+      },
+      "448560": {
+        "playtime": 0,
+        "name": "Mind Games"
+      },
+      "473690": {
+        "playtime": 339,
+        "name": "Absolver"
+      },
+      "480490": {
+        "playtime": 351,
+        "name": "Prey"
+      },
+      "481870": {
+        "playtime": 0,
+        "name": "Mini Thief"
+      },
+      "489830": {
+        "playtime": 0,
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
+      },
+      "498660": {
+        "playtime": 0,
+        "name": "Mind Spheres"
+      },
+      "512300": {
+        "playtime": 26,
+        "name": "Unbox"
+      },
+      "524220": {
+        "playtime": 105,
+        "name": "NieR:Automata™"
+      },
+      "534380": {
+        "playtime": 2402,
+        "name": "Dying Light 2: Reloaded Edition"
+      },
+      "550650": {
+        "playtime": 78,
+        "name": "Black Squad"
+      },
+      "553850": {
+        "playtime": 4142,
+        "name": "HELLDIVERS™ 2"
+      },
+      "555000": {
+        "playtime": 0,
+        "name": "GOAT OF DUTY"
+      },
+      "578080": {
+        "playtime": 26232,
+        "name": "PUBG: BATTLEGROUNDS"
+      },
+      "585710": {
+        "playtime": 49,
+        "name": "Blazing Beaks"
+      },
+      "588650": {
+        "playtime": 627,
+        "name": "Dead Cells"
+      },
+      "596590": {
+        "playtime": 0,
+        "name": "Linked"
+      },
+      "601150": {
+        "playtime": 1,
+        "name": "Devil May Cry 5"
+      },
+      "601430": {
+        "playtime": 976,
+        "name": "The Evil Within 2"
+      },
+      "617290": {
+        "playtime": 2207,
+        "name": "Remnant: From the Ashes"
+      },
+      "631510": {
+        "playtime": 1408,
+        "name": "Devil May Cry HD Collection"
+      },
+      "632360": {
+        "playtime": 16099,
+        "name": "Risk of Rain 2"
+      },
+      "677620": {
+        "playtime": 71,
+        "name": "Splitgate"
+      },
+      "680420": {
+        "playtime": 4138,
+        "name": "OUTRIDERS"
+      },
+      "692890": {
+        "playtime": 1004,
+        "name": "Roboquest"
+      },
+      "700330": {
+        "playtime": 54,
+        "name": "SCP: Secret Laboratory"
+      },
+      "739630": {
+        "playtime": 133,
+        "name": "Phasmophobia"
+      },
+      "751780": {
+        "playtime": 1692,
+        "name": "Forager"
+      },
+      "766370": {
+        "playtime": 0,
+        "name": "Dying Light: Bad Blood"
+      },
+      "788100": {
+        "playtime": 412,
+        "name": "Neon Abyss"
+      },
+      "814380": {
+        "playtime": 2762,
+        "name": "Sekiro™: Shadows Die Twice"
+      },
+      "845970": {
+        "playtime": 0,
+        "name": "Trivia Vault: Movie Trivia"
+      },
+      "857980": {
+        "playtime": 914,
+        "name": "Void Bastards"
+      },
+      "868270": {
+        "playtime": 2200,
+        "name": "The Cycle: Frontier"
+      },
+      "881100": {
+        "playtime": 270,
+        "name": "Noita"
+      },
+      "883710": {
+        "playtime": 1296,
+        "name": "Resident Evil 2"
+      },
+      "892970": {
+        "playtime": 5447,
+        "name": "Valheim"
+      },
+      "917950": {
+        "playtime": 880,
+        "name": "Vellum"
+      },
+      "945360": {
+        "playtime": 705,
+        "name": "Among Us"
+      },
+      "952060": {
+        "playtime": 575,
+        "name": "Resident Evil 3"
+      },
+      "952070": {
+        "playtime": 0,
+        "name": "RESIDENT EVIL RESISTANCE"
+      },
+      "1016800": {
+        "playtime": 887,
+        "name": "Chernobylite Complete Edition"
+      },
+      "1030300": {
+        "playtime": 68,
+        "name": "Hollow Knight: Silksong"
+      },
+      "1063730": {
+        "playtime": 20648,
+        "name": "New World: Aeternum"
+      },
+      "1085660": {
+        "playtime": 114630,
+        "name": "Destiny 2"
+      },
+      "1091500": {
+        "playtime": 3302,
+        "name": "Cyberpunk 2077"
+      },
+      "1110910": {
+        "playtime": 315,
+        "name": "Mortal Shell"
+      },
+      "1145350": {
+        "playtime": 4873,
+        "name": "Hades II"
+      },
+      "1145360": {
+        "playtime": 1313,
+        "name": "Hades"
+      },
+      "1151640": {
+        "playtime": 973,
+        "name": "Horizon Zero Dawn™ Complete Edition"
+      },
+      "1172470": {
+        "playtime": 3293,
+        "name": "Apex Legends"
+      },
+      "1172710": {
+        "playtime": 2091,
+        "name": "Dune: Awakening"
+      },
+      "1196590": {
+        "playtime": 875,
+        "name": "Resident Evil Village"
+      },
+      "1217060": {
+        "playtime": 2089,
+        "name": "Gunfire Reborn"
+      },
+      "1236300": {
+        "playtime": 0,
+        "name": "Resident Evil Re:Verse"
+      },
+      "1245620": {
+        "playtime": 19706,
+        "name": "ELDEN RING"
+      },
+      "1249200": {
+        "playtime": 19,
+        "name": "Ghostrunner Demo"
+      },
+      "1253920": {
+        "playtime": 2854,
+        "name": "Rogue Legacy 2"
+      },
+      "1281930": {
+        "playtime": 242,
+        "name": "tModLoader"
+      },
+      "1282100": {
+        "playtime": 2733,
+        "name": "Remnant II"
+      },
+      "1285190": {
+        "playtime": 4553,
+        "name": "Borderlands® 4"
+      },
+      "1304930": {
+        "playtime": 1006,
+        "name": "The Outlast Trials"
+      },
+      "1337520": {
+        "playtime": 0,
+        "name": "Risk of Rain Returns"
+      },
+      "1409530": {
+        "playtime": 608,
+        "name": "Neophyte"
+      },
+      "1422450": {
+        "playtime": 42664,
+        "name": "Deadlock"
+      },
+      "1449850": {
+        "playtime": 86,
+        "name": "Yu-Gi-Oh!  Master Duel"
+      },
+      "1468260": {
+        "playtime": 320,
+        "name": "Leaf Blower Revolution - Idle Game"
+      },
+      "1473350": {
+        "playtime": 837,
+        "name": "(the) Gnorp Apologue"
+      },
+      "1504980": {
+        "playtime": 77,
+        "name": "It Takes Two Friend's Pass"
+      },
+      "1540210": {
+        "playtime": 91,
+        "name": "Arizona Sunshine® 2"
+      },
+      "1590320": {
+        "playtime": 30,
+        "name": "Bro Falls: Ultimate Showdown"
+      },
+      "1593500": {
+        "playtime": 2912,
+        "name": "God of War"
+      },
+      "1627720": {
+        "playtime": 1282,
+        "name": "Lies of P"
+      },
+      "1649240": {
+        "playtime": 854,
+        "name": "Returnal™"
+      },
+      "1782210": {
+        "playtime": 192,
+        "name": "Crab Game"
+      },
+      "1808500": {
+        "playtime": 31131,
+        "name": "ARC Raiders"
+      },
+      "1850570": {
+        "playtime": 1818,
+        "name": "DEATH STRANDING DIRECTOR'S CUT"
+      },
+      "1911610": {
+        "playtime": 417,
+        "name": "Windblown"
+      },
+      "1938090": {
+        "playtime": 5081,
+        "name": "Call of Duty®"
+      },
+      "1942280": {
+        "playtime": 1601,
+        "name": "Brotato"
+      },
+      "1966720": {
+        "playtime": 401,
+        "name": "Lethal Company"
+      },
+      "1966900": {
+        "playtime": 1924,
+        "name": "20 Minutes Till Dawn"
+      },
+      "1985690": {
+        "playtime": 57,
+        "name": "The Looker"
+      },
+      "1987080": {
+        "playtime": 285,
+        "name": "Inside the Backrooms"
+      },
+      "2016590": {
+        "playtime": 41,
+        "name": "Dark and Darker"
+      },
+      "2050650": {
+        "playtime": 1412,
+        "name": "Resident Evil 4"
+      },
+      "2066020": {
+        "playtime": 623,
+        "name": "Soulstone Survivors"
+      },
+      "2088570": {
+        "playtime": 89,
+        "name": "Tiny Rogues"
+      },
+      "2106670": {
+        "playtime": 151,
+        "name": "Gatekeeper"
+      },
+      "2113430": {
+        "playtime": 78,
+        "name": "Soulstone Survivors: Prologue"
+      },
+      "2334730": {
+        "playtime": 276,
+        "name": "Death Must Die"
+      },
+      "2358720": {
+        "playtime": 3108,
+        "name": "Black Myth: Wukong"
+      },
+      "2379780": {
+        "playtime": 8384,
+        "name": "Balatro"
+      },
+      "2622380": {
+        "playtime": 8969,
+        "name": "ELDEN RING NIGHTREIGN"
+      },
+      "2680010": {
+        "playtime": 2242,
+        "name": "The First Berserker: Khazan"
+      },
+      "2747330": {
+        "playtime": 94,
+        "name": "Species: Unknown"
+      },
+      "2767030": {
+        "playtime": 1519,
+        "name": "Marvel Rivals"
+      },
+      "2807960": {
+        "playtime": 5350,
+        "name": "Battlefield™ 6"
+      },
+      "2918300": {
+        "playtime": 107,
+        "name": "SPLITGATE: Arena Reloaded"
+      },
+      "3041230": {
+        "playtime": 1377,
+        "name": "Windrose"
+      },
+      "3065800": {
+        "playtime": 8992,
+        "name": "Marathon"
+      },
+      "3124540": {
+        "playtime": 931,
+        "name": "Far Far West"
+      },
+      "3164500": {
+        "playtime": 623,
+        "name": "Schedule I"
+      },
+      "3241660": {
+        "playtime": 69,
+        "name": "R.E.P.O."
+      },
+      "3321460": {
+        "playtime": 1868,
+        "name": "Crimson Desert"
+      },
+      "3405340": {
+        "playtime": 1411,
+        "name": "Megabonk"
+      },
+      "3527290": {
+        "playtime": 796,
+        "name": "PEAK"
+      },
+      "3716600": {
+        "playtime": 77,
+        "name": "Mage Arena"
+      },
+      "3764200": {
+        "playtime": 945,
+        "name": "Resident Evil Requiem"
+      },
+      "3892270": {
+        "playtime": 238,
+        "name": "Gamble With Your Friends"
+      },
+      "3949040": {
+        "playtime": 342,
+        "name": "RV There Yet?"
+      }
+    },
+    "level": 37,
+    "achievements": {
+      "397540": [],
+      "1422450": [],
+      "1850570": [],
+      "2747330": [],
+      "3041230": [],
+      "3321460": [],
+      "3527290": [],
+      "3892270": []
+    },
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 568969,
+    "weeklyTopGame": "Deadlock",
+    "weeklyAchievements": 0
+  },
+  "76561198017069362": {
+    "games": {
+      "440": {
+        "playtime": 3837,
+        "name": "Team Fortress 2"
+      },
+      "550": {
+        "playtime": 912,
+        "name": "Left 4 Dead 2"
+      },
+      "570": {
+        "playtime": 6129,
+        "name": "Dota 2"
+      },
+      "620": {
+        "playtime": 1154,
+        "name": "Portal 2"
+      },
+      "730": {
+        "playtime": 732,
+        "name": "Counter-Strike 2"
+      },
+      "1250": {
+        "playtime": 2495,
+        "name": "Killing Floor"
+      },
+      "2600": {
+        "playtime": 94,
+        "name": "Vampire: The Masquerade - Bloodlines"
+      },
+      "2820": {
+        "playtime": 100,
+        "name": "X3: Terran Conflict"
+      },
+      "2870": {
+        "playtime": 67,
+        "name": "X Rebirth"
+      },
+      "3700": {
+        "playtime": 0,
+        "name": "Sniper Elite"
+      },
+      "3830": {
+        "playtime": 0,
+        "name": "Psychonauts"
+      },
+      "4000": {
+        "playtime": 369,
+        "name": "Garry's Mod"
+      },
+      "4570": {
+        "playtime": 32,
+        "name": "Warhammer 40,000: Dawn of War - Anniversary Edition "
+      },
+      "4580": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Dawn of War - Dark Crusade"
+      },
+      "4700": {
+        "playtime": 857,
+        "name": "Total War: MEDIEVAL II - Definitive Edition"
+      },
+      "6060": {
+        "playtime": 0,
+        "name": "Star Wars: Battlefront 2 (Classic, 2005)"
+      },
+      "7670": {
+        "playtime": 0,
+        "name": "BioShock"
+      },
+      "8850": {
+        "playtime": 0,
+        "name": "BioShock 2"
+      },
+      "8870": {
+        "playtime": 984,
+        "name": "BioShock Infinite"
+      },
+      "8930": {
+        "playtime": 1983,
+        "name": "Sid Meier's Civilization V"
+      },
+      "9200": {
+        "playtime": 1196,
+        "name": "RAGE"
+      },
+      "9310": {
+        "playtime": 150,
+        "name": "Warhammer 40,000: Dawn of War - Winter Assault"
+      },
+      "9450": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Dawn of War - Soulstorm"
+      },
+      "9480": {
+        "playtime": 331,
+        "name": "Saints Row 2"
+      },
+      "10500": {
+        "playtime": 1369,
+        "name": "Total War: EMPIRE - Definitive Edition"
+      },
+      "12100": {
+        "playtime": 0,
+        "name": "Grand Theft Auto III"
+      },
+      "12110": {
+        "playtime": 0,
+        "name": "Grand Theft Auto: Vice City"
+      },
+      "12120": {
+        "playtime": 26,
+        "name": "Grand Theft Auto: San Andreas"
+      },
+      "12170": {
+        "playtime": 0,
+        "name": "Grand Theft Auto"
+      },
+      "12180": {
+        "playtime": 16,
+        "name": "Grand Theft Auto 2"
+      },
+      "12210": {
+        "playtime": 5366,
+        "name": "Grand Theft Auto IV: The Complete Edition"
+      },
+      "12230": {
+        "playtime": 0,
+        "name": "Grand Theft Auto III"
+      },
+      "12240": {
+        "playtime": 0,
+        "name": "Grand Theft Auto: Vice City"
+      },
+      "12250": {
+        "playtime": 0,
+        "name": "Grand Theft Auto: San Andreas"
+      },
+      "15620": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition"
+      },
+      "17460": {
+        "playtime": 719,
+        "name": "Mass Effect (2007)"
+      },
+      "20500": {
+        "playtime": 493,
+        "name": "Red Faction: Guerrilla Steam Edition"
+      },
+      "20570": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Dawn of War II - Chaos Rising"
+      },
+      "20900": {
+        "playtime": 13,
+        "name": "The Witcher: Enhanced Edition"
+      },
+      "20920": {
+        "playtime": 1541,
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
+      },
+      "21170": {
+        "playtime": 418,
+        "name": "Gotham City Impostors"
+      },
+      "22100": {
+        "playtime": 2094,
+        "name": "Mount & Blade"
+      },
+      "22330": {
+        "playtime": 893,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)"
+      },
+      "22370": {
+        "playtime": 595,
+        "name": "Fallout 3 - Game of the Year Edition"
+      },
+      "22380": {
+        "playtime": 4138,
+        "name": "Fallout: New Vegas"
+      },
+      "24780": {
+        "playtime": 10,
+        "name": "SimCity 4 Deluxe"
+      },
+      "24790": {
+        "playtime": 31,
+        "name": "Command & Conquer 3: Tiberium Wars™"
+      },
+      "24960": {
+        "playtime": 1416,
+        "name": "Battlefield: Bad Company™ 2"
+      },
+      "24980": {
+        "playtime": 2152,
+        "name": "Mass Effect 2 (2010)"
+      },
+      "28050": {
+        "playtime": 1183,
+        "name": "Deus Ex: Human Revolution"
+      },
+      "29720": {
+        "playtime": 565,
+        "name": "Guild Wars® Reforged"
+      },
+      "31270": {
+        "playtime": 226,
+        "name": "Puzzle Agent"
+      },
+      "32370": {
+        "playtime": 423,
+        "name": "STAR WARS™ Knights of the Old Republic™"
+      },
+      "33910": {
+        "playtime": 61,
+        "name": "Arma 2"
+      },
+      "33930": {
+        "playtime": 364,
+        "name": "Arma 2: Operation Arrowhead"
+      },
+      "34330": {
+        "playtime": 6065,
+        "name": "Total War: SHOGUN 2"
+      },
+      "35140": {
+        "playtime": 511,
+        "name": "Batman: Arkham Asylum GOTY Edition"
+      },
+      "35420": {
+        "playtime": 0,
+        "name": "Killing Floor Mod: Defence Alliance 2"
+      },
+      "35450": {
+        "playtime": 365,
+        "name": "Rising Storm/Red Orchestra 2 Multiplayer"
+      },
+      "38400": {
+        "playtime": 38,
+        "name": "Fallout"
+      },
+      "38410": {
+        "playtime": 3,
+        "name": "Fallout 2"
+      },
+      "38420": {
+        "playtime": 0,
+        "name": "Fallout Tactics"
+      },
+      "39120": {
+        "playtime": 393,
+        "name": "RIFT"
+      },
+      "39140": {
+        "playtime": 1,
+        "name": "FINAL FANTASY VII (2013)"
+      },
+      "40390": {
+        "playtime": 8,
+        "name": "Risen 2 - Dark Waters"
+      },
+      "42160": {
+        "playtime": 383,
+        "name": "War of the Roses"
+      },
+      "42910": {
+        "playtime": 808,
+        "name": "Magicka"
+      },
+      "47810": {
+        "playtime": 3873,
+        "name": "Dragon Age: Origins - Ultimate Edition"
+      },
+      "48000": {
+        "playtime": 0,
+        "name": "LIMBO"
+      },
+      "48240": {
+        "playtime": 4693,
+        "name": "Anno 2070"
+      },
+      "48700": {
+        "playtime": 14868,
+        "name": "Mount & Blade: Warband"
+      },
+      "49470": {
+        "playtime": 122,
+        "name": "Magic: The Gathering — Duels of the Planeswalkers 2012"
+      },
+      "49520": {
+        "playtime": 1331,
+        "name": "Borderlands 2"
+      },
+      "50130": {
+        "playtime": 105,
+        "name": "Mafia II (Classic)"
+      },
+      "55230": {
+        "playtime": 1011,
+        "name": "Saints Row: The Third"
+      },
+      "56400": {
+        "playtime": 251,
+        "name": "Warhammer 40,000: Dawn of War II - Retribution"
+      },
+      "57300": {
+        "playtime": 176,
+        "name": "Amnesia: The Dark Descent"
+      },
+      "63380": {
+        "playtime": 157,
+        "name": "Sniper Elite V2"
+      },
+      "65740": {
+        "playtime": 67,
+        "name": "Carrier Command: Gaea Mission"
+      },
+      "65800": {
+        "playtime": 739,
+        "name": "Dungeon Defenders"
+      },
+      "67370": {
+        "playtime": 28,
+        "name": "The Darkness II"
+      },
+      "72850": {
+        "playtime": 2926,
+        "name": "The Elder Scrolls V: Skyrim"
+      },
+      "91310": {
+        "playtime": 1173,
+        "name": "Dead Island"
+      },
+      "97330": {
+        "playtime": 224,
+        "name": "Magic: The Gathering - Duels of the Planeswalkers 2013"
+      },
+      "98300": {
+        "playtime": 432,
+        "name": "Toy Soldiers"
+      },
+      "99810": {
+        "playtime": 60,
+        "name": "Bulletstorm"
+      },
+      "105600": {
+        "playtime": 2175,
+        "name": "Terraria"
+      },
+      "107100": {
+        "playtime": 44,
+        "name": "Bastion"
+      },
+      "108600": {
+        "playtime": 341,
+        "name": "Project Zomboid"
+      },
+      "108710": {
+        "playtime": 0,
+        "name": "Alan Wake"
+      },
+      "109600": {
+        "playtime": 116,
+        "name": "Neverwinter"
+      },
+      "113200": {
+        "playtime": 620,
+        "name": "The Binding of Isaac"
+      },
+      "200110": {
+        "playtime": 7,
+        "name": "Nosgoth"
+      },
+      "200260": {
+        "playtime": 544,
+        "name": "Batman: Arkham City GOTY"
+      },
+      "200510": {
+        "playtime": 2323,
+        "name": "XCOM: Enemy Unknown"
+      },
+      "200710": {
+        "playtime": 267,
+        "name": "Torchlight II"
+      },
+      "201790": {
+        "playtime": 58,
+        "name": "Orcs Must Die! 2"
+      },
+      "202170": {
+        "playtime": 1294,
+        "name": "Sleeping Dogs™"
+      },
+      "202750": {
+        "playtime": 0,
+        "name": "Alan Wake's American Nightmare"
+      },
+      "202970": {
+        "playtime": 0,
+        "name": "Call of Duty: Black Ops II"
+      },
+      "202990": {
+        "playtime": 1757,
+        "name": "Call of Duty: Black Ops II - Multiplayer"
+      },
+      "203140": {
+        "playtime": 817,
+        "name": "Hitman: Absolution"
+      },
+      "203160": {
+        "playtime": 1110,
+        "name": "Tomb Raider"
+      },
+      "203770": {
+        "playtime": 64,
+        "name": "Crusader Kings II"
+      },
+      "204060": {
+        "playtime": 0,
+        "name": "Superbrothers: Sword & Sworcery EP"
+      },
+      "204300": {
+        "playtime": 1119,
+        "name": "Awesomenauts"
+      },
+      "204360": {
+        "playtime": 184,
+        "name": "Castle Crashers"
+      },
+      "205100": {
+        "playtime": 1377,
+        "name": "Dishonored"
+      },
+      "205710": {
+        "playtime": 1865,
+        "name": "EverQuest Free-to-Play"
+      },
+      "205930": {
+        "playtime": 0,
+        "name": "Hitman: Sniper Challenge"
+      },
+      "206210": {
+        "playtime": 0,
+        "name": "Gotham City Impostors: Free To Play"
+      },
+      "206420": {
+        "playtime": 548,
+        "name": "Saints Row IV"
+      },
+      "206980": {
+        "playtime": 21,
+        "name": "War of the Roses Balance Beta"
+      },
+      "207140": {
+        "playtime": 24,
+        "name": "SpeedRunners"
+      },
+      "208090": {
+        "playtime": 86,
+        "name": "Loadout"
+      },
+      "208480": {
+        "playtime": 1185,
+        "name": "Assassin's Creed® III"
+      },
+      "208650": {
+        "playtime": 0,
+        "name": "Batman™: Arkham Knight"
+      },
+      "209000": {
+        "playtime": 0,
+        "name": "Batman™: Arkham Origins"
+      },
+      "209080": {
+        "playtime": 100,
+        "name": "Guns of Icarus Online"
+      },
+      "210970": {
+        "playtime": 717,
+        "name": "The Witness"
+      },
+      "211420": {
+        "playtime": 1515,
+        "name": "DARK SOULS™: Prepare To Die Edition"
+      },
+      "211820": {
+        "playtime": 1844,
+        "name": "Starbound"
+      },
+      "212680": {
+        "playtime": 1225,
+        "name": "FTL: Faster Than Light"
+      },
+      "212910": {
+        "playtime": 146,
+        "name": "Call of Duty: Black Ops II - Zombies"
+      },
+      "213330": {
+        "playtime": 142,
+        "name": "LEGO® Batman™ 2: DC Super Heroes"
+      },
+      "214950": {
+        "playtime": 2179,
+        "name": "Total War: ROME II - Emperor Edition"
+      },
+      "216890": {
+        "playtime": 377,
+        "name": "Blood Bowl: Chaos Edition"
+      },
+      "218230": {
+        "playtime": 194,
+        "name": "PlanetSide 2"
+      },
+      "218620": {
+        "playtime": 448,
+        "name": "PAYDAY 2"
+      },
+      "219150": {
+        "playtime": 259,
+        "name": "Hotline Miami"
+      },
+      "219640": {
+        "playtime": 292,
+        "name": "Chivalry: Medieval Warfare"
+      },
+      "220240": {
+        "playtime": 424,
+        "name": "Far Cry® 3"
+      },
+      "220440": {
+        "playtime": 761,
+        "name": "DmC Devil May Cry"
+      },
+      "221100": {
+        "playtime": 177,
+        "name": "DayZ"
+      },
+      "223850": {
+        "playtime": 11,
+        "name": "3DMark"
+      },
+      "224600": {
+        "playtime": 680,
+        "name": "Defiance"
+      },
+      "225640": {
+        "playtime": 0,
+        "name": "Sacred 2 Gold"
+      },
+      "227480": {
+        "playtime": 205,
+        "name": "God Mode"
+      },
+      "228280": {
+        "playtime": 47,
+        "name": "Baldur's Gate: Enhanced Edition"
+      },
+      "230230": {
+        "playtime": 98,
+        "name": "Divinity: Original Sin (Classic)"
+      },
+      "230410": {
+        "playtime": 4637,
+        "name": "Warframe"
+      },
+      "231040": {
+        "playtime": 0,
+        "name": "Beatbuddy: Tale of the Guardians"
+      },
+      "232090": {
+        "playtime": 303,
+        "name": "Killing Floor 2"
+      },
+      "233270": {
+        "playtime": 199,
+        "name": "Far Cry® 3 Blood Dragon"
+      },
+      "233720": {
+        "playtime": 0,
+        "name": "Surgeon Simulator"
+      },
+      "233860": {
+        "playtime": 535,
+        "name": "Kenshi"
+      },
+      "234650": {
+        "playtime": 576,
+        "name": "Shadowrun Returns"
+      },
+      "235460": {
+        "playtime": 0,
+        "name": "METAL GEAR RISING: REVENGEANCE"
+      },
+      "235540": {
+        "playtime": 498,
+        "name": "Warhammer: End Times - Vermintide"
+      },
+      "236090": {
+        "playtime": 14,
+        "name": "Dust: An Elysian Tail"
+      },
+      "236110": {
+        "playtime": 90,
+        "name": "Dungeon Defenders II"
+      },
+      "236690": {
+        "playtime": 1738,
+        "name": "Blood Bowl 2"
+      },
+      "238960": {
+        "playtime": 28001,
+        "name": "Path of Exile"
+      },
+      "239160": {
+        "playtime": 196,
+        "name": "Thief"
+      },
+      "241540": {
+        "playtime": 334,
+        "name": "State of Decay"
+      },
+      "241930": {
+        "playtime": 867,
+        "name": "Middle-earth™: Shadow of Mordor™"
+      },
+      "242050": {
+        "playtime": 3404,
+        "name": "Assassin's Creed IV Black Flag"
+      },
+      "242720": {
+        "playtime": 22,
+        "name": "GunZ 2: The Second Duel"
+      },
+      "242920": {
+        "playtime": 357,
+        "name": "Banished"
+      },
+      "243470": {
+        "playtime": 1177,
+        "name": "Watch_Dogs"
+      },
+      "246620": {
+        "playtime": 246,
+        "name": "Plague Inc: Evolved"
+      },
+      "246900": {
+        "playtime": 534,
+        "name": "Viscera Cleanup Detail"
+      },
+      "249990": {
+        "playtime": 30,
+        "name": "FORCED"
+      },
+      "250320": {
+        "playtime": 209,
+        "name": "The Wolf Among Us"
+      },
+      "250760": {
+        "playtime": 72,
+        "name": "Shovel Knight: Treasure Trove"
+      },
+      "251570": {
+        "playtime": 0,
+        "name": "7 Days to Die"
+      },
+      "252950": {
+        "playtime": 117,
+        "name": "Rocket League"
+      },
+      "253230": {
+        "playtime": 218,
+        "name": "A Hat in Time"
+      },
+      "253250": {
+        "playtime": 665,
+        "name": "Stonehearth"
+      },
+      "255520": {
+        "playtime": 0,
+        "name": "Viscera Cleanup Detail: Shadow Warrior"
+      },
+      "255710": {
+        "playtime": 247,
+        "name": "Cities: Skylines"
+      },
+      "257850": {
+        "playtime": 271,
+        "name": "Hyper Light Drifter"
+      },
+      "258970": {
+        "playtime": 0,
+        "name": "Gauntlet™ "
+      },
+      "259680": {
+        "playtime": 310,
+        "name": "Tales of Maj'Eyal"
+      },
+      "261550": {
+        "playtime": 7412,
+        "name": "Mount & Blade II: Bannerlord"
+      },
+      "261570": {
+        "playtime": 0,
+        "name": "Ori and the Blind Forest"
+      },
+      "261640": {
+        "playtime": 0,
+        "name": "Borderlands: The Pre-Sequel"
+      },
+      "262060": {
+        "playtime": 1015,
+        "name": "Darkest Dungeon®"
+      },
+      "264710": {
+        "playtime": 154,
+        "name": "Subnautica"
+      },
+      "265210": {
+        "playtime": 0,
+        "name": "Viscera Cleanup Detail: Santa's Rampage"
+      },
+      "265300": {
+        "playtime": 634,
+        "name": "Lords Of The Fallen"
+      },
+      "266840": {
+        "playtime": 137,
+        "name": "Age of Mythology: Extended Edition"
+      },
+      "267490": {
+        "playtime": 0,
+        "name": "Batman™: Arkham Origins Blackgate - Deluxe Edition"
+      },
+      "268500": {
+        "playtime": 3172,
+        "name": "XCOM 2"
+      },
+      "268910": {
+        "playtime": 644,
+        "name": "Cuphead"
+      },
+      "271590": {
+        "playtime": 1281,
+        "name": "Grand Theft Auto V Legacy"
+      },
+      "271920": {
+        "playtime": 0,
+        "name": "Worlds Adrift Island Creator"
+      },
+      "272510": {
+        "playtime": 46,
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+      },
+      "273350": {
+        "playtime": 180,
+        "name": "Evolve Stage 2"
+      },
+      "275850": {
+        "playtime": 346,
+        "name": "No Man's Sky"
+      },
+      "281990": {
+        "playtime": 264,
+        "name": "Stellaris"
+      },
+      "286160": {
+        "playtime": 414,
+        "name": "Tabletop Simulator"
+      },
+      "286690": {
+        "playtime": 173,
+        "name": "Metro 2033 Redux"
+      },
+      "287390": {
+        "playtime": 0,
+        "name": "Metro: Last Light Redux"
+      },
+      "287700": {
+        "playtime": 3721,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+      },
+      "288160": {
+        "playtime": 100,
+        "name": "The Room"
+      },
+      "289070": {
+        "playtime": 700,
+        "name": "Sid Meier's Civilization VI"
+      },
+      "289130": {
+        "playtime": 97,
+        "name": "ENDLESS™ Legend"
+      },
+      "289650": {
+        "playtime": 343,
+        "name": "Assassin's Creed Unity"
+      },
+      "291650": {
+        "playtime": 5718,
+        "name": "Pillars of Eternity"
+      },
+      "292030": {
+        "playtime": 4540,
+        "name": "The Witcher 3: Wild Hunt"
+      },
+      "292120": {
+        "playtime": 255,
+        "name": "FINAL FANTASY XIII"
+      },
+      "294100": {
+        "playtime": 6816,
+        "name": "RimWorld"
+      },
+      "295110": {
+        "playtime": 641,
+        "name": "Just Survive"
+      },
+      "300550": {
+        "playtime": 7,
+        "name": "Shadowrun: Dragonfall - Director's Cut"
+      },
+      "304030": {
+        "playtime": 202,
+        "name": "ArcheAge"
+      },
+      "310950": {
+        "playtime": 50,
+        "name": "Street Fighter V"
+      },
+      "311340": {
+        "playtime": 210,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES"
+      },
+      "311690": {
+        "playtime": 345,
+        "name": "Enter the Gungeon"
+      },
+      "315880": {
+        "playtime": 116,
+        "name": "WTFast Gamers Private Network (GPN)"
+      },
+      "316010": {
+        "playtime": 73,
+        "name": "Magic Duels"
+      },
+      "322780": {
+        "playtime": 951,
+        "name": "Worlds Adrift"
+      },
+      "323470": {
+        "playtime": 978,
+        "name": "DRAGON BALL XENOVERSE"
+      },
+      "325610": {
+        "playtime": 98,
+        "name": "Total War: ATTILA"
+      },
+      "327890": {
+        "playtime": 0,
+        "name": "I Am Bread"
+      },
+      "328080": {
+        "playtime": 347,
+        "name": "Rise to Ruins"
+      },
+      "330840": {
+        "playtime": 365,
+        "name": "Game of Thrones - A Telltale Games Series"
+      },
+      "331670": {
+        "playtime": 493,
+        "name": "The Jackbox Party Pack"
+      },
+      "333640": {
+        "playtime": 139,
+        "name": "Caves of Qud"
+      },
+      "337000": {
+        "playtime": 387,
+        "name": "Deus Ex: Mankind Divided™"
+      },
+      "341390": {
+        "playtime": 16,
+        "name": "Vulture for NetHack"
+      },
+      "346110": {
+        "playtime": 602,
+        "name": "ARK: Survival Evolved"
+      },
+      "356190": {
+        "playtime": 197,
+        "name": "Middle-earth™: Shadow of War™"
+      },
+      "359320": {
+        "playtime": 0,
+        "name": "Elite Dangerous"
+      },
+      "359870": {
+        "playtime": 135,
+        "name": "FINAL FANTASY X/X-2 HD Remaster"
+      },
+      "362300": {
+        "playtime": 0,
+        "name": "Just Survive Test Server"
+      },
+      "362890": {
+        "playtime": 14,
+        "name": "Black Mesa"
+      },
+      "362960": {
+        "playtime": 686,
+        "name": "Tyranny"
+      },
+      "364360": {
+        "playtime": 5303,
+        "name": "Total War: WARHAMMER"
+      },
+      "365450": {
+        "playtime": 281,
+        "name": "Hacknet"
+      },
+      "365590": {
+        "playtime": 1217,
+        "name": "Tom Clancy's The Division"
+      },
+      "367500": {
+        "playtime": 468,
+        "name": "Dragon's Dogma: Dark Arisen"
+      },
+      "367520": {
+        "playtime": 689,
+        "name": "Hollow Knight"
+      },
+      "367540": {
+        "playtime": 0,
+        "name": "Starbound - Unstable"
+      },
+      "368500": {
+        "playtime": 62,
+        "name": "Assassin's Creed Syndicate"
+      },
+      "371970": {
+        "playtime": 417,
+        "name": "Barony"
+      },
+      "373420": {
+        "playtime": 23,
+        "name": "Divinity: Original Sin Enhanced Edition"
+      },
+      "374030": {
+        "playtime": 43,
+        "name": "Virginia"
+      },
+      "374320": {
+        "playtime": 2046,
+        "name": "DARK SOULS™ III"
+      },
+      "375910": {
+        "playtime": 80,
+        "name": "Anno 2205"
+      },
+      "377160": {
+        "playtime": 4578,
+        "name": "Fallout 4"
+      },
+      "377840": {
+        "playtime": 273,
+        "name": "FINAL FANTASY IX"
+      },
+      "379720": {
+        "playtime": 25,
+        "name": "DOOM"
+      },
+      "387290": {
+        "playtime": 871,
+        "name": "Ori and the Blind Forest: Definitive Edition"
+      },
+      "388080": {
+        "playtime": 756,
+        "name": "Borderless Gaming"
+      },
+      "389730": {
+        "playtime": 356,
+        "name": "TEKKEN 7"
+      },
+      "391220": {
+        "playtime": 1192,
+        "name": "Rise of the Tomb Raider"
+      },
+      "391540": {
+        "playtime": 1,
+        "name": "Undertale"
+      },
+      "392110": {
+        "playtime": 695,
+        "name": "ENDLESS™ Space 2"
+      },
+      "392160": {
+        "playtime": 1223,
+        "name": "X4: Foundations"
+      },
+      "394510": {
+        "playtime": 305,
+        "name": "HELLDIVERS™"
+      },
+      "403640": {
+        "playtime": 112,
+        "name": "Dishonored 2"
+      },
+      "407530": {
+        "playtime": 0,
+        "name": "ARK: Survival Of The Fittest"
+      },
+      "408740": {
+        "playtime": 236,
+        "name": "Pro Gamer Manager"
+      },
+      "409710": {
+        "playtime": 54,
+        "name": "BioShock Remastered"
+      },
+      "409720": {
+        "playtime": 0,
+        "name": "BioShock 2 Remastered"
+      },
+      "411300": {
+        "playtime": 808,
+        "name": "ELEX"
+      },
+      "413150": {
+        "playtime": 541,
+        "name": "Stardew Valley"
+      },
+      "414530": {
+        "playtime": 193,
+        "name": "Skyforge"
+      },
+      "420290": {
+        "playtime": 89,
+        "name": "Blackwake"
+      },
+      "424370": {
+        "playtime": 320,
+        "name": "Wolcen: Lords of Mayhem"
+      },
+      "427290": {
+        "playtime": 130,
+        "name": "Vampyr"
+      },
+      "427520": {
+        "playtime": 107,
+        "name": "Factorio"
+      },
+      "431960": {
+        "playtime": 2477,
+        "name": "Wallpaper Engine"
+      },
+      "433340": {
+        "playtime": 322,
+        "name": "Slime Rancher"
+      },
+      "433850": {
+        "playtime": 25,
+        "name": "Z1 Battle Royale"
+      },
+      "434170": {
+        "playtime": 97,
+        "name": "The Jackbox Party Pack 3"
+      },
+      "435150": {
+        "playtime": 2707,
+        "name": "Divinity: Original Sin 2"
+      },
+      "439700": {
+        "playtime": 0,
+        "name": "H1Z1: Test Server"
+      },
+      "445220": {
+        "playtime": 67,
+        "name": "Avorion"
+      },
+      "447040": {
+        "playtime": 549,
+        "name": "Watch_Dogs 2"
+      },
+      "454650": {
+        "playtime": 71,
+        "name": "DRAGON BALL XENOVERSE 2"
+      },
+      "456670": {
+        "playtime": 227,
+        "name": "Hand of Fate 2"
+      },
+      "457140": {
+        "playtime": 154,
+        "name": "Oxygen Not Included"
+      },
+      "468630": {
+        "playtime": 102,
+        "name": "Warhammer 40,000: Dawn of War III Open Beta"
+      },
+      "480490": {
+        "playtime": 288,
+        "name": "Prey"
+      },
+      "485510": {
+        "playtime": 305,
+        "name": "Nioh: Complete Edition"
+      },
+      "489830": {
+        "playtime": 1589,
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
+      },
+      "493900": {
+        "playtime": 194,
+        "name": "Dungeons 3"
+      },
+      "504370": {
+        "playtime": 365,
+        "name": "Battlerite"
+      },
+      "511470": {
+        "playtime": 349,
+        "name": "Glass Masquerade"
+      },
+      "524220": {
+        "playtime": 777,
+        "name": "NieR:Automata™"
+      },
+      "524440": {
+        "playtime": 0,
+        "name": "Tom Clancy's The Division PTS"
+      },
+      "525240": {
+        "playtime": 375,
+        "name": "LOST SPHEAR"
+      },
+      "526870": {
+        "playtime": 3090,
+        "name": "Satisfactory"
+      },
+      "534380": {
+        "playtime": 140,
+        "name": "Dying Light 2: Reloaded Edition"
+      },
+      "544750": {
+        "playtime": 144,
+        "name": "SOULCALIBUR VI"
+      },
+      "546560": {
+        "playtime": 0,
+        "name": "Half-Life: Alyx"
+      },
+      "548430": {
+        "playtime": 1372,
+        "name": "Deep Rock Galactic"
+      },
+      "548570": {
+        "playtime": 618,
+        "name": "RAGE 2"
+      },
+      "552500": {
+        "playtime": 439,
+        "name": "Warhammer: Vermintide 2"
+      },
+      "553850": {
+        "playtime": 372,
+        "name": "HELLDIVERS™ 2"
+      },
+      "557600": {
+        "playtime": 60,
+        "name": "Gorogoa"
+      },
+      "560130": {
+        "playtime": 2245,
+        "name": "Pillars of Eternity II: Deadfire"
+      },
+      "560380": {
+        "playtime": 49,
+        "name": "MapleStory 2"
+      },
+      "582010": {
+        "playtime": 356,
+        "name": "Monster Hunter: World"
+      },
+      "582160": {
+        "playtime": 1489,
+        "name": "Assassin's Creed Origins"
+      },
+      "588430": {
+        "playtime": 520,
+        "name": "Fallout Shelter"
+      },
+      "588650": {
+        "playtime": 101,
+        "name": "Dead Cells"
+      },
+      "590380": {
+        "playtime": 286,
+        "name": "Into the Breach"
+      },
+      "594570": {
+        "playtime": 10222,
+        "name": "Total War: WARHAMMER II"
+      },
+      "594650": {
+        "playtime": 675,
+        "name": "Hunt: Showdown 1896"
+      },
+      "595520": {
+        "playtime": 196,
+        "name": "FINAL FANTASY XII THE ZODIAC AGE"
+      },
+      "599140": {
+        "playtime": 835,
+        "name": "Graveyard Keeper"
+      },
+      "601150": {
+        "playtime": 195,
+        "name": "Devil May Cry 5"
+      },
+      "602490": {
+        "playtime": 0,
+        "name": "Blood Bowl: Death Zone"
+      },
+      "606140": {
+        "playtime": 16,
+        "name": "Survived By"
+      },
+      "614570": {
+        "playtime": 0,
+        "name": "Dishonored®: Death of the Outsider™ "
+      },
+      "631510": {
+        "playtime": 313,
+        "name": "Devil May Cry HD Collection"
+      },
+      "632360": {
+        "playtime": 1567,
+        "name": "Risk of Rain 2"
+      },
+      "632470": {
+        "playtime": 277,
+        "name": "Disco Elysium"
+      },
+      "637090": {
+        "playtime": 126,
+        "name": "BATTLETECH"
+      },
+      "638970": {
+        "playtime": 530,
+        "name": "Yakuza 0"
+      },
+      "640820": {
+        "playtime": 5414,
+        "name": "Pathfinder: Kingmaker"
+      },
+      "641080": {
+        "playtime": 234,
+        "name": "Trials Rising"
+      },
+      "644930": {
+        "playtime": 809,
+        "name": "They Are Billions"
+      },
+      "646570": {
+        "playtime": 344,
+        "name": "Slay the Spire"
+      },
+      "648800": {
+        "playtime": 2129,
+        "name": "Raft"
+      },
+      "653530": {
+        "playtime": 449,
+        "name": "Return of the Obra Dinn"
+      },
+      "656350": {
+        "playtime": 122,
+        "name": "UnderMine"
+      },
+      "656530": {
+        "playtime": 0,
+        "name": "Pro Gamer Manager 2"
+      },
+      "666140": {
+        "playtime": 74,
+        "name": "My Time at Portia"
+      },
+      "667720": {
+        "playtime": 0,
+        "name": "Red Faction Guerrilla Re-Mars-tered"
+      },
+      "673130": {
+        "playtime": 15,
+        "name": "AMID EVIL"
+      },
+      "673880": {
+        "playtime": 210,
+        "name": "Warhammer 40,000: Mechanicus"
+      },
+      "692850": {
+        "playtime": 682,
+        "name": "Bloodstained: Ritual of the Night"
+      },
+      "699170": {
+        "playtime": 289,
+        "name": "Fell Seal: Arbiter's Mark"
+      },
+      "700600": {
+        "playtime": 1836,
+        "name": "Evil Genius 2"
+      },
+      "704450": {
+        "playtime": 2563,
+        "name": "Neverwinter Nights: Enhanced Edition"
+      },
+      "718850": {
+        "playtime": 374,
+        "name": "Age of Wonders: Planetfall"
+      },
+      "739630": {
+        "playtime": 214,
+        "name": "Phasmophobia"
+      },
+      "741820": {
+        "playtime": 0,
+        "name": "Prey: Typhon Hunter"
+      },
+      "742120": {
+        "playtime": 1859,
+        "name": "DRAGON QUEST® XI: Echoes of an Elusive Age™"
+      },
+      "750920": {
+        "playtime": 408,
+        "name": "Shadow of the Tomb Raider"
+      },
+      "752590": {
+        "playtime": 42,
+        "name": "A Plague Tale: Innocence"
+      },
+      "761890": {
+        "playtime": 16,
+        "name": "Albion Online"
+      },
+      "770720": {
+        "playtime": 0,
+        "name": "Hunt: Showdown 1896 (Test Server)"
+      },
+      "774181": {
+        "playtime": 143,
+        "name": "Rhythm Doctor"
+      },
+      "779340": {
+        "playtime": 2054,
+        "name": "Total War: THREE KINGDOMS"
+      },
+      "782330": {
+        "playtime": 28,
+        "name": "DOOM Eternal"
+      },
+      "804010": {
+        "playtime": 92,
+        "name": "SteamWorld Quest: Hand of Gilgamech"
+      },
+      "812140": {
+        "playtime": 1459,
+        "name": "Assassin's Creed Odyssey"
+      },
+      "814380": {
+        "playtime": 507,
+        "name": "Sekiro™: Shadows Die Twice"
+      },
+      "823500": {
+        "playtime": 565,
+        "name": "BONEWORKS"
+      },
+      "848350": {
+        "playtime": 12,
+        "name": "Katamari Damacy REROLL"
+      },
+      "848450": {
+        "playtime": 104,
+        "name": "Subnautica: Below Zero"
+      },
+      "851850": {
+        "playtime": 232,
+        "name": "DRAGON BALL Z: KAKAROT"
+      },
+      "858810": {
+        "playtime": 443,
+        "name": "Dawn of Man"
+      },
+      "861540": {
+        "playtime": 152,
+        "name": "Dicey Dungeons"
+      },
+      "883710": {
+        "playtime": 867,
+        "name": "Resident Evil 2"
+      },
+      "899770": {
+        "playtime": 3865,
+        "name": "Last Epoch"
+      },
+      "921570": {
+        "playtime": 28,
+        "name": "OCTOPATH TRAVELER"
+      },
+      "955900": {
+        "playtime": 506,
+        "name": "Amazing Cultivation Simulator"
+      },
+      "962130": {
+        "playtime": 118,
+        "name": "Grounded"
+      },
+      "975370": {
+        "playtime": 351,
+        "name": "Dwarf Fortress"
+      },
+      "976310": {
+        "playtime": 282,
+        "name": "Mortal Kombat 11"
+      },
+      "976730": {
+        "playtime": 915,
+        "name": "Halo: The Master Chief Collection"
+      },
+      "990080": {
+        "playtime": 2662,
+        "name": "Hogwarts Legacy"
+      },
+      "1004640": {
+        "playtime": 0,
+        "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+      },
+      "1026680": {
+        "playtime": 22,
+        "name": "FINAL FANTASY VIII - REMASTERED"
+      },
+      "1026820": {
+        "playtime": 153,
+        "name": "Coloring Game"
+      },
+      "1030830": {
+        "playtime": 0,
+        "name": "Mafia II: Definitive Edition"
+      },
+      "1056640": {
+        "playtime": 55,
+        "name": "Phantasy Star Online 2 New Genesis"
+      },
+      "1058130": {
+        "playtime": 16,
+        "name": "Queen's Wish: The Conqueror"
+      },
+      "1063730": {
+        "playtime": 3944,
+        "name": "New World: Aeternum"
+      },
+      "1069160": {
+        "playtime": 235,
+        "name": "SKALD: Against the Black Priory"
+      },
+      "1071940": {
+        "playtime": 217,
+        "name": "Streamer's Life"
+      },
+      "1085660": {
+        "playtime": 685,
+        "name": "Destiny 2"
+      },
+      "1086940": {
+        "playtime": 6495,
+        "name": "Baldur's Gate 3"
+      },
+      "1091500": {
+        "playtime": 3371,
+        "name": "Cyberpunk 2077"
+      },
+      "1096530": {
+        "playtime": 1376,
+        "name": "Solasta: Crown of the Magister"
+      },
+      "1097150": {
+        "playtime": 54,
+        "name": "Fall Guys"
+      },
+      "1113000": {
+        "playtime": 931,
+        "name": "Persona 4 Golden"
+      },
+      "1142710": {
+        "playtime": 5497,
+        "name": "Total War: WARHAMMER III"
+      },
+      "1145360": {
+        "playtime": 522,
+        "name": "Hades"
+      },
+      "1151640": {
+        "playtime": 3112,
+        "name": "Horizon Zero Dawn™ Complete Edition"
+      },
+      "1158310": {
+        "playtime": 1550,
+        "name": "Crusader Kings III"
+      },
+      "1161580": {
+        "playtime": 768,
+        "name": "Hardspace: Shipbreaker"
+      },
+      "1172380": {
+        "playtime": 696,
+        "name": "STAR WARS Jedi: Fallen Order™ "
+      },
+      "1172470": {
+        "playtime": 838,
+        "name": "Apex Legends"
+      },
+      "1173820": {
+        "playtime": 10,
+        "name": "FINAL FANTASY VI"
+      },
+      "1174180": {
+        "playtime": 2678,
+        "name": "Red Dead Redemption 2"
+      },
+      "1184370": {
+        "playtime": 5589,
+        "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+      },
+      "1190160": {
+        "playtime": 27,
+        "name": "LIT: Bend the Light"
+      },
+      "1190460": {
+        "playtime": 1699,
+        "name": "DEATH STRANDING"
+      },
+      "1229240": {
+        "playtime": 1214,
+        "name": "Chained Echoes"
+      },
+      "1235140": {
+        "playtime": 1384,
+        "name": "Yakuza: Like a Dragon"
+      },
+      "1245620": {
+        "playtime": 2675,
+        "name": "ELDEN RING"
+      },
+      "1272320": {
+        "playtime": 10,
+        "name": "Diplomacy is Not an Option"
+      },
+      "1281930": {
+        "playtime": 1721,
+        "name": "tModLoader"
+      },
+      "1282730": {
+        "playtime": 1099,
+        "name": "Loop Hero"
+      },
+      "1286830": {
+        "playtime": 14,
+        "name": "STAR WARS™: The Old Republic™"
+      },
+      "1290000": {
+        "playtime": 559,
+        "name": "PowerWash Simulator"
+      },
+      "1328670": {
+        "playtime": 861,
+        "name": "Mass Effect™ Legendary Edition"
+      },
+      "1361210": {
+        "playtime": 1570,
+        "name": "Warhammer 40,000: Darktide"
+      },
+      "1361320": {
+        "playtime": 188,
+        "name": "The Room 4: Old Sins"
+      },
+      "1412570": {
+        "playtime": 161,
+        "name": "Monster Hunter Stories 2: Wings of Ruin Trial Version"
+      },
+      "1422450": {
+        "playtime": 735,
+        "name": "Deadlock"
+      },
+      "1517290": {
+        "playtime": 325,
+        "name": "Battlefield™ 2042"
+      },
+      "1569580": {
+        "playtime": 582,
+        "name": "Blue Prince"
+      },
+      "1592190": {
+        "playtime": 248,
+        "name": "BONELAB"
+      },
+      "1649240": {
+        "playtime": 158,
+        "name": "Returnal™"
+      },
+      "1669000": {
+        "playtime": 238,
+        "name": "Age of Wonders 4"
+      },
+      "1716740": {
+        "playtime": 2731,
+        "name": "Starfield"
+      },
+      "1778820": {
+        "playtime": 34,
+        "name": "TEKKEN 8"
+      },
+      "1794680": {
+        "playtime": 1249,
+        "name": "Vampire Survivors"
+      },
+      "1817070": {
+        "playtime": 558,
+        "name": "Marvel’s Spider-Man Remastered"
+      },
+      "1817230": {
+        "playtime": 505,
+        "name": "Hi-Fi RUSH"
+      },
+      "1885110": {
+        "playtime": 309,
+        "name": "Cryptmaster"
+      },
+      "1903340": {
+        "playtime": 2285,
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "1904480": {
+        "playtime": 582,
+        "name": "Absolum"
+      },
+      "1997040": {
+        "playtime": 85,
+        "name": "MARVEL SNAP"
+      },
+      "2054970": {
+        "playtime": 1644,
+        "name": "Dragon's Dogma 2"
+      },
+      "2135150": {
+        "playtime": 1302,
+        "name": "Elin"
+      },
+      "2141910": {
+        "playtime": 49,
+        "name": "Magic: The Gathering Arena"
+      },
+      "2183900": {
+        "playtime": 71,
+        "name": "Warhammer 40,000: Space Marine 2"
+      },
+      "2186680": {
+        "playtime": 813,
+        "name": "Warhammer 40,000: Rogue Trader"
+      },
+      "2215200": {
+        "playtime": 245,
+        "name": "LEGO® Batman™: Legacy of the Dark Knight"
+      },
+      "2215430": {
+        "playtime": 1388,
+        "name": "Ghost of Tsushima DIRECTOR'S CUT"
+      },
+      "2218750": {
+        "playtime": 866,
+        "name": "Halls of Torment"
+      },
+      "2231450": {
+        "playtime": 0,
+        "name": "Pizza Tower"
+      },
+      "2334730": {
+        "playtime": 480,
+        "name": "Death Must Die"
+      },
+      "2352620": {
+        "playtime": 54,
+        "name": "Fellowship"
+      },
+      "2362420": {
+        "playtime": 0,
+        "name": "Mass Effect 2 (2010) Edition"
+      },
+      "2379780": {
+        "playtime": 38,
+        "name": "Balatro"
+      },
+      "2384580": {
+        "playtime": 447,
+        "name": "DYNASTY WARRIORS: ORIGINS"
+      },
+      "2420110": {
+        "playtime": 681,
+        "name": "Horizon Forbidden West™ Complete Edition"
+      },
+      "2457220": {
+        "playtime": 799,
+        "name": "Avowed"
+      },
+      "2694490": {
+        "playtime": 120,
+        "name": "Path of Exile 2"
+      },
+      "2767030": {
+        "playtime": 924,
+        "name": "Marvel Rivals"
+      },
+      "2868840": {
+        "playtime": 231,
+        "name": "Slay the Spire 2"
+      },
+      "2909400": {
+        "playtime": 1927,
+        "name": "FINAL FANTASY VII REBIRTH"
+      },
+      "3057670": {
+        "playtime": 44,
+        "name": "Pluto"
+      },
+      "3240220": {
+        "playtime": 0,
+        "name": "Grand Theft Auto V Enhanced"
+      },
+      "3405340": {
+        "playtime": 1022,
+        "name": "Megabonk"
+      },
+      "3837340": {
+        "playtime": 0,
+        "name": "FINAL FANTASY VII"
+      },
+      "4197610": {
+        "playtime": 252,
+        "name": "Librarian: Tidy Up the Arcane Library!"
+      }
+    },
+    "level": 20,
+    "achievements": {
+      "2215200": [
+        "Achievement_10_Id",
+        "Achievement_18_Id",
+        "Achievement_19_Id",
+        "Achievement_35_Id",
+        "Achievement_41_Id",
+        "Achievement_42_Id"
+      ],
+      "4197610": [
+        "ACH_FIRST_ROW",
+        "ACH_50_ROWS",
+        "ACH_200_ROWS",
+        "ACH_400_ROWS",
+        "ACH_FIRST_LEVEL_UP",
+        "ACH_LEVEL_UP_ALL_MAX",
+        "ACH_UNLOCK_ALL_MAJOR_MAGIC"
+      ]
+    },
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 377465,
+    "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
+    "weeklyAchievements": 13
+  },
+  "76561198131238066": {
+    "games": {
+      "70": {
+        "playtime": 9,
+        "name": "Half-Life"
+      },
+      "220": {
+        "playtime": 0,
+        "name": "Half-Life 2"
+      },
+      "320": {
+        "playtime": 0,
+        "name": "Half-Life 2: Deathmatch"
+      },
+      "360": {
+        "playtime": 0,
+        "name": "Half-Life Deathmatch: Source"
+      },
+      "2280": {
+        "playtime": 22,
+        "name": "DOOM + DOOM II"
+      },
+      "2700": {
+        "playtime": 18,
+        "name": "RollerCoaster Tycoon 3: Platinum!"
+      },
+      "3330": {
+        "playtime": 2,
+        "name": "Zuma Deluxe"
+      },
+      "3480": {
+        "playtime": 15,
+        "name": "Peggle Deluxe"
+      },
+      "4000": {
+        "playtime": 0,
+        "name": "Garry's Mod"
+      },
+      "4570": {
+        "playtime": 58,
+        "name": "Warhammer 40,000: Dawn of War - Anniversary Edition "
+      },
+      "4580": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Dawn of War - Dark Crusade"
+      },
+      "4760": {
+        "playtime": 12,
+        "name": "Rome: Total War"
+      },
+      "6910": {
+        "playtime": 22,
+        "name": "Deus Ex: Game of the Year Edition"
+      },
+      "6920": {
+        "playtime": 0,
+        "name": "Deus Ex: Invisible War"
+      },
+      "7670": {
+        "playtime": 304,
+        "name": "BioShock"
+      },
+      "8190": {
+        "playtime": 108,
+        "name": "Just Cause 2"
+      },
+      "8400": {
+        "playtime": 7,
+        "name": "Geometry Wars: Retro Evolved"
+      },
+      "8850": {
+        "playtime": 0,
+        "name": "BioShock 2"
+      },
+      "8980": {
+        "playtime": 24,
+        "name": "Borderlands GOTY"
+      },
+      "9050": {
+        "playtime": 4,
+        "name": "DOOM 3"
+      },
+      "9070": {
+        "playtime": 0,
+        "name": "DOOM 3: Resurrection of Evil"
+      },
+      "9310": {
+        "playtime": 1,
+        "name": "Warhammer 40,000: Dawn of War - Winter Assault"
+      },
+      "9450": {
+        "playtime": 6,
+        "name": "Warhammer 40,000: Dawn of War - Soulstorm"
+      },
+      "10150": {
+        "playtime": 34,
+        "name": "Prototype"
+      },
+      "10680": {
+        "playtime": 0,
+        "name": "Aliens vs. Predator"
+      },
+      "12100": {
+        "playtime": 0,
+        "name": "Grand Theft Auto III"
+      },
+      "12200": {
+        "playtime": 6,
+        "name": "Bully: Scholarship Edition"
+      },
+      "12210": {
+        "playtime": 115,
+        "name": "Grand Theft Auto IV: The Complete Edition"
+      },
+      "12230": {
+        "playtime": 0,
+        "name": "Grand Theft Auto III"
+      },
+      "15170": {
+        "playtime": 24,
+        "name": "Heroes of Might & Magic V"
+      },
+      "17390": {
+        "playtime": 69,
+        "name": "Spore"
+      },
+      "17470": {
+        "playtime": 53,
+        "name": "Dead Space (2008)"
+      },
+      "18500": {
+        "playtime": 167,
+        "name": "Defense Grid: The Awakening"
+      },
+      "20500": {
+        "playtime": 609,
+        "name": "Red Faction: Guerrilla Steam Edition"
+      },
+      "20900": {
+        "playtime": 60,
+        "name": "The Witcher: Enhanced Edition"
+      },
+      "21000": {
+        "playtime": 0,
+        "name": "LEGO® Batman™: The Videogame"
+      },
+      "21130": {
+        "playtime": 0,
+        "name": "LEGO® Harry Potter: Years 1-4"
+      },
+      "21680": {
+        "playtime": 1,
+        "name": "Bionic Commando Rearmed"
+      },
+      "21690": {
+        "playtime": 724,
+        "name": "Resident Evil 5"
+      },
+      "22320": {
+        "playtime": 119,
+        "name": "The Elder Scrolls III: Morrowind"
+      },
+      "22330": {
+        "playtime": 2103,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)"
+      },
+      "22370": {
+        "playtime": 1654,
+        "name": "Fallout 3 - Game of the Year Edition"
+      },
+      "22380": {
+        "playtime": 4728,
+        "name": "Fallout: New Vegas"
+      },
+      "23310": {
+        "playtime": 0,
+        "name": "The Last Remnant"
+      },
+      "24720": {
+        "playtime": 4,
+        "name": "Spore: Galactic Adventures"
+      },
+      "31290": {
+        "playtime": 144,
+        "name": "Back to the Future: Ep 1 - It's About Time"
+      },
+      "32370": {
+        "playtime": 9,
+        "name": "STAR WARS™ Knights of the Old Republic™"
+      },
+      "34270": {
+        "playtime": 3,
+        "name": "SEGA Mega Drive & Genesis Classics"
+      },
+      "38400": {
+        "playtime": 38,
+        "name": "Fallout"
+      },
+      "38410": {
+        "playtime": 167,
+        "name": "Fallout 2"
+      },
+      "40800": {
+        "playtime": 26,
+        "name": "Super Meat Boy"
+      },
+      "49520": {
+        "playtime": 0,
+        "name": "Borderlands 2"
+      },
+      "55150": {
+        "playtime": 378,
+        "name": "Warhammer 40,000: Space Marine - Anniversary Edition"
+      },
+      "67370": {
+        "playtime": 4,
+        "name": "The Darkness II"
+      },
+      "72200": {
+        "playtime": 71,
+        "name": "Universe Sandbox Legacy"
+      },
+      "72850": {
+        "playtime": 3038,
+        "name": "The Elder Scrolls V: Skyrim"
+      },
+      "91310": {
+        "playtime": 62,
+        "name": "Dead Island"
+      },
+      "94500": {
+        "playtime": 0,
+        "name": "Back to the Future: Ep 2 - Get Tannen!"
+      },
+      "94510": {
+        "playtime": 0,
+        "name": "Back to the Future: Ep 3 - Citizen Brown"
+      },
+      "94520": {
+        "playtime": 0,
+        "name": "Back to the Future: Ep 4 - Double Visions"
+      },
+      "94530": {
+        "playtime": 0,
+        "name": "Back to the Future: Ep 5 - OUTATIME"
+      },
+      "108600": {
+        "playtime": 1116,
+        "name": "Project Zomboid"
+      },
+      "113200": {
+        "playtime": 20,
+        "name": "The Binding of Isaac"
+      },
+      "203160": {
+        "playtime": 481,
+        "name": "Tomb Raider"
+      },
+      "204120": {
+        "playtime": 0,
+        "name": "LEGO® Harry Potter: Years 5-7"
+      },
+      "204360": {
+        "playtime": 431,
+        "name": "Castle Crashers"
+      },
+      "204880": {
+        "playtime": 1,
+        "name": "Sins of a Solar Empire: Rebellion"
+      },
+      "205020": {
+        "playtime": 0,
+        "name": "Lumino City"
+      },
+      "205100": {
+        "playtime": 182,
+        "name": "Dishonored"
+      },
+      "205230": {
+        "playtime": 0,
+        "name": "Hell Yeah!"
+      },
+      "205950": {
+        "playtime": 0,
+        "name": "Jet Set Radio"
+      },
+      "207170": {
+        "playtime": 302,
+        "name": "Legend of Grimrock"
+      },
+      "208140": {
+        "playtime": 4,
+        "name": "ENDLESS™ Space - Definitive Edition"
+      },
+      "208200": {
+        "playtime": 0,
+        "name": "DOOM 3: BFG Edition"
+      },
+      "209000": {
+        "playtime": 6,
+        "name": "Batman™: Arkham Origins"
+      },
+      "210770": {
+        "playtime": 104,
+        "name": "Sanctum 2"
+      },
+      "211420": {
+        "playtime": 658,
+        "name": "DARK SOULS™: Prepare To Die Edition"
+      },
+      "212480": {
+        "playtime": 147,
+        "name": "Sonic & All-Stars Racing Transformed Collection"
+      },
+      "212680": {
+        "playtime": 544,
+        "name": "FTL: Faster Than Light"
+      },
+      "213330": {
+        "playtime": 0,
+        "name": "LEGO® Batman™ 2: DC Super Heroes"
+      },
+      "213670": {
+        "playtime": 567,
+        "name": "South Park™: The Stick of Truth™"
+      },
+      "214150": {
+        "playtime": 1,
+        "name": "Galactic Civilizations I: Ultimate Edition"
+      },
+      "214340": {
+        "playtime": 0,
+        "name": "Deponia"
+      },
+      "214490": {
+        "playtime": 249,
+        "name": "Alien: Isolation"
+      },
+      "214510": {
+        "playtime": 12,
+        "name": "LEGO® The Lord of the Rings™"
+      },
+      "216250": {
+        "playtime": 24,
+        "name": "Dead Island Riptide"
+      },
+      "218680": {
+        "playtime": 12,
+        "name": "Scribblenauts Unlimited"
+      },
+      "218820": {
+        "playtime": 32,
+        "name": "Mercenary Kings"
+      },
+      "219150": {
+        "playtime": 302,
+        "name": "Hotline Miami"
+      },
+      "219740": {
+        "playtime": 65,
+        "name": "Don't Starve"
+      },
+      "221040": {
+        "playtime": 495,
+        "name": "Resident Evil 6"
+      },
+      "221910": {
+        "playtime": 77,
+        "name": "The Stanley Parable"
+      },
+      "223470": {
+        "playtime": 17,
+        "name": "POSTAL 2"
+      },
+      "224960": {
+        "playtime": 1,
+        "name": "Tomb Raider I"
+      },
+      "225260": {
+        "playtime": 1,
+        "name": "Brütal Legend"
+      },
+      "225300": {
+        "playtime": 0,
+        "name": "Tomb Raider II"
+      },
+      "225320": {
+        "playtime": 0,
+        "name": "Tomb Raider III: Adventures of Lara Croft"
+      },
+      "225540": {
+        "playtime": 108,
+        "name": "Just Cause 3"
+      },
+      "228260": {
+        "playtime": 0,
+        "name": "Fallen Enchantress: Legendary Heroes"
+      },
+      "228300": {
+        "playtime": 24,
+        "name": "Remember Me"
+      },
+      "233290": {
+        "playtime": 12,
+        "name": "MURDERED: SOUL SUSPECT™"
+      },
+      "233740": {
+        "playtime": 108,
+        "name": "Organ Trail: Director's Cut"
+      },
+      "234140": {
+        "playtime": 31,
+        "name": "Mad Max"
+      },
+      "234920": {
+        "playtime": 75,
+        "name": "Dyscourse"
+      },
+      "235210": {
+        "playtime": 42,
+        "name": "Strider"
+      },
+      "235900": {
+        "playtime": 3,
+        "name": "RPG Maker XP"
+      },
+      "238010": {
+        "playtime": 72,
+        "name": "Deus Ex: Human Revolution - Director's Cut"
+      },
+      "238320": {
+        "playtime": 5,
+        "name": "Outlast"
+      },
+      "238370": {
+        "playtime": 94,
+        "name": "Magicka 2"
+      },
+      "239030": {
+        "playtime": 99,
+        "name": "Papers, Please"
+      },
+      "241600": {
+        "playtime": 4,
+        "name": "Rogue Legacy"
+      },
+      "241930": {
+        "playtime": 379,
+        "name": "Middle-earth™: Shadow of Mordor™"
+      },
+      "242570": {
+        "playtime": 20,
+        "name": "Space Hulk (Classic)"
+      },
+      "242680": {
+        "playtime": 22,
+        "name": "Nuclear Throne"
+      },
+      "244850": {
+        "playtime": 39,
+        "name": "Space Engineers"
+      },
+      "246620": {
+        "playtime": 456,
+        "name": "Plague Inc: Evolved"
+      },
+      "247000": {
+        "playtime": 22,
+        "name": "Talisman: Digital Classic Edition"
+      },
+      "248310": {
+        "playtime": 1,
+        "name": "Freedom Planet"
+      },
+      "249130": {
+        "playtime": 0,
+        "name": "LEGO® MARVEL Super Heroes"
+      },
+      "250900": {
+        "playtime": 4552,
+        "name": "The Binding of Isaac: Rebirth"
+      },
+      "251710": {
+        "playtime": 0,
+        "name": "Chainsaw Warrior"
+      },
+      "252410": {
+        "playtime": 241,
+        "name": "SteamWorld Dig"
+      },
+      "254700": {
+        "playtime": 2876,
+        "name": "Resident Evil 4 (2005)"
+      },
+      "257970": {
+        "playtime": 0,
+        "name": "Loren The Amazon Princess"
+      },
+      "258180": {
+        "playtime": 0,
+        "name": "Deus Ex: The Fall"
+      },
+      "262060": {
+        "playtime": 27,
+        "name": "Darkest Dungeon®"
+      },
+      "264690": {
+        "playtime": 0,
+        "name": "Coin Crypt"
+      },
+      "264710": {
+        "playtime": 978,
+        "name": "Subnautica"
+      },
+      "266110": {
+        "playtime": 60,
+        "name": "Tower of Guns"
+      },
+      "267530": {
+        "playtime": 0,
+        "name": "The LEGO® Movie - Videogame"
+      },
+      "269650": {
+        "playtime": 0,
+        "name": "Dex"
+      },
+      "271590": {
+        "playtime": 0,
+        "name": "Grand Theft Auto V Legacy"
+      },
+      "272470": {
+        "playtime": 0,
+        "name": "The Incredible Adventures of Van Helsing II"
+      },
+      "275610": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Kill Team"
+      },
+      "275850": {
+        "playtime": 398,
+        "name": "No Man's Sky"
+      },
+      "285160": {
+        "playtime": 0,
+        "name": "LEGO® The Hobbit™"
+      },
+      "286040": {
+        "playtime": 0,
+        "name": "Dead Effect"
+      },
+      "286160": {
+        "playtime": 463,
+        "name": "Tabletop Simulator"
+      },
+      "286690": {
+        "playtime": 60,
+        "name": "Metro 2033 Redux"
+      },
+      "287020": {
+        "playtime": 10,
+        "name": "Harvester"
+      },
+      "287700": {
+        "playtime": 3287,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+      },
+      "288470": {
+        "playtime": 13,
+        "name": "Fable Anniversary"
+      },
+      "289070": {
+        "playtime": 10,
+        "name": "Sid Meier's Civilization VI"
+      },
+      "289130": {
+        "playtime": 0,
+        "name": "ENDLESS™ Legend"
+      },
+      "297000": {
+        "playtime": 1688,
+        "name": "Heroes of Might & Magic III - HD Edition"
+      },
+      "301970": {
+        "playtime": 0,
+        "name": "Screencheat"
+      },
+      "305050": {
+        "playtime": 4,
+        "name": "Outland"
+      },
+      "307600": {
+        "playtime": 0,
+        "name": "Chainsaw Warrior: Lords of the Night"
+      },
+      "307690": {
+        "playtime": 67,
+        "name": "Sleeping Dogs: Definitive Edition"
+      },
+      "310080": {
+        "playtime": 0,
+        "name": "Hatoful Boyfriend"
+      },
+      "311340": {
+        "playtime": 90,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES"
+      },
+      "311690": {
+        "playtime": 83,
+        "name": "Enter the Gungeon"
+      },
+      "311860": {
+        "playtime": 0,
+        "name": "Data Hacker: Initiation"
+      },
+      "312520": {
+        "playtime": 8,
+        "name": "Rain World"
+      },
+      "312750": {
+        "playtime": 8,
+        "name": "Final Fantasy IV (3D Remake)"
+      },
+      "313690": {
+        "playtime": 0,
+        "name": "LEGO® Batman™ 3: Beyond Gotham"
+      },
+      "322190": {
+        "playtime": 32,
+        "name": "SteamWorld Heist"
+      },
+      "322330": {
+        "playtime": 46,
+        "name": "Don't Starve Together"
+      },
+      "322910": {
+        "playtime": 105,
+        "name": "Warhammer 40,000: Regicide"
+      },
+      "323060": {
+        "playtime": 129,
+        "name": "Tharsis"
+      },
+      "326670": {
+        "playtime": 0,
+        "name": "Warhammer Quest"
+      },
+      "329000": {
+        "playtime": 0,
+        "name": "Data Hacker: Corruption"
+      },
+      "329380": {
+        "playtime": 0,
+        "name": "Stealth Inc 2"
+      },
+      "332310": {
+        "playtime": 10,
+        "name": "LEGO® Worlds"
+      },
+      "333950": {
+        "playtime": 11,
+        "name": "Medieval Engineers"
+      },
+      "334070": {
+        "playtime": 0,
+        "name": "Hektor"
+      },
+      "335300": {
+        "playtime": 2489,
+        "name": "DARK SOULS™ II: Scholar of the First Sin"
+      },
+      "337000": {
+        "playtime": 950,
+        "name": "Deus Ex: Mankind Divided™"
+      },
+      "337110": {
+        "playtime": 0,
+        "name": "Bard to the Future"
+      },
+      "343170": {
+        "playtime": 0,
+        "name": "Cyberpunk 3776"
+      },
+      "343360": {
+        "playtime": 0,
+        "name": "Particula"
+      },
+      "343710": {
+        "playtime": 3,
+        "name": "KHOLAT"
+      },
+      "346010": {
+        "playtime": 86,
+        "name": "Besiege"
+      },
+      "352400": {
+        "playtime": 104,
+        "name": "LEGO® Jurassic World"
+      },
+      "353560": {
+        "playtime": 19,
+        "name": "Plug & Play"
+      },
+      "357280": {
+        "playtime": 0,
+        "name": "Alter World"
+      },
+      "358840": {
+        "playtime": 0,
+        "name": "ZombieRun"
+      },
+      "359320": {
+        "playtime": 76,
+        "name": "Elite Dangerous"
+      },
+      "362890": {
+        "playtime": 42,
+        "name": "Black Mesa"
+      },
+      "368360": {
+        "playtime": 0,
+        "name": "60 Seconds!"
+      },
+      "371200": {
+        "playtime": 305,
+        "name": "Halcyon 6: Starbase Commander (CLASSIC)"
+      },
+      "377160": {
+        "playtime": 2943,
+        "name": "Fallout 4"
+      },
+      "377310": {
+        "playtime": 0,
+        "name": "The Tower Of Elements"
+      },
+      "379430": {
+        "playtime": 70,
+        "name": "Kingdom Come: Deliverance"
+      },
+      "379720": {
+        "playtime": 941,
+        "name": "DOOM"
+      },
+      "386990": {
+        "playtime": 0,
+        "name": "Asphyxia"
+      },
+      "391220": {
+        "playtime": 938,
+        "name": "Rise of the Tomb Raider"
+      },
+      "391540": {
+        "playtime": 99,
+        "name": "Undertale"
+      },
+      "397080": {
+        "playtime": 0,
+        "name": "Magicka 2: Spell Balance Beta"
+      },
+      "399810": {
+        "playtime": 0,
+        "name": "Call of Cthulhu"
+      },
+      "401690": {
+        "playtime": 192,
+        "name": "Life in Bunker"
+      },
+      "403830": {
+        "playtime": 17,
+        "name": "The Consuming Shadow"
+      },
+      "405310": {
+        "playtime": 0,
+        "name": "LEGO® MARVEL's Avengers"
+      },
+      "409710": {
+        "playtime": 20,
+        "name": "BioShock Remastered"
+      },
+      "409720": {
+        "playtime": 0,
+        "name": "BioShock 2 Remastered"
+      },
+      "410110": {
+        "playtime": 0,
+        "name": "12 is Better Than 6"
+      },
+      "410320": {
+        "playtime": 141,
+        "name": "EARTH DEFENSE FORCE 4.1  The Shadow of New Despair"
+      },
+      "411300": {
+        "playtime": 418,
+        "name": "ELEX"
+      },
+      "412020": {
+        "playtime": 0,
+        "name": "Metro Exodus"
+      },
+      "433340": {
+        "playtime": 24,
+        "name": "Slime Rancher"
+      },
+      "438640": {
+        "playtime": 0,
+        "name": "LEGO® STAR WARS™: The Force Awakens"
+      },
+      "457140": {
+        "playtime": 4241,
+        "name": "Oxygen Not Included"
+      },
+      "469600": {
+        "playtime": 0,
+        "name": "Legion TD 2"
+      },
+      "474210": {
+        "playtime": 2,
+        "name": "BUTCHER"
+      },
+      "474750": {
+        "playtime": 181,
+        "name": "Reigns"
+      },
+      "475550": {
+        "playtime": 0,
+        "name": "Beholder"
+      },
+      "480490": {
+        "playtime": 52,
+        "name": "Prey"
+      },
+      "489630": {
+        "playtime": 0,
+        "name": "Warhammer 40,000: Gladius - Relics of War"
+      },
+      "489830": {
+        "playtime": 2725,
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
+      },
+      "490450": {
+        "playtime": 0,
+        "name": "Tokyo 42"
+      },
+      "491950": {
+        "playtime": 0,
+        "name": "Orwell"
+      },
+      "502500": {
+        "playtime": 52,
+        "name": "ACE COMBAT™7: SKIES UNKNOWN"
+      },
+      "503560": {
+        "playtime": 0,
+        "name": "911 Operator"
+      },
+      "504230": {
+        "playtime": 17,
+        "name": "Celeste"
+      },
+      "504390": {
+        "playtime": 0,
+        "name": "Along the Edge"
+      },
+      "527230": {
+        "playtime": 5,
+        "name": "For The King"
+      },
+      "535520": {
+        "playtime": 0,
+        "name": "Nidhogg 2"
+      },
+      "552500": {
+        "playtime": 0,
+        "name": "Warhammer: Vermintide 2"
+      },
+      "552620": {
+        "playtime": 7,
+        "name": "ATOM RPG"
+      },
+      "564530": {
+        "playtime": 11,
+        "name": "Pharaoh + Cleopatra"
+      },
+      "570940": {
+        "playtime": 820,
+        "name": "DARK SOULS™: REMASTERED"
+      },
+      "571310": {
+        "playtime": 640,
+        "name": "SteamWorld Dig 2"
+      },
+      "578330": {
+        "playtime": 15,
+        "name": "LEGO® City Undercover"
+      },
+      "578650": {
+        "playtime": 36,
+        "name": "The Outer Worlds"
+      },
+      "582160": {
+        "playtime": 1733,
+        "name": "Assassin's Creed Origins"
+      },
+      "584400": {
+        "playtime": 53,
+        "name": "Sonic Mania"
+      },
+      "588430": {
+        "playtime": 32,
+        "name": "Fallout Shelter"
+      },
+      "601430": {
+        "playtime": 695,
+        "name": "The Evil Within 2"
+      },
+      "603960": {
+        "playtime": 176,
+        "name": "Star of Providence"
+      },
+      "629820": {
+        "playtime": 585,
+        "name": "Maneater"
+      },
+      "632470": {
+        "playtime": 3,
+        "name": "Disco Elysium"
+      },
+      "633060": {
+        "playtime": 0,
+        "name": "Orwell: Ignorance is Strength"
+      },
+      "635200": {
+        "playtime": 0,
+        "name": "Distrust"
+      },
+      "637650": {
+        "playtime": 1574,
+        "name": "FINAL FANTASY XV WINDOWS EDITION"
+      },
+      "640590": {
+        "playtime": 0,
+        "name": "The LEGO® NINJAGO® Movie Video Game"
+      },
+      "644830": {
+        "playtime": 215,
+        "name": "The Surge 2"
+      },
+      "646570": {
+        "playtime": 6530,
+        "name": "Slay the Spire"
+      },
+      "647830": {
+        "playtime": 0,
+        "name": "LEGO® MARVEL Super Heroes 2"
+      },
+      "648350": {
+        "playtime": 108,
+        "name": "Jurassic World Evolution"
+      },
+      "651660": {
+        "playtime": 15,
+        "name": "Halcyon 6: Lightspeed Edition"
+      },
+      "667720": {
+        "playtime": 22,
+        "name": "Red Faction Guerrilla Re-Mars-tered"
+      },
+      "702670": {
+        "playtime": 91,
+        "name": "Donut County"
+      },
+      "729040": {
+        "playtime": 60,
+        "name": "Borderlands GOTY Enhanced"
+      },
+      "750920": {
+        "playtime": 1381,
+        "name": "Shadow of the Tomb Raider"
+      },
+      "798460": {
+        "playtime": 3,
+        "name": "Ni no Kuni Wrath of the White Witch™ Remastered"
+      },
+      "813630": {
+        "playtime": 17,
+        "name": "Supraland"
+      },
+      "816340": {
+        "playtime": 5,
+        "name": "Kingdom Rush Origins"
+      },
+      "818320": {
+        "playtime": 0,
+        "name": "LEGO® The Incredibles"
+      },
+      "829110": {
+        "playtime": 0,
+        "name": "LEGO® DC Super-Villains"
+      },
+      "850190": {
+        "playtime": 191,
+        "name": "Goat Simulator 3"
+      },
+      "881100": {
+        "playtime": 55,
+        "name": "Noita"
+      },
+      "881320": {
+        "playtime": 0,
+        "name": "The LEGO® Movie 2 - Videogame"
+      },
+      "900040": {
+        "playtime": 1667,
+        "name": "ELEX II"
+      },
+      "953490": {
+        "playtime": 74,
+        "name": "CARRION"
+      },
+      "993090": {
+        "playtime": 0,
+        "name": "Lossless Scaling"
+      },
+      "996580": {
+        "playtime": 210,
+        "name": "Spyro™ Reignited Trilogy"
+      },
+      "1007040": {
+        "playtime": 227,
+        "name": "EARTH DEFENSE FORCE 5"
+      },
+      "1012880": {
+        "playtime": 0,
+        "name": "60 Seconds! Reatomized"
+      },
+      "1083790": {
+        "playtime": 0,
+        "name": "Deathbulge: Battle of the Bands"
+      },
+      "1091500": {
+        "playtime": 2577,
+        "name": "Cyberpunk 2077"
+      },
+      "1101190": {
+        "playtime": 0,
+        "name": "Dungeon Defenders: Awakened"
+      },
+      "1102190": {
+        "playtime": 87,
+        "name": "Monster Train"
+      },
+      "1113000": {
+        "playtime": 3,
+        "name": "Persona 4 Golden"
+      },
+      "1123050": {
+        "playtime": 81,
+        "name": "GRIME"
+      },
+      "1134700": {
+        "playtime": 0,
+        "name": "Wild Terra 2: New Lands"
+      },
+      "1145360": {
+        "playtime": 106,
+        "name": "Hades"
+      },
+      "1154810": {
+        "playtime": 32,
+        "name": "Going Under"
+      },
+      "1196590": {
+        "playtime": 529,
+        "name": "Resident Evil Village"
+      },
+      "1200580": {
+        "playtime": 0,
+        "name": "One Gun Guy"
+      },
+      "1229490": {
+        "playtime": 36,
+        "name": "ULTRAKILL"
+      },
+      "1236300": {
+        "playtime": 0,
+        "name": "Resident Evil Re:Verse"
+      },
+      "1237970": {
+        "playtime": 0,
+        "name": "Titanfall® 2"
+      },
+      "1282730": {
+        "playtime": 79,
+        "name": "Loop Hero"
+      },
+      "1289810": {
+        "playtime": 0,
+        "name": "Siralim Ultimate"
+      },
+      "1293830": {
+        "playtime": 396,
+        "name": "Forza Horizon 4"
+      },
+      "1295510": {
+        "playtime": 256,
+        "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition"
+      },
+      "1321440": {
+        "playtime": 49,
+        "name": "Cassette Beasts"
+      },
+      "1328670": {
+        "playtime": 0,
+        "name": "Mass Effect™ Legendary Edition"
+      },
+      "1365010": {
+        "playtime": 9,
+        "name": "Lost Potato"
+      },
+      "1404850": {
+        "playtime": 1525,
+        "name": "Luck be a Landlord"
+      },
+      "1449560": {
+        "playtime": 0,
+        "name": "Metro Exodus Enhanced Edition"
+      },
+      "1454400": {
+        "playtime": 3210,
+        "name": "Cookie Clicker"
+      },
+      "1456200": {
+        "playtime": 0,
+        "name": "Initial Drift Online"
+      },
+      "1507190": {
+        "playtime": 0,
+        "name": "Machinika Museum"
+      },
+      "1510580": {
+        "playtime": 0,
+        "name": "Toy Tinker Simulator"
+      },
+      "1522820": {
+        "playtime": 0,
+        "name": "Orcs Must Die! 3"
+      },
+      "1562430": {
+        "playtime": 494,
+        "name": "DREDGE"
+      },
+      "1583230": {
+        "playtime": 731,
+        "name": "High On Life"
+      },
+      "1608450": {
+        "playtime": 0,
+        "name": "Hellslave"
+      },
+      "1627720": {
+        "playtime": 474,
+        "name": "Lies of P"
+      },
+      "1637320": {
+        "playtime": 51,
+        "name": "Dome Keeper"
+      },
+      "1730700": {
+        "playtime": 320,
+        "name": "We Love Katamari REROLL+ Royal Reverie"
+      },
+      "1745510": {
+        "playtime": 59,
+        "name": "Lunacid"
+      },
+      "1755300": {
+        "playtime": 0,
+        "name": "Smart Factory Tycoon"
+      },
+      "1794680": {
+        "playtime": 737,
+        "name": "Vampire Survivors"
+      },
+      "1796470": {
+        "playtime": 113,
+        "name": "Haste"
+      },
+      "1861290": {
+        "playtime": 7,
+        "name": "Devil Spire"
+      },
+      "1868180": {
+        "playtime": 61,
+        "name": "Etrian Odyssey HD"
+      },
+      "1887840": {
+        "playtime": 868,
+        "name": "Another Crab's Treasure"
+      },
+      "1888160": {
+        "playtime": 226,
+        "name": "ARMORED CORE™ VI FIRES OF RUBICON™"
+      },
+      "1920490": {
+        "playtime": 0,
+        "name": "The Outer Worlds: Spacer's Choice Edition"
+      },
+      "1942280": {
+        "playtime": 6334,
+        "name": "Brotato"
+      },
+      "1944570": {
+        "playtime": 102,
+        "name": "Boneraiser Minions"
+      },
+      "1946550": {
+        "playtime": 31,
+        "name": "Toilet Chronicles"
+      },
+      "1966900": {
+        "playtime": 43,
+        "name": "20 Minutes Till Dawn"
+      },
+      "1970580": {
+        "playtime": 263,
+        "name": "Backpack Hero"
+      },
+      "1983970": {
+        "playtime": 0,
+        "name": "Affogato"
+      },
+      "1996630": {
+        "playtime": 2,
+        "name": "Dungeon Keeper Gold™"
+      },
+      "2009860": {
+        "playtime": 30,
+        "name": "Tower Escape"
+      },
+      "2050650": {
+        "playtime": 2569,
+        "name": "Resident Evil 4"
+      },
+      "2062430": {
+        "playtime": 2456,
+        "name": "BALL x PIT"
+      },
+      "2084000": {
+        "playtime": 105,
+        "name": "Shogun Showdown"
+      },
+      "2239150": {
+        "playtime": 77,
+        "name": "Thronefall"
+      },
+      "2272250": {
+        "playtime": 96,
+        "name": "Forgive Me Father 2"
+      },
+      "2296550": {
+        "playtime": 0,
+        "name": "Axon TD: Uprising"
+      },
+      "2304440": {
+        "playtime": 0,
+        "name": "Creatures of Ava"
+      },
+      "2311990": {
+        "playtime": 104,
+        "name": "Rack and Slay"
+      },
+      "2334730": {
+        "playtime": 183,
+        "name": "Death Must Die"
+      },
+      "2346410": {
+        "playtime": 1,
+        "name": "Border Pioneer"
+      },
+      "2348610": {
+        "playtime": 415,
+        "name": "Slime 3K: Rise Against Despot"
+      },
+      "2356780": {
+        "playtime": 1,
+        "name": "Dungeon Clawler"
+      },
+      "2379780": {
+        "playtime": 5209,
+        "name": "Balatro"
+      },
+      "2395210": {
+        "playtime": 334,
+        "name": "Tony Hawk's™ Pro Skater™ 1 + 2"
+      },
+      "2543510": {
+        "playtime": 0,
+        "name": "GUNTOUCHABLES"
+      },
+      "2667120": {
+        "playtime": 1631,
+        "name": "Ballionaire"
+      },
+      "2824490": {
+        "playtime": 5431,
+        "name": "He is Coming"
+      },
+      "2868840": {
+        "playtime": 876,
+        "name": "Slay the Spire 2"
+      },
+      "3070070": {
+        "playtime": 1446,
+        "name": "TCG Card Shop Simulator"
+      },
+      "3191030": {
+        "playtime": 2702,
+        "name": "Nubby's Number Factory"
+      },
+      "3240220": {
+        "playtime": 1373,
+        "name": "Grand Theft Auto V Enhanced"
+      },
+      "3244220": {
+        "playtime": 123,
+        "name": "A Game About Digging A Hole™"
+      },
+      "3265700": {
+        "playtime": 596,
+        "name": "Vampire Crawlers"
+      },
+      "3269180": {
+        "playtime": 300,
+        "name": "Piñata Go Boom"
+      },
+      "3372980": {
+        "playtime": 703,
+        "name": "Tower Wizard"
+      },
+      "3405340": {
+        "playtime": 3075,
+        "name": "Megabonk"
+      },
+      "3430340": {
+        "playtime": 966,
+        "name": "Dice A Million"
+      },
+      "3509230": {
+        "playtime": 715,
+        "name": "Gambonanza"
+      },
+      "3542380": {
+        "playtime": 524,
+        "name": "Rune Dice"
+      },
+      "3570430": {
+        "playtime": 124,
+        "name": "Snakecremental"
+      },
+      "3587610": {
+        "playtime": 24,
+        "name": "The Dark Queen of Mortholme"
+      },
+      "3631290": {
+        "playtime": 112,
+        "name": "Slots & Daggers"
+      },
+      "3694480": {
+        "playtime": 367,
+        "name": "A Game About Feeding A Black Hole"
+      },
+      "3764200": {
+        "playtime": 1478,
+        "name": "Resident Evil Requiem"
+      },
+      "3767740": {
+        "playtime": 248,
+        "name": "Outhold"
+      },
+      "3784030": {
+        "playtime": 285,
+        "name": "RACCOIN: Coin Pusher Roguelike"
+      },
+      "3929760": {
+        "playtime": 380,
+        "name": "Incredicer"
+      },
+      "3948120": {
+        "playtime": 694,
+        "name": "Scritchy Scratchy"
+      }
+    },
+    "level": 31,
+    "achievements": {
+      "1293830": [
+        "Welcome to Britain",
+        "Pride Before the Fall",
+        "Winter Has Come",
+        "Optional Extras",
+        "Spring Into Action",
+        "Auto Barn",
+        "Hit the Jackpot",
+        "First Love",
+        "Tonight&",
+        "Stay Safe",
+        "Stay Home",
+        "First Promo-tion"
+      ],
+      "1888160": [
+        "ACH14",
+        "ACH16",
+        "ACH17",
+        "ACH18",
+        "ACH27",
+        "ACH28",
+        "ACH29"
+      ],
+      "1942280": [
+        "chal_survivor_1",
+        "chal_survivor_2",
+        "chal_survivor_3",
+        "chal_survivor_4",
+        "chal_survivor_5",
+        "chal_difficulty_0",
+        "chal_difficulty_1",
+        "chal_difficulty_2",
+        "chal_difficulty_3",
+        "chal_difficulty_4",
+        "chal_difficulty_5",
+        "chal_gatherer_1",
+        "chal_gatherer_2",
+        "chal_gatherer_3",
+        "chal_gatherer_4",
+        "chal_gatherer_5",
+        "chal_agriculture",
+        "chal_dying",
+        "chal_fast",
+        "chal_hoarder",
+        "chal_lumberjack",
+        "chal_medicine",
+        "chal_turrets",
+        "chal_hallucination",
+        "chal_brawler",
+        "chal_bull",
+        "chal_chunky",
+        "chal_demon",
+        "chal_doctor",
+        "chal_engineer",
+        "chal_entrepreneur",
+        "chal_explorer",
+        "chal_farmer",
+        "chal_ghost",
+        "chal_gladiator",
+        "chal_knight",
+        "chal_loud",
+        "chal_lucky",
+        "chal_mage",
+        "chal_masochist",
+        "chal_multitasker",
+        "chal_mutant",
+        "chal_old",
+        "chal_one_arm",
+        "chal_pacifist",
+        "chal_ranger",
+        "chal_saver",
+        "chal_sick",
+        "chal_soldier",
+        "chal_speedy",
+        "chal_well_rounded",
+        "chal_wildling",
+        "chal_rookie",
+        "chal_crazy",
+        "chal_generalist",
+        "chal_artificer",
+        "chal_hunter",
+        "chal_fireworks",
+        "chal_perfect_vision",
+        "chal_recycling",
+        "chal_slow",
+        "chal_arms_dealer",
+        "chal_streamer",
+        "chal_advanced_technology",
+        "chal_giant_slayer",
+        "chal_hungry",
+        "chal_robust",
+        "chal_cyborg",
+        "chal_glutton",
+        "chal_jack",
+        "chal_lich",
+        "chal_baited",
+        "chal_forest",
+        "chal_bourgeoisie",
+        "chal_student",
+        "chal_reckless",
+        "chal_scavenger",
+        "chal_apprentice",
+        "chal_cryptid",
+        "chal_fisherman",
+        "chal_golem",
+        "chal_king",
+        "chal_renegade",
+        "chal_vampire",
+        "chal_vagabond",
+        "chal_baby",
+        "chal_blood_drinker",
+        "chal_experimentation",
+        "chal_fast_learner",
+        "chal_magic_and_machinery",
+        "chal_technomage",
+        "chal_barbecue",
+        "chal_blind_greed",
+        "chal_buccaneer",
+        "chal_builder",
+        "chal_captain",
+        "chal_cautious",
+        "chal_chef",
+        "chal_creature",
+        "chal_curious",
+        "chal_diver",
+        "chal_druid",
+        "chal_gangster",
+        "chal_herbalist",
+        "chal_hiker",
+        "chal_ogre",
+        "chal_overkill",
+        "chal_romantic",
+        "chal_sailor",
+        "chal_smelly_feet",
+        "chal_uncorrupted",
+        "chal_unlucky",
+        "chal_unstoppable_force",
+        "chal_well_rounded_abyss",
+        "chal_brawler_abyss",
+        "chal_crazy_abyss",
+        "chal_ranger_abyss",
+        "chal_mage_abyss",
+        "chal_chunky_abyss",
+        "chal_old_abyss",
+        "chal_lucky_abyss",
+        "chal_mutant_abyss",
+        "chal_generalist_abyss",
+        "chal_loud_abyss",
+        "chal_multitasker_abyss",
+        "chal_saver_abyss",
+        "chal_farmer_abyss",
+        "chal_ghost_abyss",
+        "chal_speedy_abyss",
+        "chal_engineer_abyss",
+        "chal_hunter_abyss",
+        "chal_artificer_abyss",
+        "chal_glutton_abyss",
+        "chal_apprentice_abyss",
+        "chal_one_arm_abyss",
+        "chal_bull_abyss",
+        "chal_soldier_abyss"
+      ],
+      "2050650": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "17",
+        "18",
+        "21",
+        "26",
+        "27",
+        "28",
+        "30",
+        "32",
+        "33",
+        "34",
+        "36",
+        "37",
+        "40",
+        "41",
+        "42"
+      ],
+      "2824490": [
+        "challenge_401",
+        "challenge_402",
+        "challenge_403",
+        "challenge_404",
+        "challenge_409",
+        "challenge_410",
+        "challenge_411",
+        "challenge_415",
+        "challenge_416",
+        "challenge_417",
+        "challenge_418",
+        "challenge_419",
+        "challenge_420"
+      ],
+      "3430340": [
+        "dice_sudoku",
+        "dice_mimic",
+        "dice_d4translucid",
+        "dice_d100",
+        "dice_bomb",
+        "dice_oddinverse",
+        "dice_eveninverse",
+        "dice_ascendant",
+        "dice_d666",
+        "dice_rubik",
+        "dice_angel",
+        "dice_pinata",
+        "dice_diamond",
+        "dice_fortune",
+        "dice_d10",
+        "dice_incubus",
+        "dice_cosmos",
+        "dice_spintop",
+        "dice_qi",
+        "dice_mono",
+        "dice_pencil",
+        "dice_mega",
+        "ring_consolation",
+        "ring_wealth",
+        "ring_lastbreath",
+        "ring_rarity",
+        "ring_multiequals",
+        "ring_magic",
+        "ring_fractal",
+        "ring_balance",
+        "ring_spring",
+        "ring_hoarder",
+        "ring_sportsband",
+        "ring_sticker",
+        "char_red",
+        "char_green",
+        "char_purple",
+        "dice_scroll",
+        "ring_mimicring",
+        "ring_bubble",
+        "dice_d6translucid",
+        "dice_exo",
+        "dice_lucky7",
+        "char_blue",
+        "dice_wood",
+        "dice_crypto",
+        "dice_aquarium",
+        "dice_pandora",
+        "ring_blackring",
+        "ring_stamp",
+        "char_yellow",
+        "ring_electricring",
+        "dice_fire",
+        "dice_ivory",
+        "ring_firering",
+        "dice_atom",
+        "ring_ace",
+        "misc_vortex",
+        "dice_magic8",
+        "misc_jdie",
+        "dice_firstdime",
+        "dice_mini",
+        "ring_witch",
+        "ring_onion",
+        "ring_knockoff",
+        "misc_piece1",
+        "misc_piece2",
+        "ring_star",
+        "ring_swatch",
+        "ring_hermitstone",
+        "dice_haunted",
+        "ring_hexagon",
+        "ring_shiny"
+      ],
+      "3509230": [
+        "21_ACH_MAGNUS",
+        "22_ACH_JUDITH",
+        "23_ACH_MASK",
+        "24_ACH_PORTAL",
+        "25_ACH_CLOCK",
+        "26_ACH_JAWBY",
+        "27_ACH_TAL",
+        "00_ACH_TUTORIAL",
+        "09_ACH_WAIT",
+        "37_ACH_LEGENDARY",
+        "01_ACH_REACH_3",
+        "12_ACH_BUY",
+        "19_ACH_CAPTURE",
+        "13_ACH_FALL",
+        "42_ACH_NO_EFFECT"
+      ],
+      "3542380": [
+        "ACH_FIRST_STUMBLE",
+        "ACH_DAMAGE_DEALER",
+        "ACH_UNTANGLED",
+        "ACH_GOBLIN_HUNTER",
+        "ACH_JESTERS_FRIEND",
+        "ACH_GOLD_DIGGER",
+        "ACH_MERGE_MAESTRO",
+        "ACH_RELIC_COLLECTOR",
+        "ACH_FOREST_HERO",
+        "ACH_UNTOUCHABLE",
+        "ACH_QUIET_PLEASE",
+        "ACH_CLASS_EXPLORER"
+      ]
+    },
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 127792,
+    "weeklyTopGame": "Rune Dice",
+    "weeklyAchievements": 299
+  },
+  "76561198089331916": {
+    "games": {
+      "240": {
+        "playtime": 45,
+        "name": "Counter-Strike: Source"
+      },
+      "550": {
+        "playtime": 99,
+        "name": "Left 4 Dead 2"
+      },
+      "620": {
+        "playtime": 200,
+        "name": "Portal 2"
+      },
+      "730": {
+        "playtime": 10299,
+        "name": "Counter-Strike 2"
+      },
+      "4000": {
+        "playtime": 1760,
+        "name": "Garry's Mod"
+      },
+      "4700": {
+        "playtime": 47,
+        "name": "Total War: MEDIEVAL II - Definitive Edition"
+      },
+      "8190": {
+        "playtime": 1,
+        "name": "Just Cause 2"
+      },
+      "8200": {
+        "playtime": 0,
+        "name": "Sam & Max 101: Culture Shock"
+      },
+      "8210": {
+        "playtime": 0,
+        "name": "Sam & Max 102: Situation: Comedy"
+      },
+      "8220": {
+        "playtime": 0,
+        "name": "Sam & Max 103: The Mole, the Mob and the Meatball"
+      },
+      "8230": {
+        "playtime": 0,
+        "name": "Sam & Max 104: Abe Lincoln Must Die!"
+      },
+      "8240": {
+        "playtime": 0,
+        "name": "Sam & Max 105: Reality 2.0"
+      },
+      "8250": {
+        "playtime": 0,
+        "name": "Sam & Max 106: Bright Side of the Moon"
+      },
+      "12140": {
+        "playtime": 0,
+        "name": "Max Payne"
+      },
+      "20900": {
+        "playtime": 1832,
+        "name": "The Witcher: Enhanced Edition"
+      },
+      "20920": {
+        "playtime": 0,
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
+      },
+      "22380": {
+        "playtime": 1169,
+        "name": "Fallout: New Vegas"
+      },
+      "25000": {
+        "playtime": 433,
+        "name": "Overgrowth"
+      },
+      "33910": {
+        "playtime": 0,
+        "name": "Arma 2"
+      },
+      "33930": {
+        "playtime": 0,
+        "name": "Arma 2: Operation Arrowhead"
+      },
+      "42910": {
+        "playtime": 77,
+        "name": "Magicka"
+      },
+      "49520": {
+        "playtime": 10074,
+        "name": "Borderlands 2"
+      },
+      "57300": {
+        "playtime": 9,
+        "name": "Amnesia: The Dark Descent"
+      },
+      "65700": {
+        "playtime": 0,
+        "name": "Arma 2: British Armed Forces"
+      },
+      "65720": {
+        "playtime": 0,
+        "name": "Arma 2: Private Military Company"
+      },
+      "65780": {
+        "playtime": 0,
+        "name": "Arma: Gold Edition"
+      },
+      "65790": {
+        "playtime": 0,
+        "name": "Arma: Cold War Assault"
+      },
+      "72850": {
+        "playtime": 4954,
+        "name": "The Elder Scrolls V: Skyrim"
+      },
+      "105600": {
+        "playtime": 27061,
+        "name": "Terraria"
+      },
+      "107410": {
+        "playtime": 0,
+        "name": "Arma 3"
+      },
+      "108600": {
+        "playtime": 1406,
+        "name": "Project Zomboid"
+      },
+      "204080": {
+        "playtime": 7,
+        "name": "The Showdown Effect"
+      },
+      "205100": {
+        "playtime": 3801,
+        "name": "Dishonored"
+      },
+      "207690": {
+        "playtime": 0,
+        "name": "Botanicula"
+      },
+      "208090": {
+        "playtime": 163,
+        "name": "Loadout"
+      },
+      "209080": {
+        "playtime": 535,
+        "name": "Guns of Icarus Online"
+      },
+      "211820": {
+        "playtime": 46,
+        "name": "Starbound"
+      },
+      "212680": {
+        "playtime": 795,
+        "name": "FTL: Faster Than Light"
+      },
+      "213670": {
+        "playtime": 902,
+        "name": "South Park™: The Stick of Truth™"
+      },
+      "218620": {
+        "playtime": 4508,
+        "name": "PAYDAY 2"
+      },
+      "219640": {
+        "playtime": 0,
+        "name": "Chivalry: Medieval Warfare"
+      },
+      "219740": {
+        "playtime": 0,
+        "name": "Don't Starve"
+      },
+      "220200": {
+        "playtime": 1921,
+        "name": "Kerbal Space Program"
+      },
+      "220780": {
+        "playtime": 7,
+        "name": "Thomas Was Alone"
+      },
+      "220860": {
+        "playtime": 221,
+        "name": "McPixel"
+      },
+      "221100": {
+        "playtime": 737,
+        "name": "DayZ"
+      },
+      "223470": {
+        "playtime": 162,
+        "name": "POSTAL 2"
+      },
+      "224480": {
+        "playtime": 315,
+        "name": "Octodad: Dadliest Catch"
+      },
+      "224860": {
+        "playtime": 0,
+        "name": "Arma Tactics"
+      },
+      "225540": {
+        "playtime": 554,
+        "name": "Just Cause 3"
+      },
+      "227940": {
+        "playtime": 1580,
+        "name": "Heroes & Generals"
+      },
+      "228380": {
+        "playtime": 160,
+        "name": "Wreckfest"
+      },
+      "230410": {
+        "playtime": 270,
+        "name": "Warframe"
+      },
+      "233450": {
+        "playtime": 3074,
+        "name": "Prison Architect"
+      },
+      "233720": {
+        "playtime": 502,
+        "name": "Surgeon Simulator"
+      },
+      "233860": {
+        "playtime": 3008,
+        "name": "Kenshi"
+      },
+      "234140": {
+        "playtime": 1589,
+        "name": "Mad Max"
+      },
+      "234190": {
+        "playtime": 12,
+        "name": "Receiver"
+      },
+      "236390": {
+        "playtime": 271,
+        "name": "War Thunder"
+      },
+      "236430": {
+        "playtime": 2357,
+        "name": "DARK SOULS™ II"
+      },
+      "238460": {
+        "playtime": 553,
+        "name": "BattleBlock Theater"
+      },
+      "238960": {
+        "playtime": 1098,
+        "name": "Path of Exile"
+      },
+      "239030": {
+        "playtime": 60,
+        "name": "Papers, Please"
+      },
+      "239820": {
+        "playtime": 887,
+        "name": "Game Dev Tycoon"
+      },
+      "242700": {
+        "playtime": 0,
+        "name": "Injustice: Gods Among Us Ultimate Edition"
+      },
+      "244850": {
+        "playtime": 1056,
+        "name": "Space Engineers"
+      },
+      "246620": {
+        "playtime": 226,
+        "name": "Plague Inc: Evolved"
+      },
+      "248570": {
+        "playtime": 17,
+        "name": "Toribash"
+      },
+      "248820": {
+        "playtime": 23,
+        "name": "Risk of Rain (2013)"
+      },
+      "250260": {
+        "playtime": 32,
+        "name": "Jazzpunk: Director's Cut"
+      },
+      "252490": {
+        "playtime": 896,
+        "name": "Rust"
+      },
+      "252950": {
+        "playtime": 256,
+        "name": "Rocket League"
+      },
+      "253710": {
+        "playtime": 38,
+        "name": "theHunter Classic"
+      },
+      "261640": {
+        "playtime": 1117,
+        "name": "Borderlands: The Pre-Sequel"
+      },
+      "262060": {
+        "playtime": 1310,
+        "name": "Darkest Dungeon®"
+      },
+      "264140": {
+        "playtime": 1151,
+        "name": "Pixel Piracy"
+      },
+      "265930": {
+        "playtime": 1058,
+        "name": "Goat Simulator"
+      },
+      "271920": {
+        "playtime": 79,
+        "name": "Worlds Adrift Island Creator"
+      },
+      "272860": {
+        "playtime": 0,
+        "name": "Wreckfest Throw-A-Santa + Sneak Peek 2.0"
+      },
+      "275850": {
+        "playtime": 3227,
+        "name": "No Man's Sky"
+      },
+      "282070": {
+        "playtime": 616,
+        "name": "This War of Mine"
+      },
+      "285900": {
+        "playtime": 42,
+        "name": "Gang Beasts"
+      },
+      "286160": {
+        "playtime": 1561,
+        "name": "Tabletop Simulator"
+      },
+      "286690": {
+        "playtime": 111,
+        "name": "Metro 2033 Redux"
+      },
+      "287390": {
+        "playtime": 0,
+        "name": "Metro: Last Light Redux"
+      },
+      "292030": {
+        "playtime": 309,
+        "name": "The Witcher 3: Wild Hunt"
+      },
+      "294100": {
+        "playtime": 558,
+        "name": "RimWorld"
+      },
+      "297130": {
+        "playtime": 426,
+        "name": "Titan Souls"
+      },
+      "298630": {
+        "playtime": 317,
+        "name": "The Escapists"
+      },
+      "301520": {
+        "playtime": 258,
+        "name": "Robocraft"
+      },
+      "304930": {
+        "playtime": 285,
+        "name": "Unturned"
+      },
+      "306130": {
+        "playtime": 312,
+        "name": "The Elder Scrolls Online"
+      },
+      "311690": {
+        "playtime": 263,
+        "name": "Enter the Gungeon"
+      },
+      "322330": {
+        "playtime": 787,
+        "name": "Don't Starve Together"
+      },
+      "322780": {
+        "playtime": 3782,
+        "name": "Worlds Adrift"
+      },
+      "323190": {
+        "playtime": 712,
+        "name": "Frostpunk"
+      },
+      "323320": {
+        "playtime": 831,
+        "name": "Grow Home"
+      },
+      "324800": {
+        "playtime": 313,
+        "name": "Shadow Warrior 2"
+      },
+      "325610": {
+        "playtime": 0,
+        "name": "Total War: ATTILA"
+      },
+      "337000": {
+        "playtime": 1774,
+        "name": "Deus Ex: Mankind Divided™"
+      },
+      "344130": {
+        "playtime": 0,
+        "name": "Cataegis : The White Wind"
+      },
+      "346010": {
+        "playtime": 445,
+        "name": "Besiege"
+      },
+      "360870": {
+        "playtime": 13,
+        "name": "Ultimate Tic-Tac-Toe"
+      },
+      "367540": {
+        "playtime": 1279,
+        "name": "Starbound - Unstable"
+      },
+      "374320": {
+        "playtime": 336,
+        "name": "DARK SOULS™ III"
+      },
+      "377160": {
+        "playtime": 8687,
+        "name": "Fallout 4"
+      },
+      "396750": {
+        "playtime": 316,
+        "name": "EVERSPACE™"
+      },
+      "403640": {
+        "playtime": 2684,
+        "name": "Dishonored 2"
+      },
+      "406150": {
+        "playtime": 19,
+        "name": "Refunct"
+      },
+      "413150": {
+        "playtime": 5356,
+        "name": "Stardew Valley"
+      },
+      "421120": {
+        "playtime": 0,
+        "name": "Samorost 3"
+      },
+      "425670": {
+        "playtime": 0,
+        "name": "Seraph"
+      },
+      "430210": {
+        "playtime": 340,
+        "name": "Megaton Rainfall"
+      },
+      "431960": {
+        "playtime": 283,
+        "name": "Wallpaper Engine"
+      },
+      "437220": {
+        "playtime": 286,
+        "name": "The Culling"
+      },
+      "445980": {
+        "playtime": 589,
+        "name": "Wizard of Legend"
+      },
+      "455690": {
+        "playtime": 0,
+        "name": "Pixel Puzzles Junior"
+      },
+      "477160": {
+        "playtime": 496,
+        "name": "Human Fall Flat"
+      },
+      "480490": {
+        "playtime": 506,
+        "name": "Prey"
+      },
+      "489830": {
+        "playtime": 2793,
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
+      },
+      "504230": {
+        "playtime": 0,
+        "name": "Celeste"
+      },
+      "504370": {
+        "playtime": 174,
+        "name": "Battlerite"
+      },
+      "544730": {
+        "playtime": 46,
+        "name": "Catan Universe"
+      },
+      "548430": {
+        "playtime": 2043,
+        "name": "Deep Rock Galactic"
+      },
+      "557340": {
+        "playtime": 219,
+        "name": "My Friend Pedro"
+      },
+      "578080": {
+        "playtime": 6040,
+        "name": "PUBG: BATTLEGROUNDS"
+      },
+      "582010": {
+        "playtime": 1780,
+        "name": "Monster Hunter: World"
+      },
+      "582660": {
+        "playtime": 39,
+        "name": "Black Desert"
+      },
+      "588650": {
+        "playtime": 1145,
+        "name": "Dead Cells"
+      },
+      "599140": {
+        "playtime": 0,
+        "name": "Graveyard Keeper"
+      },
+      "605230": {
+        "playtime": 688,
+        "name": "Grey Hack"
+      },
+      "606880": {
+        "playtime": 581,
+        "name": "GreedFall"
+      },
+      "613100": {
+        "playtime": 117,
+        "name": "House Flipper"
+      },
+      "621060": {
+        "playtime": 232,
+        "name": "PC Building Simulator"
+      },
+      "632360": {
+        "playtime": 14428,
+        "name": "Risk of Rain 2"
+      },
+      "632470": {
+        "playtime": 194,
+        "name": "Disco Elysium"
+      },
+      "657200": {
+        "playtime": 13,
+        "name": "Hand Simulator"
+      },
+      "698780": {
+        "playtime": 327,
+        "name": "Doki Doki Literature Club"
+      },
+      "741820": {
+        "playtime": 0,
+        "name": "Prey: Typhon Hunter"
+      },
+      "755790": {
+        "playtime": 1199,
+        "name": "Ring of Elysium"
+      },
+      "793350": {
+        "playtime": 8,
+        "name": "Swarmlake"
+      },
+      "794260": {
+        "playtime": 1831,
+        "name": "Outward"
+      },
+      "805590": {
+        "playtime": 58,
+        "name": "ARMORED HEAD"
+      },
+      "812140": {
+        "playtime": 6332,
+        "name": "Assassin's Creed Odyssey"
+      },
+      "813820": {
+        "playtime": 227,
+        "name": "Realm Royale Reforged"
+      },
+      "823130": {
+        "playtime": 199,
+        "name": "Totally Accurate Battlegrounds"
+      },
+      "848350": {
+        "playtime": 119,
+        "name": "Katamari Damacy REROLL"
+      },
+      "881100": {
+        "playtime": 5272,
+        "name": "Noita"
+      },
+      "892970": {
+        "playtime": 10297,
+        "name": "Valheim"
+      },
+      "911400": {
+        "playtime": 0,
+        "name": "Assassin's Creed III Remastered"
+      },
+      "990080": {
+        "playtime": 2232,
+        "name": "Hogwarts Legacy"
+      },
+      "1005240": {
+        "playtime": 0,
+        "name": "Pixel Puzzles Illustrations & Anime Jigsaw Puzzles"
+      },
+      "1046030": {
+        "playtime": 38,
+        "name": "ISLANDERS"
+      },
+      "1057090": {
+        "playtime": 913,
+        "name": "Ori and the Will of the Wisps"
+      },
+      "1058200": {
+        "playtime": 0,
+        "name": "Pixel Puzzles Traditional Jigsaw Puzzles"
+      },
+      "1085660": {
+        "playtime": 457,
+        "name": "Destiny 2"
+      },
+      "1086940": {
+        "playtime": 870,
+        "name": "Baldur's Gate 3"
+      },
+      "1128920": {
+        "playtime": 51,
+        "name": "EVERSPACE™ 2"
+      },
+      "1145350": {
+        "playtime": 1252,
+        "name": "Hades II"
+      },
+      "1145360": {
+        "playtime": 10547,
+        "name": "Hades"
+      },
+      "1149460": {
+        "playtime": 0,
+        "name": "Icarus"
+      },
+      "1172470": {
+        "playtime": 2115,
+        "name": "Apex Legends"
+      },
+      "1203620": {
+        "playtime": 7527,
+        "name": "Enshrouded"
+      },
+      "1210320": {
+        "playtime": 870,
+        "name": "Potion Craft: Alchemist Simulator"
+      },
+      "1222700": {
+        "playtime": 104,
+        "name": "A Way Out"
+      },
+      "1245620": {
+        "playtime": 6561,
+        "name": "ELDEN RING"
+      },
+      "1252330": {
+        "playtime": 1207,
+        "name": "DEATHLOOP"
+      },
+      "1281930": {
+        "playtime": 1767,
+        "name": "tModLoader"
+      },
+      "1285190": {
+        "playtime": 4109,
+        "name": "Borderlands® 4"
+      },
+      "1286680": {
+        "playtime": 1171,
+        "name": "Tiny Tina's Wonderlands"
+      },
+      "1313140": {
+        "playtime": 1508,
+        "name": "Cult of the Lamb"
+      },
+      "1422450": {
+        "playtime": 59884,
+        "name": "Deadlock"
+      },
+      "1432050": {
+        "playtime": 918,
+        "name": "Nobody Saves the World"
+      },
+      "1458140": {
+        "playtime": 1363,
+        "name": "Pacific Drive"
+      },
+      "1466060": {
+        "playtime": 3281,
+        "name": "Tainted Grail: The Fall of Avalon"
+      },
+      "1473350": {
+        "playtime": 1105,
+        "name": "(the) Gnorp Apologue"
+      },
+      "1588550": {
+        "playtime": 1198,
+        "name": "Cairn"
+      },
+      "1593500": {
+        "playtime": 2236,
+        "name": "God of War"
+      },
+      "1599600": {
+        "playtime": 729,
+        "name": "PlateUp!"
+      },
+      "1604030": {
+        "playtime": 3536,
+        "name": "V Rising"
+      },
+      "1623730": {
+        "playtime": 1859,
+        "name": "Palworld"
+      },
+      "1625450": {
+        "playtime": 163,
+        "name": "Muck"
+      },
+      "1637320": {
+        "playtime": 3169,
+        "name": "Dome Keeper"
+      },
+      "1676130": {
+        "playtime": 871,
+        "name": "Deadlink"
+      },
+      "1716740": {
+        "playtime": 11965,
+        "name": "Starfield"
+      },
+      "1771300": {
+        "playtime": 11800,
+        "name": "Kingdom Come: Deliverance II"
+      },
+      "1782460": {
+        "playtime": 276,
+        "name": "Hell Clock"
+      },
+      "1794680": {
+        "playtime": 1006,
+        "name": "Vampire Survivors"
+      },
+      "1808500": {
+        "playtime": 3352,
+        "name": "ARC Raiders"
+      },
+      "1868140": {
+        "playtime": 1735,
+        "name": "DAVE THE DIVER"
+      },
+      "1887840": {
+        "playtime": 67,
+        "name": "Another Crab's Treasure"
+      },
+      "1903340": {
+        "playtime": 3919,
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "1928980": {
+        "playtime": 72,
+        "name": "Nightingale"
+      },
+      "1931180": {
+        "playtime": 3865,
+        "name": "Lost Skies"
+      },
+      "1966720": {
+        "playtime": 176,
+        "name": "Lethal Company"
+      },
+      "1985690": {
+        "playtime": 67,
+        "name": "The Looker"
+      },
+      "2060160": {
+        "playtime": 477,
+        "name": "The Farmer Was Replaced"
+      },
+      "2139460": {
+        "playtime": 769,
+        "name": "Once Human"
+      },
+      "2208920": {
+        "playtime": 641,
+        "name": "Assassin's Creed Valhalla"
+      },
+      "2211170": {
+        "playtime": 428,
+        "name": "Unrailed 2: Back on Track"
+      },
+      "2379780": {
+        "playtime": 4785,
+        "name": "Balatro"
+      },
+      "2397300": {
+        "playtime": 647,
+        "name": "Half Sword"
+      },
+      "2642680": {
+        "playtime": 1451,
+        "name": "Half Sword Demo"
+      },
+      "2694490": {
+        "playtime": 20044,
+        "name": "Path of Exile 2"
+      },
+      "2767030": {
+        "playtime": 138,
+        "name": "Marvel Rivals"
+      },
+      "2940200": {
+        "playtime": 33,
+        "name": "Haste Demo"
+      },
+      "3002370": {
+        "playtime": 98,
+        "name": "The Spell Brigade Demo"
+      },
+      "3041230": {
+        "playtime": 1523,
+        "name": "Windrose"
+      },
+      "3124540": {
+        "playtime": 968,
+        "name": "Far Far West"
+      },
+      "3156770": {
+        "playtime": 1788,
+        "name": "Witchfire"
+      },
+      "3164500": {
+        "playtime": 2520,
+        "name": "Schedule I"
+      },
+      "3205720": {
+        "playtime": 157,
+        "name": "Schedule I: Free Sample"
+      },
+      "3241660": {
+        "playtime": 788,
+        "name": "R.E.P.O."
+      },
+      "3321460": {
+        "playtime": 8917,
+        "name": "Crimson Desert"
+      },
+      "3347820": {
+        "playtime": 30,
+        "name": "CloverPit Demo"
+      },
+      "3405340": {
+        "playtime": 1713,
+        "name": "Megabonk"
+      },
+      "3462260": {
+        "playtime": 12,
+        "name": "Aethermancer Demo"
+      },
+      "3520070": {
+        "playtime": 245,
+        "name": "Megabonk Demo"
+      },
+      "3527290": {
+        "playtime": 2008,
+        "name": "PEAK"
+      },
+      "3606890": {
+        "playtime": 283,
+        "name": "Upload Labs"
+      },
+      "3716600": {
+        "playtime": 107,
+        "name": "Mage Arena"
+      },
+      "3892270": {
+        "playtime": 82,
+        "name": "Gamble With Your Friends"
+      },
+      "3949040": {
+        "playtime": 880,
+        "name": "RV There Yet?"
+      }
+    },
+    "level": 19,
+    "achievements": {
+      "1422450": [],
+      "1588550": [
+        "ReachTenzingTop",
+        "MeetBrokenClimbot",
+        "Shower",
+        "MeetMarco",
+        "AuroraBorealis",
+        "Nightmare",
+        "MeetDamas",
+        "SurviveAvalanche",
+        "ReachSummit",
+        "FallSurvive",
+        "FallPitonMinigame",
+        "GymBox",
+        "JumpOnWall",
+        "Honey",
+        "CompostTrash",
+        "Fish",
+        "FrogLick",
+        "Grouik",
+        "RecycleMoney",
+        "GlowingGloves",
+        "Infusion",
+        "BoozeCocktail",
+        "Buffed",
+        "MarcoInterrupt",
+        "EagleView",
+        "Bear",
+        "Fireworks",
+        "Edelweiss",
+        "FirstGuardianCrystal",
+        "SecondGuardianCrystal",
+        "ThirdGuardianCrystal",
+        "RopeLimit",
+        "OutdoorRest",
+        "PhotoMode",
+        "ShakeArm",
+        "TapeFingers",
+        "ReachMiniKamiSummit",
+        "BagSorted",
+        "ShepherdessLetter",
+        "CrystalHunter",
+        "CorpseFood",
+        "StormDoll",
+        "RecapAscent",
+        "Kite",
+        "Origami",
+        "JumpRopedIntoVoid",
+        "BackHome"
+      ],
+      "1931180": [
+        "GrapplingHook"
+      ],
+      "2694490": [],
+      "3041230": [],
+      "3321460": [
+        "NoviceAdventurer",
+        "MasterCamper",
+        "TowerBreaker",
+        "LightLeader",
+        "PailuneseGuardian",
+        "ExpertStoryteller",
+        "ConqueroroftheAbysses"
+      ],
+      "3527290": [
+        "PeakBadge",
+        "CookingBadge",
+        "KnotTyingBadge",
+        "BeachcomberBadge",
+        "TriedYourBestBadge",
+        "TrailblazerBadge",
+        "HappyCamperBadge",
+        "AlpinistBadge",
+        "VolcanologyBadge",
+        "BoulderingBadge",
+        "ToxicologyBadge",
+        "ForagingBadge",
+        "EsotericaBadge",
+        "LoneWolfBadge",
+        "ClutchBadge",
+        "BalloonBadge",
+        "LeaveNoTraceBadge",
+        "SpeedClimberBadge",
+        "BingBongBadge",
+        "NaturalistBadge",
+        "GourmandBadge",
+        "MycologyBadge",
+        "FirstAidBadge",
+        "SurvivalistBadge",
+        "AnimalSerenadingBadge",
+        "ArboristBadge",
+        "MentorshipBadge",
+        "EmergencyPreparednessBadge",
+        "AscenderBadge",
+        "PlundererBadge",
+        "BookwormBadge",
+        "EnduranceBadge",
+        "UltimateBadge",
+        "AeronauticsBadge",
+        "AstronomyBadge",
+        "ForestryBadge",
+        "UndeadEncounterBadge",
+        "AdvancedMycologyBadge"
+      ],
+      "3892270": [
+        "ACH_CHA_F1_BIGSPENDER",
+        "ACH_CHA_F1_ROULETTE",
+        "ACH_CHA_F2_HIGHROLLER2",
+        "ACH_CHA_F2_KENO",
+        "ACH_CHA_F3_HIGHROLLER3",
+        "ACH_MONEY_10M",
+        "ACH_MISC_YESTOGAMBLEWIN",
+        "ACH_MISC_PEAK"
+      ]
+    },
+    "weeklyMinutes": 0,
+    "lastWeekGames": {},
+    "weeklyTotal": 404783,
+    "weeklyTopGame": "Path of Exile 2",
+    "weeklyAchievements": 101
+  },
+  "playingTogether": {},
+  "steamSales": {}
+}
