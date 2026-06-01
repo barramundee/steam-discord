@@ -1,65 +1,42 @@
-import json
 import os
-from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 from config import STEAM_IDS, DISCORD_WEBHOOK_URL
-
-from steam_api import (
-    get_player_summaries,
-    get_owned_games,
-    get_app_details
-)
-
-STATE_FILE = "state.json"
-
+from steam_api import get_player_summaries, get_owned_games
 
 # ----------------------------
-# STATE
+# IN-MEMORY STATE (NO FILES)
 # ----------------------------
-def load_state():
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            return json.load(f)
-
-    return {
-        "owned_games": {},
-        "reviews": {},
-        "achievements": [],
-        "sales": [],
-        "milestones": []
-    }
-
-
-def save_state(state):
-    with open(STATE_FILE, "w") as f:
-        json.dump(state, f, indent=2)
-
-
-STATE = load_state()
-
+STATE = {
+    "owned_games": {},
+    "reviews": set()
+}
 
 # ----------------------------
-# DISCORD
+# DISCORD WEBHOOK
 # ----------------------------
 def send_embed(embed):
     if not DISCORD_WEBHOOK_URL:
-        print("Missing webhook")
+        print("Missing DISCORD_WEBHOOK_URL")
         return
 
-    requests.post(
-        DISCORD_WEBHOOK_URL,
-        json={"embeds": [embed]},
-        timeout=10
-    )
+    try:
+        requests.post(
+            DISCORD_WEBHOOK_URL,
+            json={"embeds": [embed]},
+            timeout=10
+        )
+    except Exception as e:
+        print("Discord webhook error:", e)
 
 
 # ----------------------------
 # 🛒 NEW GAME PURCHASES
 # ----------------------------
 def check_new_purchases():
-    print("Checking purchases...")
+    print("Checking new purchases...")
 
     for steamid in STEAM_IDS:
         players = get_player_summaries([steamid])
@@ -69,34 +46,33 @@ def check_new_purchases():
         player = players[0]
         name = player.get("personaname", "Unknown")
 
-        current = get_owned_games(steamid)
-        current_ids = {str(g["appid"]): g for g in current}
+        games = get_owned_games(steamid)
+        current_ids = {str(g["appid"]): g for g in games}
 
-        previous_ids = STATE["owned_games"].get(steamid, {})
+        previous_ids = STATE["owned_games"].get(steamid)
 
-        # First run baseline
+        # First run baseline (no alerts)
         if not previous_ids:
-            STATE["owned_games"][steamid] = list(current_ids.keys())
+            STATE["owned_games"][steamid] = set(current_ids.keys())
             continue
 
-        for appid, game in current_ids.items():
-            if appid not in previous_ids:
+        previous_ids = STATE["owned_games"][steamid]
 
-                details = get_app_details(appid)
-                game_name = details.get("name", game.get("name", "Unknown"))
+        new_games = set(current_ids.keys()) - previous_ids
 
-                embed = {
-                    "title": "🛒 New Steam Purchase",
-                    "description": f"**{name}** bought **{game_name}**",
-                    "color": 0x57F287,
-                    "timestamp": datetime.utcnow().isoformat()
-                }
+        for appid in new_games:
+            game = current_ids.get(appid)
 
-                send_embed(embed)
+            embed = {
+                "title": "🛒 New Steam Purchase",
+                "description": f"**{name}** bought **{game.get('name', 'Unknown Game')}**",
+                "color": 0x57F287,
+                "timestamp": datetime.utcnow().isoformat()
+            }
 
-        STATE["owned_games"][steamid] = list(current_ids.keys())
+            send_embed(embed)
 
-    save_state(STATE)
+        STATE["owned_games"][steamid] = set(current_ids.keys())
 
 
 # ----------------------------
@@ -105,12 +81,13 @@ def check_new_purchases():
 def get_reviews(steamid):
     url = f"https://steamcommunity.com/profiles/{steamid}/recommended"
 
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
-
     try:
-        r = requests.get(url, headers=headers, timeout=10)
+        r = requests.get(
+            url,
+            headers={"User-Agent": "Mozilla/5.0"},
+            timeout=10
+        )
+
         soup = BeautifulSoup(r.text, "html.parser")
 
         reviews = []
@@ -138,36 +115,32 @@ def check_reviews():
         player = players[0]
         name = player.get("personaname", "Unknown")
 
-        current_reviews = get_reviews(steamid)
-        previous_reviews = STATE["reviews"].get(steamid, [])
+        reviews = get_reviews(steamid)
 
-        if not previous_reviews:
-            STATE["reviews"][steamid] = current_reviews
-            continue
+        for review_url in reviews:
+            key = f"{steamid}:{review_url}"
 
-        for r in current_reviews:
-            if r not in previous_reviews:
+            if key in STATE["reviews"]:
+                continue
 
-                embed = {
-                    "title": "✍️ New Steam Review",
-                    "description": f"**{name}** posted a new review",
-                    "url": r,
-                    "color": 0x3498DB,
-                    "timestamp": datetime.utcnow().isoformat()
-                }
+            STATE["reviews"].add(key)
 
-                send_embed(embed)
+            embed = {
+                "title": "✍️ New Steam Review",
+                "description": f"**{name}** posted a new review",
+                "url": review_url,
+                "color": 0x3498DB,
+                "timestamp": datetime.utcnow().isoformat()
+            }
 
-        STATE["reviews"][steamid] = current_reviews
-
-    save_state(STATE)
+            send_embed(embed)
 
 
 # ----------------------------
-# MAIN
+# MAIN ENTRY (GitHub Actions safe)
 # ----------------------------
 def main():
-    print("Running Steam bot (GitHub Actions mode)")
+    print("Steam bot running (cron-job / Actions mode)")
 
     check_new_purchases()
     check_reviews()
