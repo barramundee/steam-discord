@@ -3115,7 +3115,7 @@
         "name": "Warhammer 40,000: Kill Team"
       },
       "275850": {
-        "playtime": 398,
+        "playtime": 420,
         "name": "No Man's Sky"
       },
       "285160": {
@@ -3919,7 +3919,7 @@
         "name": "Megabonk"
       },
       "3430340": {
-        "playtime": 966,
+        "playtime": 974,
         "name": "Dice A Million"
       },
       "3509230": {
@@ -3969,6 +3969,12 @@
     },
     "level": 31,
     "achievements": {
+      "275850": [
+        "LIMITEDFUNDS",
+        "SPACETRUCKER",
+        "SHIPPINGMAGNATE",
+        "CRADLE"
+      ],
       "1293830": [
         "Welcome to Britain",
         "Pride Before the Fall",
@@ -4285,11 +4291,11 @@
         "ACH_CLASS_EXPLORER"
       ]
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 30,
     "lastWeekGames": {},
-    "weeklyTotal": 127792,
+    "weeklyTotal": 127822,
     "weeklyTopGame": "Rune Dice",
-    "weeklyAchievements": 299
+    "weeklyAchievements": 303
   },
   "76561198165227407": {
     "games": {
@@ -5322,7 +5328,7 @@
         "name": "Cairn"
       },
       "1593500": {
-        "playtime": 2014,
+        "playtime": 2046,
         "name": "God of War"
       },
       "1599340": {
@@ -5612,13 +5618,32 @@
         "StormDoll",
         "Origami"
       ],
+      "1593500": [
+        "ACHIEVEMENT_1",
+        "ACHIEVEMENT_2",
+        "ACHIEVEMENT_3",
+        "ACHIEVEMENT_4",
+        "ACHIEVEMENT_5",
+        "ACHIEVEMENT_6",
+        "ACHIEVEMENT_7",
+        "ACHIEVEMENT_8",
+        "ACHIEVEMENT_9",
+        "ACHIEVEMENT_10",
+        "ACHIEVEMENT_11",
+        "ACHIEVEMENT_14",
+        "ACHIEVEMENT_15",
+        "ACHIEVEMENT_16",
+        "ACHIEVEMENT_17",
+        "ACHIEVEMENT_20",
+        "ACHIEVEMENT_26"
+      ],
       "3940070": []
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 32,
     "lastWeekGames": {},
-    "weeklyTotal": 412322,
+    "weeklyTotal": 412354,
     "weeklyTopGame": "Monster Hunter Wilds",
-    "weeklyAchievements": 34
+    "weeklyAchievements": 51
   },
   "76561198089331916": {
     "games": {
@@ -6435,7 +6460,7 @@
         "name": "Half Sword Demo"
       },
       "2694490": {
-        "playtime": 20044,
+        "playtime": 20048,
         "name": "Path of Exile 2"
       },
       "2767030": {
@@ -6632,9 +6657,9 @@
         "ACH_MISC_PEAK"
       ]
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 4,
     "lastWeekGames": {},
-    "weeklyTotal": 404783,
+    "weeklyTotal": 404787,
     "weeklyTopGame": "Path of Exile 2",
     "weeklyAchievements": 101
   },
@@ -7193,7 +7218,7 @@
         "name": "Neophyte"
       },
       "1422450": {
-        "playtime": 42664,
+        "playtime": 42899,
         "name": "Deadlock"
       },
       "1449850": {
@@ -7392,9 +7417,9 @@
       "3527290": [],
       "3892270": []
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 235,
     "lastWeekGames": {},
-    "weeklyTotal": 568969,
+    "weeklyTotal": 569204,
     "weeklyTopGame": "Deadlock",
     "weeklyAchievements": 0
   },
