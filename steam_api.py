@@ -32,7 +32,7 @@ def get_owned_games(steamid):
 
 
 def get_app_details(appid):
-    url = f"https://store.steampowered.com/api/appdetails"
+    url = "https://store.steampowered.com/api/appdetails"
     params = {"appids": appid}
 
     try:
@@ -41,6 +41,6 @@ def get_app_details(appid):
         if data.get(str(appid), {}).get("success"):
             return data[str(appid)]["data"]
     except:
-        pass
+        return {}
 
     return {}
