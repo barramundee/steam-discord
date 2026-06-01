@@ -12,12 +12,15 @@ from steam_api import (
 )
 
 # ----------------------------
-# FILE STATE (PERSISTENT)
+# STATE FILES (PERSISTENT)
 # ----------------------------
 REVIEWS_FILE = "state_reviews.json"
 GAMES_FILE = "state_games.json"
 
 
+# ----------------------------
+# JSON HELPERS
+# ----------------------------
 def load_json(file, default):
     if os.path.exists(file):
         try:
@@ -34,21 +37,25 @@ def save_json(file, data):
 
 
 # ----------------------------
-# DISCORD
+# DISCORD WEBHOOK
 # ----------------------------
 def send_embed(embed):
     if not DISCORD_WEBHOOK_URL:
+        print("Missing webhook URL")
         return
 
-    requests.post(
-        DISCORD_WEBHOOK_URL,
-        json={"embeds": [embed]},
-        timeout=10
-    )
+    try:
+        requests.post(
+            DISCORD_WEBHOOK_URL,
+            json={"embeds": [embed]},
+            timeout=10
+        )
+    except Exception as e:
+        print("Discord error:", e)
 
 
 # ----------------------------
-# 🛒 NEW PURCHASES
+# 🛒 NEW PURCHASES (FIXED STATE)
 # ----------------------------
 def check_new_purchases():
     print("Checking purchases...")
@@ -95,7 +102,7 @@ def check_new_purchases():
 
 
 # ----------------------------
-# ✍️ REVIEWS (FIXED)
+# ✍️ REVIEWS (FIXED + STABLE IDS)
 # ----------------------------
 def get_reviews(steamid):
     url = f"https://steamcommunity.com/profiles/{steamid}/recommended"
@@ -112,13 +119,22 @@ def get_reviews(steamid):
         reviews = []
 
         for item in soup.select(".review_box"):
+            review_id = item.get("id")  # 🔥 STABLE UNIQUE ID
+
+            if not review_id:
+                continue
+
             link = item.find("a")
-            if link and link.get("href"):
-                reviews.append(link["href"])
+
+            reviews.append({
+                "id": review_id,
+                "url": link["href"] if link else None
+            })
 
         return reviews
 
-    except:
+    except Exception as e:
+        print("Review scrape failed:", e)
         return []
 
 
@@ -138,7 +154,8 @@ def check_reviews():
         reviews = get_reviews(steamid)
 
         for r in reviews:
-            key = f"{steamid}:{r}"
+            review_id = r["id"]
+            key = f"{steamid}:{review_id}"
 
             if key in seen:
                 continue
@@ -148,7 +165,7 @@ def check_reviews():
             embed = {
                 "title": "✍️ New Steam Review",
                 "description": f"**{name}** posted a new review",
-                "url": r,
+                "url": r.get("url"),
                 "color": 0x3498DB,
                 "timestamp": datetime.utcnow().isoformat()
             }
@@ -159,7 +176,7 @@ def check_reviews():
 
 
 # ----------------------------
-# MAIN
+# MAIN ENTRY
 # ----------------------------
 def main():
     print("Steam bot running")
