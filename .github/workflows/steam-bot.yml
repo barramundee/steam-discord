@@ -1,17 +1,12 @@
 name: Steam Discord Bot
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
-      
+
     steps:
       - uses: actions/checkout@v4
 
@@ -29,11 +24,3 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           STEAM_IDS: ${{ secrets.STEAM_IDS }}
         run: python bot.py
-
-      - name: Save state
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add state.json
-          git commit -m "update state" || exit 0
-          git push
