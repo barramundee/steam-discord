@@ -1,0 +1,41 @@
+name: Steam Checker
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:          # allow manual runs from the Actions tab
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # needed to commit state.json back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: "20"
+
+      - name: Run checker
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_IDS: ${{ secrets.STEAM_IDS }}
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+        run: node check.js
+
+      - name: Commit updated state.json
+        run: |
+          if [ -f changed.txt ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add state.json
+            git commit -m "chore: update state.json [skip ci]"
+            git push
+          else
+            echo "Nothing changed, skipping commit."
+          fi
