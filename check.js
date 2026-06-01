@@ -319,7 +319,10 @@ async function checkFriendActivity(players, state, isFirstRun) {
           const unlocked = achievements.filter(a => a.achieved === 1);
           const prevUnlocked = new Set(ps.achievements[appId] || []);
 
-          if (!isFirstRun) {
+          // On first run, ps.achievements[appId] is undefined — seed without posting
+          // On subsequent runs, detect newly unlocked achievements and post them
+          const hasSeenAchievements = ps.achievements[appId] !== undefined;
+          if (hasSeenAchievements) {
             const newlyUnlocked = unlocked.filter(a => !prevUnlocked.has(a.apiname));
             if (newlyUnlocked.length > 0) {
               // Check for 100%
@@ -345,7 +348,7 @@ async function checkFriendActivity(players, state, isFirstRun) {
             }
           }
 
-          if (!isFirstRun) ps.achievements[appId] = unlocked.map(a => a.apiname);
+          ps.achievements[appId] = unlocked.map(a => a.apiname);
           await sleep(300);
         } catch {}
       }
