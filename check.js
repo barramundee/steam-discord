@@ -345,7 +345,7 @@ async function checkFriendActivity(players, state, isFirstRun) {
             }
           }
 
-          ps.achievements[appId] = unlocked.map(a => a.apiname);
+          if (!isFirstRun) ps.achievements[appId] = unlocked.map(a => a.apiname);
           await sleep(300);
         } catch {}
       }
