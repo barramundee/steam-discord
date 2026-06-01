@@ -2781,7 +2781,7 @@
         "name": "Knockout City™ Trial"
       },
       "1588550": {
-        "playtime": 968,
+        "playtime": 969,
         "name": "Cairn"
       },
       "1593500": {
@@ -3077,9 +3077,9 @@
       ],
       "3940070": []
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 1,
     "lastWeekGames": {},
-    "weeklyTotal": 412312,
+    "weeklyTotal": 412313,
     "weeklyTopGame": "Monster Hunter Wilds",
     "weeklyAchievements": 34
   },
