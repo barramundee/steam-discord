@@ -4291,7 +4291,7 @@
         "ACH_CLASS_EXPLORER"
       ]
     },
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 127822,
     "weeklyTopGame": "Rune Dice",
@@ -5639,7 +5639,7 @@
       ],
       "3940070": []
     },
-    "weeklyMinutes": 32,
+    "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 412354,
     "weeklyTopGame": "Monster Hunter Wilds",
@@ -6460,7 +6460,7 @@
         "name": "Half Sword Demo"
       },
       "2694490": {
-        "playtime": 20048,
+        "playtime": 20120,
         "name": "Path of Exile 2"
       },
       "2767030": {
@@ -6657,9 +6657,9 @@
         "ACH_MISC_PEAK"
       ]
     },
-    "weeklyMinutes": 4,
+    "weeklyMinutes": 72,
     "lastWeekGames": {},
-    "weeklyTotal": 404787,
+    "weeklyTotal": 404859,
     "weeklyTopGame": "Path of Exile 2",
     "weeklyAchievements": 101
   },
@@ -7218,7 +7218,7 @@
         "name": "Neophyte"
       },
       "1422450": {
-        "playtime": 42899,
+        "playtime": 42983,
         "name": "Deadlock"
       },
       "1449850": {
@@ -7417,9 +7417,9 @@
       "3527290": [],
       "3892270": []
     },
-    "weeklyMinutes": 235,
+    "weeklyMinutes": 84,
     "lastWeekGames": {},
-    "weeklyTotal": 569204,
+    "weeklyTotal": 569288,
     "weeklyTopGame": "Deadlock",
     "weeklyAchievements": 0
   },
