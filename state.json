@@ -5412,7 +5412,7 @@
         "name": "Omega Strikers"
       },
       "1875580": {
-        "playtime": 60,
+        "playtime": 300,
         "name": "Mina the Hollower"
       },
       "1888930": {
@@ -5646,9 +5646,9 @@
       ],
       "3940070": []
     },
-    "weeklyMinutes": 60,
+    "weeklyMinutes": 240,
     "lastWeekGames": {},
-    "weeklyTotal": 412414,
+    "weeklyTotal": 412654,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
     "weeklyAchievements": 52
   },
@@ -6467,7 +6467,7 @@
         "name": "Half Sword Demo"
       },
       "2694490": {
-        "playtime": 20297,
+        "playtime": 20438,
         "name": "Path of Exile 2"
       },
       "2767030": {
@@ -6664,9 +6664,9 @@
         "ACH_MISC_PEAK"
       ]
     },
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 141,
     "lastWeekGames": {},
-    "weeklyTotal": 405036,
+    "weeklyTotal": 405177,
     "weeklyTopGame": "Path of Exile 2",
     "weeklyAchievements": 101
   },
@@ -7273,7 +7273,7 @@
         "name": "ARC Raiders"
       },
       "1850570": {
-        "playtime": 1818,
+        "playtime": 2028,
         "name": "DEATH STRANDING DIRECTOR'S CUT"
       },
       "1911610": {
@@ -7424,9 +7424,9 @@
       "3527290": [],
       "3892270": []
     },
-    "weeklyMinutes": 95,
+    "weeklyMinutes": 210,
     "lastWeekGames": {},
-    "weeklyTotal": 569476,
+    "weeklyTotal": 569686,
     "weeklyTopGame": "Deadlock",
     "weeklyAchievements": 0
   },
