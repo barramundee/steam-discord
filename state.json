@@ -313,7 +313,7 @@
     "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 40008,
-    "weeklyTopGame": "Alba: A Wildlife Adventure",
+    "weeklyTopGame": "Among Us",
     "weeklyAchievements": 0
   },
   "76561198017069362": {
@@ -5411,6 +5411,10 @@
         "playtime": 77,
         "name": "Omega Strikers"
       },
+      "1875580": {
+        "playtime": 60,
+        "name": "Mina the Hollower"
+      },
       "1888930": {
         "playtime": 1796,
         "name": "The Last of Us™ Part I"
@@ -5637,13 +5641,16 @@
         "ACHIEVEMENT_20",
         "ACHIEVEMENT_26"
       ],
+      "1875580": [
+        "ThorneBeater"
+      ],
       "3940070": []
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 60,
     "lastWeekGames": {},
-    "weeklyTotal": 412354,
+    "weeklyTotal": 412414,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
-    "weeklyAchievements": 51
+    "weeklyAchievements": 52
   },
   "76561198089331916": {
     "games": {
@@ -6460,7 +6467,7 @@
         "name": "Half Sword Demo"
       },
       "2694490": {
-        "playtime": 20267,
+        "playtime": 20297,
         "name": "Path of Exile 2"
       },
       "2767030": {
@@ -6657,9 +6664,9 @@
         "ACH_MISC_PEAK"
       ]
     },
-    "weeklyMinutes": 77,
+    "weeklyMinutes": 30,
     "lastWeekGames": {},
-    "weeklyTotal": 405006,
+    "weeklyTotal": 405036,
     "weeklyTopGame": "Path of Exile 2",
     "weeklyAchievements": 101
   },
@@ -7218,7 +7225,7 @@
         "name": "Neophyte"
       },
       "1422450": {
-        "playtime": 43076,
+        "playtime": 43171,
         "name": "Deadlock"
       },
       "1449850": {
@@ -7417,9 +7424,9 @@
       "3527290": [],
       "3892270": []
     },
-    "weeklyMinutes": 0,
+    "weeklyMinutes": 95,
     "lastWeekGames": {},
-    "weeklyTotal": 569381,
+    "weeklyTotal": 569476,
     "weeklyTopGame": "Deadlock",
     "weeklyAchievements": 0
   },
