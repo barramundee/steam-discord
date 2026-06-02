@@ -72,34 +72,19 @@ const STEAM = {
     return data?.response?.games || [];
   },
   recentlyPlayed: async (steamId) => {
-    const url = `https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v1/?key=${API_KEY}&steamid=${steamId}&count=10`;
+    const url = `https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v1/?key=${API_KEY}&steamid=${steamId}&count=5`;
     const data = await httpsGet(url);
     return data?.response?.games || [];
-  },
-  achievements: async (steamId, appId) => {
-    const url = `https://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v1/?key=${API_KEY}&steamid=${steamId}&appid=${appId}`;
-    const data = await httpsGet(url);
-    return data?.playerstats?.achievements || [];
-  },
-  globalAchievements: async (appId) => {
-    const url = `https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v2/?gameid=${appId}`;
-    const data = await httpsGet(url);
-    return data?.achievementpercentages?.achievements || [];
-  },
-  gameSchema: async (appId) => {
-    const url = `https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key=${API_KEY}&appid=${appId}`;
-    const data = await httpsGet(url);
-    return data?.game?.availableGameStats?.achievements || [];
   },
   playerLevel: async (steamId) => {
     const url = `https://api.steampowered.com/IPlayerService/GetSteamLevel/v1/?key=${API_KEY}&steamid=${steamId}`;
     const data = await httpsGet(url);
-    return data?.response?.player_level || 0;
+    return data?.response?.player_level ?? null;
   },
   wishlist: async (steamId) => {
     const url = `https://store.steampowered.com/wishlist/profiles/${steamId}/wishlistdata/`;
     const data = await httpsGet(url);
-    return data || {};
+    return (data && typeof data === "object" && !data.success) ? data : {};
   },
   appDetails: async (appId) => {
     const url = `https://store.steampowered.com/api/appdetails?appids=${appId}&cc=gb&l=en`;
@@ -107,18 +92,14 @@ const STEAM = {
     return data?.[appId]?.data || null;
   },
   featuredCategories: async () => {
-    const url = `https://store.steampowered.com/api/featuredcategories?cc=gb&l=en`;
-    return await httpsGet(url);
+    return await httpsGet(`https://store.steampowered.com/api/featuredcategories?cc=gb&l=en`);
   },
 };
 
 // ─── State ─────────────────────────────────────────────────────────────────
 function loadState() {
-  try {
-    return JSON.parse(fs.readFileSync(STATE_FILE, "utf8"));
-  } catch {
-    return {};
-  }
+  try { return JSON.parse(fs.readFileSync(STATE_FILE, "utf8")); }
+  catch { return {}; }
 }
 
 function saveState(state) {
@@ -128,26 +109,11 @@ function saveState(state) {
 
 // ─── Embeds ────────────────────────────────────────────────────────────────
 function gameThumb(appId) {
-  return `https://media.steampowered.com/steamcommunity/public/images/apps/${appId}/header.jpg`;
+  return `https://cdn.cloudflare.steamstatic.com/steam/apps/${appId}/header.jpg`;
 }
 
 function profileUrl(steamId) {
   return `https://steamcommunity.com/profiles/${steamId}`;
-}
-
-function buildAchievementEmbed(player, achievement, rarity, appName, appId) {
-  const rarityText = rarity != null ? `${rarity.toFixed(1)}% of players have this` : null;
-  return {
-    color: 0xF5A623,
-    author: { name: `${player.personaname} unlocked an achievement`, url: profileUrl(player.steamid), icon_url: player.avatar },
-    title: achievement.displayName || achievement.apiname,
-    description: achievement.description || null,
-    fields: [
-      { name: "Game", value: appName, inline: true },
-      ...(rarityText ? [{ name: "Rarity", value: rarityText, inline: true }] : []),
-    ],
-    thumbnail: { url: gameThumb(appId) },
-  };
 }
 
 function buildNewGameEmbed(player, game) {
@@ -156,17 +122,6 @@ function buildNewGameEmbed(player, game) {
     author: { name: `${player.personaname} got a new game`, url: profileUrl(player.steamid), icon_url: player.avatar },
     title: game.name,
     url: `https://store.steampowered.com/app/${game.appid}`,
-    thumbnail: { url: gameThumb(game.appid) },
-  };
-}
-
-function buildMilestoneEmbed(player, game, hours) {
-  return {
-    color: 0x1b2838,
-    author: { name: `${player.personaname} hit a playtime milestone`, url: profileUrl(player.steamid), icon_url: player.avatar },
-    title: game.name,
-    url: `https://store.steampowered.com/app/${game.appid}`,
-    fields: [{ name: "Hours played", value: `${hours} hours`, inline: true }],
     thumbnail: { url: gameThumb(game.appid) },
   };
 }
@@ -181,33 +136,34 @@ function buildFirstPlayEmbed(player, game) {
   };
 }
 
-function buildLevelEmbed(player, level) {
+function buildMilestoneEmbed(player, game, hours) {
   return {
-    color: 0x8B78E6,
-    author: { name: `${player.personaname} reached a new Steam level`, url: profileUrl(player.steamid), icon_url: player.avatar },
-    title: `Level ${level}`,
-    description: `${player.personaname} is now Steam level **${level}**!`,
-  };
-}
-
-function build100PercentEmbed(player, game) {
-  return {
-    color: 0xFFD700,
-    author: { name: `${player.personaname} 100% completed a game!`, url: profileUrl(player.steamid), icon_url: player.avatar },
+    color: 0xF5A623,
+    author: { name: `${player.personaname} hit a playtime milestone`, url: profileUrl(player.steamid), icon_url: player.avatar },
     title: game.name,
     url: `https://store.steampowered.com/app/${game.appid}`,
-    description: "Every achievement unlocked! 🏆",
+    fields: [{ name: "Hours played", value: `${hours}h`, inline: true }],
     thumbnail: { url: gameThumb(game.appid) },
   };
 }
 
-function buildSaleEmbed(appName, appId, discount, finalPrice, taggedUsers) {
-  const mentions = taggedUsers.length > 0 ? taggedUsers.map(u => u.personaname).join(", ") + " — this is on your wishlist!" : null;
+function buildLevelEmbed(player, level) {
+  return {
+    color: 0x8B78E6,
+    author: { name: `${player.personaname} reached a new Steam level`, url: profileUrl(player.steamid), icon_url: player.avatar },
+    title: `Level ${level} 🥇`,
+    description: `${player.personaname} is now Steam level **${level}**!`,
+    thumbnail: { url: player.avatarfull },
+  };
+}
+
+function buildSaleEmbed(appName, appId, discount, finalPrice, wishlistPlayers) {
+  const who = wishlistPlayers.map(p => p.personaname).join(", ");
   return {
     color: 0x4CAF50,
     title: `💸 ${appName} is on sale!`,
     url: `https://store.steampowered.com/app/${appId}`,
-    description: mentions,
+    description: `${who} — this is on your wishlist!`,
     fields: [
       { name: "Discount", value: `-${discount}%`, inline: true },
       { name: "Price", value: finalPrice, inline: true },
@@ -219,42 +175,37 @@ function buildSaleEmbed(appName, appId, discount, finalPrice, taggedUsers) {
 function buildSteamSaleEmbed(saleName) {
   return {
     color: 0x1b2838,
-    title: `🛍️ ${saleName} has started on Steam!`,
+    title: `🛍️ ${saleName} is on now!`,
     url: "https://store.steampowered.com/specials",
     description: "Head to the Steam store to check out the deals.",
+    thumbnail: { url: "https://store.steampowered.com/favicon.ico" },
   };
 }
 
-function buildFriendsPlayingEmbed(gameName, appId, players) {
-  return {
-    color: 0x00b4db,
-    title: `👥 ${players.length} friends are playing ${gameName} right now`,
-    url: `https://store.steampowered.com/app/${appId}`,
-    description: players.map(p => p.personaname).join(", "),
-    thumbnail: { url: gameThumb(appId) },
-  };
-}
-
-// ─── Weekly digest ─────────────────────────────────────────────────────────
 function buildWeeklyDigest(playerStats) {
   const sorted = [...playerStats].sort((a, b) => b.weeklyMinutes - a.weeklyMinutes);
-  const crown = sorted[0];
-  const fields = sorted.map((p, i) => ({
-    name: i === 0 ? `👑 ${p.name}` : p.name,
-    value: p.weeklyMinutes > 0
-      ? `${(p.weeklyMinutes / 60).toFixed(1)}h played${p.topGame ? ` · ${p.topGame}` : ""}${p.newGames > 0 ? ` · ${p.newGames} new game${p.newGames > 1 ? "s" : ""}` : ""}${p.achievements > 0 ? ` · ${p.achievements} achievement${p.achievements > 1 ? "s" : ""}` : ""}`
-      : "Nothing played this week",
-    inline: false,
-  }));
+  const crown = sorted.find(p => p.weeklyMinutes > 0);
+
+  const fields = sorted.map((p, i) => {
+    const hrs = (p.weeklyMinutes / 60).toFixed(1);
+    let value = p.weeklyMinutes > 0 ? `${hrs}h played` : "Nothing played this week";
+    if (p.topGame) value += ` · ${p.topGame}`;
+    if (p.newGames > 0) value += ` · ${p.newGames} new game${p.newGames > 1 ? "s" : ""}`;
+    return { name: crown && p.name === crown.name ? `👑 ${p.name}` : p.name, value, inline: false };
+  });
 
   return {
     color: 0x1b2838,
     title: "📊 Weekly Steam Digest",
-    description: crown && crown.weeklyMinutes > 0
-      ? `👑 ${crown.name} put in the most hours this week with ${(crown.weeklyMinutes / 60).toFixed(1)}h!`
+    description: crown
+      ? `👑 ${crown.name} led the group this week with ${(crown.weeklyMinutes / 60).toFixed(1)}h!`
       : "A quiet week for the group.",
     fields,
-    footer: { text: "Week ending " + new Date().toLocaleDateString("en-GB", { weekday: "long", year: "numeric", month: "long", day: "numeric" }) },
+    footer: {
+      text: "Week ending " + new Date().toLocaleDateString("en-GB", {
+        weekday: "long", year: "numeric", month: "long", day: "numeric"
+      })
+    },
   };
 }
 
@@ -264,221 +215,166 @@ const MILESTONES = [10, 25, 50, 100, 200, 500, 1000];
 async function checkFriendActivity(players, state, isFirstRun) {
   for (const player of players) {
     const sid = player.steamid;
-    if (!state[sid]) state[sid] = { games: {}, level: 0, achievements: {}, weeklyMinutes: 0, lastWeekGames: {} };
+    if (!state[sid]) state[sid] = { games: {}, level: null, weeklyMinutes: 0, weeklyTotal: null, weeklyTopGame: null, newGames: 0 };
     const ps = state[sid];
 
-    // ── Level up ──────────────────────────────────────────────────────────
+    console.log(`  Checking ${player.personaname}...`);
+
+    // ── Level ──────────────────────────────────────────────────────────────
     try {
       const level = await STEAM.playerLevel(sid);
-      if (!isFirstRun && level > (ps.level || 0)) {
-        await postEmbed(buildLevelEmbed(player, level));
+      if (level !== null) {
+        if (!isFirstRun && ps.level !== null && level > ps.level) {
+          console.log(`    Level up: ${ps.level} -> ${level}`);
+          await postEmbed(buildLevelEmbed(player, level));
+        }
+        ps.level = level;
       }
-      ps.level = level;
-    } catch {}
+    } catch (e) { console.log(`    Level check failed: ${e.message}`); }
     await sleep(300);
 
-    // ── Owned games ───────────────────────────────────────────────────────
+    // ── Owned games ────────────────────────────────────────────────────────
     let ownedGames = [];
     try {
       ownedGames = await STEAM.ownedGames(sid);
-    } catch { continue; }
+    } catch (e) { console.log(`    Owned games failed: ${e.message}`); continue; }
     await sleep(300);
 
+    console.log(`    ${ownedGames.length} games owned, ${ownedGames.filter(g => g.playtime_2weeks > 0).length} played recently`);
+
+    let newGamesThisRun = 0;
     for (const game of ownedGames) {
       const appId = String(game.appid);
-      const hours = Math.floor((game.playtime_forever || 0) / 60);
       const prevData = ps.games[appId];
+      const prevHours = Math.floor((prevData?.playtime || 0) / 60);
+      const currHours = Math.floor((game.playtime_forever || 0) / 60);
 
-      // New game
-      if (!prevData && !isFirstRun) {
-        await postEmbed(buildNewGameEmbed(player, game));
-        await sleep(500);
+      // New game (in library but not seen before)
+      if (!prevData) {
+        if (!isFirstRun) {
+          console.log(`    New game: ${game.name}`);
+          await postEmbed(buildNewGameEmbed(player, game));
+          await sleep(500);
+          newGamesThisRun++;
+        }
+        ps.games[appId] = { playtime: game.playtime_forever, name: game.name, firstPlayPosted: false };
+        continue;
       }
 
-      // First time played
-      if (prevData && prevData.playtime === 0 && game.playtime_forever > 0 && !isFirstRun) {
-        await postEmbed(buildFirstPlayEmbed(player, game));
-        await sleep(500);
+      // First time played (had the game but playtime was 0, now it's > 0)
+      if (!prevData.firstPlayPosted && prevData.playtime === 0 && game.playtime_forever > 0) {
+        if (!isFirstRun) {
+          console.log(`    First play: ${game.name}`);
+          await postEmbed(buildFirstPlayEmbed(player, game));
+          await sleep(500);
+        }
+        ps.games[appId].firstPlayPosted = true;
       }
 
       // Playtime milestones
-      if (prevData && !isFirstRun) {
-        const prevHours = Math.floor((prevData.playtime || 0) / 60);
+      if (!isFirstRun) {
         for (const milestone of MILESTONES) {
-          if (prevHours < milestone && hours >= milestone) {
+          if (prevHours < milestone && currHours >= milestone) {
+            console.log(`    Milestone: ${game.name} - ${milestone}h`);
             await postEmbed(buildMilestoneEmbed(player, game, milestone));
             await sleep(500);
           }
         }
       }
 
-      // Achievements (only check recently played games to save API calls)
-      if (game.playtime_2weeks > 0) {
-        try {
-          const achievements = await STEAM.achievements(sid, appId);
-          const unlocked = achievements.filter(a => a.achieved === 1);
-          const prevUnlocked = new Set(ps.achievements[appId] || []);
-
-          // On first run, ps.achievements[appId] is undefined — seed without posting
-          // On subsequent runs, detect newly unlocked achievements and post them
-          const hasSeenAchievements = ps.achievements[appId] !== undefined;
-          if (hasSeenAchievements) {
-            const newlyUnlocked = unlocked.filter(a => !prevUnlocked.has(a.apiname));
-            if (newlyUnlocked.length > 0) {
-              // Check for 100%
-              if (unlocked.length === achievements.length && achievements.length > 0) {
-                await postEmbed(build100PercentEmbed(player, game));
-                await sleep(500);
-              } else {
-                // Get schema for display names
-                const schema = await STEAM.gameSchema(appId);
-                await sleep(300);
-                const globalPcts = await STEAM.globalAchievements(appId);
-                await sleep(300);
-                const schemaMap = Object.fromEntries(schema.map(a => [a.name, a]));
-                const globalMap = Object.fromEntries(globalPcts.map(a => [a.name, a.percent]));
-
-                for (const ach of newlyUnlocked.slice(0, 3)) { // cap at 3 per run
-                  const schemaAch = schemaMap[ach.apiname] || {};
-                  const rarity = globalMap[ach.apiname] ?? null;
-                  await postEmbed(buildAchievementEmbed(player, { ...ach, ...schemaAch }, rarity, game.name, appId));
-                  await sleep(500);
-                }
-              }
-            }
-          }
-
-          ps.achievements[appId] = unlocked.map(a => a.apiname);
-          await sleep(300);
-        } catch {}
-      }
-
-      ps.games[appId] = { playtime: game.playtime_forever, name: game.name };
+      ps.games[appId] = { ...ps.games[appId], playtime: game.playtime_forever, name: game.name };
     }
 
-    // Weekly playtime tracking
+    // ── Weekly tracking ────────────────────────────────────────────────────
     const totalMinutes = ownedGames.reduce((sum, g) => sum + (g.playtime_forever || 0), 0);
-    const prevTotal = ps.weeklyTotal || totalMinutes;
-    ps.weeklyMinutes = totalMinutes - prevTotal;
+    if (ps.weeklyTotal === null) ps.weeklyTotal = totalMinutes;
+    ps.weeklyMinutes = Math.max(0, totalMinutes - ps.weeklyTotal);
     ps.weeklyTotal = totalMinutes;
+    ps.newGames = newGamesThisRun;
 
-    // Top game this week
-    const recentGames = await STEAM.recentlyPlayed(sid).catch(() => []);
-    ps.weeklyTopGame = recentGames[0]?.name || null;
-    ps.weeklyAchievements = Object.values(ps.achievements).flat().length;
+    try {
+      const recent = await STEAM.recentlyPlayed(sid);
+      ps.weeklyTopGame = recent[0]?.name || null;
+    } catch {}
     await sleep(300);
   }
 }
 
 async function checkWishlists(players, state, isFirstRun) {
   if (isFirstRun) return;
-  const wishlistsByApp = {};
+  if (!state.sales) state.sales = {};
 
+  // Build a map of appId -> players who have it wishlisted
+  const wishlistMap = {};
   for (const player of players) {
     try {
       const wishlist = await STEAM.wishlist(player.steamid);
       for (const appId of Object.keys(wishlist)) {
-        if (!wishlistsByApp[appId]) wishlistsByApp[appId] = [];
-        wishlistsByApp[appId].push(player);
+        if (!wishlistMap[appId]) wishlistMap[appId] = [];
+        wishlistMap[appId].push(player);
       }
       await sleep(500);
     } catch {}
   }
 
-  for (const [appId, wishlistPlayers] of Object.entries(wishlistsByApp)) {
+  console.log(`  Checking ${Object.keys(wishlistMap).length} wishlisted apps for sales...`);
+
+  // Check each wishlisted app for a sale — sample up to 20 to stay within rate limits
+  const appIds = Object.keys(wishlistMap).slice(0, 20);
+  for (const appId of appIds) {
     try {
       const details = await STEAM.appDetails(appId);
-      await sleep(300);
+      await sleep(400);
       if (!details?.price_overview) continue;
       const price = details.price_overview;
       if (price.discount_percent > 0) {
-        const saleKey = `sale_${appId}_${price.discount_percent}`;
-        if (!state.sales) state.sales = {};
+        const saleKey = `${appId}_${price.discount_percent}`;
         if (!state.sales[saleKey]) {
-          await postEmbed(buildSaleEmbed(
-            details.name,
-            appId,
-            price.discount_percent,
-            price.final_formatted,
-            wishlistPlayers
-          ));
+          console.log(`  Sale found: ${details.name} -${price.discount_percent}%`);
+          await postEmbed(buildSaleEmbed(details.name, appId, price.discount_percent, price.final_formatted, wishlistMap[appId]));
           state.sales[saleKey] = true;
         }
+      } else {
+        // Clear old sale keys when no longer on sale
+        const oldKey = Object.keys(state.sales).find(k => k.startsWith(`${appId}_`));
+        if (oldKey) delete state.sales[oldKey];
       }
     } catch {}
   }
 }
 
-async function checkFriendsPlayingTogether(players, state) {
-  const playingNow = {};
-  for (const player of players) {
-    if (player.gameid) {
-      if (!playingNow[player.gameid]) playingNow[player.gameid] = [];
-      playingNow[player.gameid].push(player);
-    }
-  }
-
-  if (!state.playingTogether) state.playingTogether = {};
-
-  for (const [gameId, gamePlayers] of Object.entries(playingNow)) {
-    if (gamePlayers.length >= 2) {
-      const key = `${gameId}_${gamePlayers.map(p => p.steamid).sort().join("_")}`;
-      if (!state.playingTogether[key]) {
-        const gameName = gamePlayers[0].gameextrainfo || `App ${gameId}`;
-        await postEmbed(buildFriendsPlayingEmbed(gameName, gameId, gamePlayers));
-        state.playingTogether[key] = Date.now();
-      }
-    }
-  }
-
-  // Clear old playing-together keys after 2 hours
-  const now = Date.now();
-  for (const key of Object.keys(state.playingTogether)) {
-    if (now - state.playingTogether[key] > 2 * 60 * 60 * 1000) {
-      delete state.playingTogether[key];
-    }
-  }
-}
-
 async function checkSteamSales(state) {
+  if (!state.steamSales) state.steamSales = {};
   try {
     const featured = await STEAM.featuredCategories();
     if (!featured) return;
-    if (!state.steamSales) state.steamSales = {};
-
-    // Check for major sale banner
-    const specials = featured.specials;
-    if (specials?.name && specials.name !== state.steamSales.lastSaleName) {
-      const saleName = specials.name;
-      if (saleName && saleName.toLowerCase().includes("sale")) {
-        await postEmbed(buildSteamSaleEmbed(saleName));
-        state.steamSales.lastSaleName = saleName;
-      }
+    const saleName = featured?.specials?.name;
+    if (saleName && saleName.toLowerCase().includes("sale") && saleName !== state.steamSales.lastName) {
+      console.log(`  Steam sale detected: ${saleName}`);
+      await postEmbed(buildSteamSaleEmbed(saleName));
+      state.steamSales.lastName = saleName;
     }
   } catch {}
 }
 
 async function checkWeeklyDigest(players, state) {
   const now = new Date();
-  const isSunday = now.getDay() === 0;
-  const currentHour = now.getUTCHours();
+  if (now.getDay() !== 0) return; // Sunday only
+  const hour = now.getUTCHours();
+  if (hour < 18 || hour >= 19) return; // 6-7pm UTC
 
-  if (!isSunday || currentHour < 18 || currentHour > 19) return;
-
-  const weekKey = `digest_${now.getUTCFullYear()}_${Math.floor((now - new Date(now.getUTCFullYear(), 0, 1)) / 604800000)}`;
   if (!state.digests) state.digests = {};
+  const weekKey = `${now.getUTCFullYear()}_${Math.floor(now / 604800000)}`;
   if (state.digests[weekKey]) return;
 
-  const playerStats = players.map(p => {
-    const ps = state[p.steamid] || {};
-    return {
-      name: p.personaname,
-      weeklyMinutes: ps.weeklyMinutes || 0,
-      topGame: ps.weeklyTopGame || null,
-      newGames: Object.keys(ps.games || {}).length - Object.keys(ps.lastWeekGames || ps.games || {}).length,
-      achievements: 0,
-    };
-  });
+  console.log("  Posting weekly digest...");
+
+  const playerStats = players.map(p => ({
+    name: p.personaname,
+    weeklyMinutes: state[p.steamid]?.weeklyMinutes || 0,
+    topGame: state[p.steamid]?.weeklyTopGame || null,
+    newGames: state[p.steamid]?.newGames || 0,
+  }));
 
   await postEmbed(buildWeeklyDigest(playerStats));
   state.digests[weekKey] = true;
@@ -487,7 +383,8 @@ async function checkWeeklyDigest(players, state) {
   for (const player of players) {
     if (state[player.steamid]) {
       state[player.steamid].weeklyMinutes = 0;
-      state[player.steamid].lastWeekGames = { ...state[player.steamid].games };
+      state[player.steamid].weeklyTotal = null;
+      state[player.steamid].newGames = 0;
     }
   }
 }
@@ -498,7 +395,6 @@ async function main() {
   const isFirstRun = Object.keys(state).length === 0;
   if (isFirstRun) console.log("First run — seeding state without posting.");
 
-  // Fetch all player summaries in one call
   const players = await STEAM.playerSummaries(STEAM_IDS);
   if (!players.length) {
     console.error("No players returned — check STEAM_IDS and profile visibility");
@@ -509,7 +405,6 @@ async function main() {
 
   await checkFriendActivity(players, state, isFirstRun);
   await checkWishlists(players, state, isFirstRun);
-  await checkFriendsPlayingTogether(players, state);
   await checkSteamSales(state);
   await checkWeeklyDigest(players, state);
 
