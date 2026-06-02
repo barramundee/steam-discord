@@ -6657,7 +6657,7 @@
         "ACH_MISC_PEAK"
       ]
     },
-    "weeklyMinutes": 70,
+    "weeklyMinutes": 0,
     "lastWeekGames": {},
     "weeklyTotal": 404929,
     "weeklyTopGame": "Path of Exile 2",
@@ -7218,7 +7218,7 @@
         "name": "Neophyte"
       },
       "1422450": {
-        "playtime": 43043,
+        "playtime": 43076,
         "name": "Deadlock"
       },
       "1449850": {
@@ -7417,9 +7417,9 @@
       "3527290": [],
       "3892270": []
     },
-    "weeklyMinutes": 60,
+    "weeklyMinutes": 33,
     "lastWeekGames": {},
-    "weeklyTotal": 569348,
+    "weeklyTotal": 569381,
     "weeklyTopGame": "Deadlock",
     "weeklyAchievements": 0
   },
