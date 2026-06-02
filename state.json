@@ -5139,6 +5139,10 @@
         "playtime": 0,
         "name": "Fortune-499"
       },
+      "858710": {
+        "playtime": 0,
+        "name": "Gravity Circuit"
+      },
       "865360": {
         "playtime": 0,
         "name": "We Were Here Together"
@@ -5412,7 +5416,7 @@
         "name": "Omega Strikers"
       },
       "1875580": {
-        "playtime": 300,
+        "playtime": 438,
         "name": "Mina the Hollower"
       },
       "1888930": {
@@ -5646,9 +5650,9 @@
       ],
       "3940070": []
     },
-    "weeklyMinutes": 240,
+    "weeklyMinutes": 138,
     "lastWeekGames": {},
-    "weeklyTotal": 412654,
+    "weeklyTotal": 412792,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
     "weeklyAchievements": 52
   },
@@ -6467,7 +6471,7 @@
         "name": "Half Sword Demo"
       },
       "2694490": {
-        "playtime": 20438,
+        "playtime": 20496,
         "name": "Path of Exile 2"
       },
       "2767030": {
@@ -6664,9 +6668,9 @@
         "ACH_MISC_PEAK"
       ]
     },
-    "weeklyMinutes": 141,
+    "weeklyMinutes": 58,
     "lastWeekGames": {},
-    "weeklyTotal": 405177,
+    "weeklyTotal": 405235,
     "weeklyTopGame": "Path of Exile 2",
     "weeklyAchievements": 101
   },
@@ -7273,7 +7277,7 @@
         "name": "ARC Raiders"
       },
       "1850570": {
-        "playtime": 2028,
+        "playtime": 2178,
         "name": "DEATH STRANDING DIRECTOR'S CUT"
       },
       "1911610": {
@@ -7424,9 +7428,9 @@
       "3527290": [],
       "3892270": []
     },
-    "weeklyMinutes": 210,
+    "weeklyMinutes": 150,
     "lastWeekGames": {},
-    "weeklyTotal": 569686,
+    "weeklyTotal": 569836,
     "weeklyTopGame": "Deadlock",
     "weeklyAchievements": 0
   },
