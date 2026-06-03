@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 43816,
+        "playtime": 43846,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 570516,
+    "weeklyTotal": 570546,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5706,9 +5706,9 @@
         "firstPlayPosted": false
       },
       "2186990": {
-        "playtime": 0,
+        "playtime": 12,
         "name": "Fatekeeper",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2208920": {
         "playtime": 641,
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 405766,
+    "weeklyMinutes": 12,
+    "weeklyTotal": 405778,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
