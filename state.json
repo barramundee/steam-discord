@@ -9149,7 +9149,7 @@
         "firstPlayPosted": false
       },
       "3542380": {
-        "playtime": 554,
+        "playtime": 561,
         "name": "Rune Dice",
         "firstPlayPosted": false
       },
@@ -9200,8 +9200,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 127852,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 127859,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
