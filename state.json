@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 43425,
+        "playtime": 43455,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 570125,
+    "weeklyTotal": 570155,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5705,6 +5705,11 @@
         "name": "Once Human",
         "firstPlayPosted": false
       },
+      "2186990": {
+        "playtime": 0,
+        "name": "Fatekeeper",
+        "firstPlayPosted": false
+      },
       "2208920": {
         "playtime": 641,
         "name": "Assassin's Creed Valhalla",
@@ -5731,7 +5736,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 20496,
+        "playtime": 20502,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -5832,10 +5837,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 405235,
+    "weeklyMinutes": 6,
+    "weeklyTotal": 405241,
     "weeklyTopGame": "Path of Exile 2",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
