@@ -8134,7 +8134,7 @@
         "firstPlayPosted": false
       },
       "275850": {
-        "playtime": 420,
+        "playtime": 425,
         "name": "No Man's Sky",
         "firstPlayPosted": false
       },
@@ -8959,7 +8959,7 @@
         "firstPlayPosted": false
       },
       "1888160": {
-        "playtime": 226,
+        "playtime": 236,
         "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
         "firstPlayPosted": false
       },
@@ -9200,8 +9200,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 7,
-    "weeklyTotal": 127859,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 127874,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
