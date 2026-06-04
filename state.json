@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "2186990": {
-        "playtime": 12,
+        "playtime": 29,
         "name": "Fatekeeper",
         "firstPlayPosted": true
       },
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 405778,
+    "weeklyMinutes": 17,
+    "weeklyTotal": 405795,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
