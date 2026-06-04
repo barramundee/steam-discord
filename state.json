@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 43914,
+        "playtime": 43944,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 570614,
+    "weeklyTotal": 570644,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7456,7 +7456,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 26,
+    "weeklyMinutes": 0,
     "weeklyTotal": 412818,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
     "newGames": 0
