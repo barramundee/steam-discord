@@ -936,7 +936,7 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 40,
+    "weeklyMinutes": 0,
     "weeklyTotal": 571057,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 884,
+        "playtime": 914,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7457,7 +7457,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 413238,
+    "weeklyTotal": 413268,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
     "newGames": 0
   },
