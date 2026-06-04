@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "2186990": {
-        "playtime": 29,
+        "playtime": 35,
         "name": "Fatekeeper",
         "firstPlayPosted": true
       },
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 406068,
+    "weeklyMinutes": 6,
+    "weeklyTotal": 406074,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 464,
+        "playtime": 494,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 412818,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 412848,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
     "newGames": 0
   },
