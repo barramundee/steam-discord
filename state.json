@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 2705,
+        "playtime": 2735,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 571880,
+    "weeklyTotal": 571910,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5571,7 +5571,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 60003,
+        "playtime": 60033,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5838,7 +5838,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 406217,
+    "weeklyTotal": 406247,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1184,
+        "playtime": 1214,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 21,
-    "weeklyTotal": 413538,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 413568,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -9094,7 +9094,7 @@
         "firstPlayPosted": false
       },
       "2868840": {
-        "playtime": 883,
+        "playtime": 885,
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
@@ -9200,8 +9200,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 127921,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 127923,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
