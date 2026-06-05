@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 973,
+        "playtime": 1003,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 413327,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 413357,
     "weeklyTopGame": "LEGO® Star Wars™: The Skywalker Saga",
     "newGames": 0
   },
@@ -9094,7 +9094,7 @@
         "firstPlayPosted": false
       },
       "2868840": {
-        "playtime": 876,
+        "playtime": 883,
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
@@ -9200,8 +9200,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 127914,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 127921,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
