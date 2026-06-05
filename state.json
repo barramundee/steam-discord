@@ -5571,7 +5571,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 59902,
+        "playtime": 59943,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 8,
-    "weeklyTotal": 406094,
+    "weeklyMinutes": 41,
+    "weeklyTotal": 406135,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -8834,7 +8834,7 @@
         "firstPlayPosted": false
       },
       "1293830": {
-        "playtime": 396,
+        "playtime": 422,
         "name": "Forza Horizon 4",
         "firstPlayPosted": false
       },
@@ -9200,8 +9200,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 127874,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 127900,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
