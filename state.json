@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 3013,
+        "playtime": 3014,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 572509,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 572510,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
