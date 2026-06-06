@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 2795,
+        "playtime": 2825,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 571970,
+    "weeklyTotal": 572000,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7456,7 +7456,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 24,
+    "weeklyMinutes": 0,
     "weeklyTotal": 413622,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
