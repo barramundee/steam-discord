@@ -5837,7 +5837,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 26,
+    "weeklyMinutes": 0,
     "weeklyTotal": 406382,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
@@ -7135,7 +7135,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2076,
+        "playtime": 2095,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 413652,
+    "weeklyMinutes": 19,
+    "weeklyTotal": 413671,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
