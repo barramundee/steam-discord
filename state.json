@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 2765,
+        "playtime": 2795,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 571940,
+    "weeklyTotal": 571970,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5837,7 +5837,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 33,
+    "weeklyMinutes": 0,
     "weeklyTotal": 406280,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1244,
+        "playtime": 1268,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 413598,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 413622,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -9200,7 +9200,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 16,
+    "weeklyMinutes": 0,
     "weeklyTotal": 127939,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
