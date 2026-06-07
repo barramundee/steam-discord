@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1760,
+        "playtime": 1765,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 414298,
+    "weeklyMinutes": 5,
+    "weeklyTotal": 414303,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
