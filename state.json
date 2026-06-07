@@ -7456,7 +7456,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 16,
+    "weeklyMinutes": 0,
     "weeklyTotal": 414154,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
@@ -8878,6 +8878,11 @@
         "name": "Initial Drift Online",
         "firstPlayPosted": false
       },
+      "1501750": {
+        "playtime": 0,
+        "name": "Lords of the Fallen",
+        "firstPlayPosted": false
+      },
       "1507190": {
         "playtime": 0,
         "name": "Machinika Museum",
@@ -9203,7 +9208,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 127948,
     "weeklyTopGame": "Rune Dice",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {}
