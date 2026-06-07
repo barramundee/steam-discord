@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 45099,
+        "playtime": 45129,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 572600,
+    "weeklyTotal": 572630,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1627,
+        "playtime": 1643,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 414092,
+    "weeklyMinutes": 16,
+    "weeklyTotal": 414108,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
