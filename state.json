@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 45592,
+        "playtime": 45622,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 573270,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 573300,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3502,6 +3502,11 @@
         "name": "Grand Theft Auto V Enhanced",
         "firstPlayPosted": false
       },
+      "3321460": {
+        "playtime": 0,
+        "name": "Crimson Desert",
+        "firstPlayPosted": false
+      },
       "3405340": {
         "playtime": 1022,
         "name": "Megabonk",
@@ -3522,7 +3527,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 377465,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
@@ -7240,7 +7245,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1825,
+        "playtime": 1855,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7457,7 +7462,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 414363,
+    "weeklyTotal": 414393,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
