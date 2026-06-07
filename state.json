@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 45622,
+        "playtime": 45652,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 573300,
+    "weeklyTotal": 573330,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3527,7 +3527,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 377465,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198197833939": {
     "games": {
@@ -7245,7 +7245,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1855,
+        "playtime": 1885,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7462,7 +7462,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 414393,
+    "weeklyTotal": 414423,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
