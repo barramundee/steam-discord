@@ -875,7 +875,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1467,
+        "playtime": 1497,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 573183,
+    "weeklyTotal": 573213,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1613,
+        "playtime": 1643,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5838,7 +5838,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 406584,
+    "weeklyTotal": 406614,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1689,
+        "playtime": 1719,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 414227,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 414257,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -9205,7 +9205,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 28,
+    "weeklyMinutes": 0,
     "weeklyTotal": 127976,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
