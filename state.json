@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1795,
+        "playtime": 1825,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7457,7 +7457,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 414333,
+    "weeklyTotal": 414363,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -9205,7 +9205,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 47,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128023,
     "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
