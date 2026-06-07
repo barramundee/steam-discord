@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -875,7 +875,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1497,
+        "playtime": 1527,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 573213,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -1326,7 +1326,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40008,
+    "weeklyTotal": null,
     "weeklyTopGame": "Among Us",
     "newGames": 0
   },
@@ -3520,7 +3520,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 377465,
+    "weeklyTotal": null,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -4709,7 +4709,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1643,
+        "playtime": 1673,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 406614,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1719,
+        "playtime": 1760,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 414257,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -9206,10 +9206,13 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 127976,
+    "weeklyTotal": null,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
   "steamSales": {},
-  "sales": {}
+  "sales": {},
+  "digests": {
+    "2026_2944": true
+  }
 }
