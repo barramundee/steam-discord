@@ -5571,7 +5571,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 60249,
+        "playtime": 60285,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 406458,
+    "weeklyMinutes": 36,
+    "weeklyTotal": 406494,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1643,
+        "playtime": 1673,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 414108,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 414138,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
