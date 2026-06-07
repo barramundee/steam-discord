@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 45591,
+        "playtime": 45592,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -875,7 +875,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1377,
+        "playtime": 1407,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 573092,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 573123,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1523,
+        "playtime": 1553,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5837,8 +5837,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 406494,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 406524,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7135,7 +7135,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2188,
+        "playtime": 2230,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 414185,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 414227,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
