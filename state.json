@@ -875,7 +875,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1437,
+        "playtime": 1467,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 573153,
+    "weeklyTotal": 573183,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1583,
+        "playtime": 1613,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5838,7 +5838,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 406554,
+    "weeklyTotal": 406584,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -9094,7 +9094,7 @@
         "firstPlayPosted": false
       },
       "2824490": {
-        "playtime": 5470,
+        "playtime": 5498,
         "name": "He is Coming",
         "firstPlayPosted": false
       },
@@ -9205,8 +9205,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 127948,
+    "weeklyMinutes": 28,
+    "weeklyTotal": 127976,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
