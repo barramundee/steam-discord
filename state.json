@@ -7240,7 +7240,7 @@
         "firstPlayPosted": false
       },
       "1875580": {
-        "playtime": 1765,
+        "playtime": 1795,
         "name": "Mina the Hollower",
         "firstPlayPosted": false
       },
@@ -7456,8 +7456,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 414303,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 414333,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -8879,9 +8879,9 @@
         "firstPlayPosted": false
       },
       "1501750": {
-        "playtime": 0,
+        "playtime": 47,
         "name": "Lords of the Fallen",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1507190": {
         "playtime": 0,
@@ -9205,9 +9205,9 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 127976,
-    "weeklyTopGame": "Rune Dice",
+    "weeklyMinutes": 47,
+    "weeklyTotal": 128023,
+    "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
   },
   "steamSales": {},
