@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -875,7 +875,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1527,
+        "playtime": 1554,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 573270,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -1326,7 +1326,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 40008,
     "weeklyTopGame": "Among Us",
     "newGames": 0
   },
@@ -3520,7 +3520,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 377465,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -4709,7 +4709,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1673,
+        "playtime": 1697,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5838,7 +5838,7 @@
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 406668,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -7457,7 +7457,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 414298,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
@@ -9206,7 +9206,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 127976,
     "weeklyTopGame": "Rune Dice",
     "newGames": 0
   },
