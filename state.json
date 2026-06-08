@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 45712,
+        "playtime": 45742,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 573390,
+    "weeklyTotal": 573420,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -6759,6 +6759,11 @@
         "name": "Disco Elysium",
         "firstPlayPosted": false
       },
+      "633360": {
+        "playtime": 0,
+        "name": "Remothered: Tormented Fathers",
+        "firstPlayPosted": false
+      },
       "646570": {
         "playtime": 854,
         "name": "Slay the Spire",
@@ -7461,10 +7466,10 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 59,
+    "weeklyMinutes": 0,
     "weeklyTotal": 414512,
     "weeklyTopGame": "Mina the Hollower",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
