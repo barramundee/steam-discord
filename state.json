@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 45917,
+        "playtime": 45947,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 573595,
+    "weeklyTotal": 573625,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -4576,6 +4576,11 @@
         "name": "Tiny Tina's Wonderlands",
         "firstPlayPosted": false
       },
+      "1382070": {
+        "playtime": 0,
+        "name": "Viewfinder",
+        "firstPlayPosted": false
+      },
       "1388590": {
         "playtime": 0,
         "name": "Yakuza 6: The Song of Life",
@@ -4634,6 +4639,11 @@
       "1778820": {
         "playtime": 0,
         "name": "TEKKEN 8",
+        "firstPlayPosted": false
+      },
+      "1943950": {
+        "playtime": 0,
+        "name": "Escape the Backrooms",
         "firstPlayPosted": false
       },
       "2009100": {
@@ -4716,7 +4726,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 0,
     "weeklyTopGame": null,
-    "newGames": 0
+    "newGames": 2
   },
   "76561198089331916": {
     "games": {
