@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 46273,
+        "playtime": 46303,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 38,
-    "weeklyTotal": 573951,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 573981,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3524,7 +3524,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 16,
+    "weeklyMinutes": 0,
     "weeklyTotal": 377631,
     "weeklyTopGame": "Crimson Desert",
     "newGames": 0
