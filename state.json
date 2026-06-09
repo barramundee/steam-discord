@@ -5849,13 +5849,18 @@
         "playtime": 880,
         "name": "RV There Yet?",
         "firstPlayPosted": false
+      },
+      "4017410": {
+        "playtime": 15,
+        "name": "Cloudheim Demo",
+        "firstPlayPosted": false
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 407038,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 407053,
     "weeklyTopGame": "Path of Exile 2",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
