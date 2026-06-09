@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 46693,
+        "playtime": 46698,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 574371,
+    "weeklyMinutes": 5,
+    "weeklyTotal": 574376,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5586,7 +5586,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 60599,
+        "playtime": 60629,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5853,7 +5853,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 407008,
+    "weeklyTotal": 407038,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
