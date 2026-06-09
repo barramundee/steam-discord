@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 46363,
+        "playtime": 46393,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 574041,
+    "weeklyTotal": 574071,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9123,6 +9123,11 @@
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
+      "3039910": {
+        "playtime": 0,
+        "name": "Demon Hunt",
+        "firstPlayPosted": false
+      },
       "3070070": {
         "playtime": 1446,
         "name": "TCG Card Shop Simulator",
@@ -9228,7 +9233,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 128023,
     "weeklyTopGame": "Forza Horizon 4",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
