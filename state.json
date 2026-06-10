@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 3615,
+        "playtime": 3645,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 575463,
+    "weeklyTotal": 575493,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9129,7 +9129,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 82,
+        "playtime": 109,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9240,8 +9240,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 21,
-    "weeklyTotal": 128137,
+    "weeklyMinutes": 27,
+    "weeklyTotal": 128164,
     "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
   },
