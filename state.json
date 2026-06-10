@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 3585,
+        "playtime": 3615,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 575433,
+    "weeklyTotal": 575463,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9119,7 +9119,7 @@
         "firstPlayPosted": false
       },
       "2824490": {
-        "playtime": 5498,
+        "playtime": 5519,
         "name": "He is Coming",
         "firstPlayPosted": false
       },
@@ -9240,8 +9240,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128116,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 128137,
     "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
   },
