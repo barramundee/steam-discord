@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 3534,
+        "playtime": 3555,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 575224,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 575245,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5771,7 +5771,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1697,
+        "playtime": 1727,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5857,8 +5857,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 407073,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 407103,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
