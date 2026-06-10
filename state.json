@@ -760,7 +760,7 @@
         "firstPlayPosted": false
       },
       "1850570": {
-        "playtime": 3645,
+        "playtime": 3675,
         "name": "DEATH STRANDING DIRECTOR'S CUT",
         "firstPlayPosted": false
       },
@@ -937,7 +937,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 575493,
+    "weeklyTotal": 575523,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9240,7 +9240,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 27,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128164,
     "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
