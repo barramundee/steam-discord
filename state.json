@@ -875,7 +875,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1554,
+        "playtime": 1584,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -936,8 +936,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 21,
-    "weeklyTotal": 575245,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 575275,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5771,7 +5771,7 @@
         "firstPlayPosted": false
       },
       "3041230": {
-        "playtime": 1727,
+        "playtime": 1757,
         "name": "Windrose",
         "firstPlayPosted": false
       },
@@ -5858,7 +5858,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 407103,
+    "weeklyTotal": 407133,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
