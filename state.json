@@ -900,7 +900,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 60,
+        "playtime": 102,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 576054,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 576096,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5924,6 +5924,11 @@
         "name": "Company of Heroes - Legacy Edition",
         "firstPlayPosted": false
       },
+      "6100": {
+        "playtime": 0,
+        "name": "Eets",
+        "firstPlayPosted": false
+      },
       "7670": {
         "playtime": 0,
         "name": "BioShock",
@@ -6979,6 +6984,11 @@
         "name": "Moonrise Fall",
         "firstPlayPosted": false
       },
+      "1053710": {
+        "playtime": 0,
+        "name": "The Red Lantern",
+        "firstPlayPosted": false
+      },
       "1055540": {
         "playtime": 195,
         "name": "A Short Hike",
@@ -7494,7 +7504,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 414517,
     "weeklyTopGame": "Mina the Hollower",
-    "newGames": 0
+    "newGames": 2
   },
   "76561198131238066": {
     "games": {
