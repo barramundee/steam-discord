@@ -900,7 +900,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 30,
+        "playtime": 60,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 29,
-    "weeklyTotal": 576024,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 576054,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7494,7 +7494,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 414517,
     "weeklyTopGame": "Mina the Hollower",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
