@@ -944,7 +944,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 575994,
     "weeklyTopGame": "Deadlock",
-    "newGames": 1
+    "newGames": 0
   },
   "76561199040518497": {
     "games": {
@@ -5862,7 +5862,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 21,
+    "weeklyMinutes": 0,
     "weeklyTotal": 407300,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
