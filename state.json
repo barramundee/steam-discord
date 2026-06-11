@@ -900,7 +900,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 102,
+        "playtime": 121,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 42,
-    "weeklyTotal": 576096,
+    "weeklyMinutes": 19,
+    "weeklyTotal": 576115,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7504,7 +7504,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 414517,
     "weeklyTopGame": "Mina the Hollower",
-    "newGames": 2
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
@@ -9149,7 +9149,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 109,
+        "playtime": 154,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9260,8 +9260,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128164,
+    "weeklyMinutes": 45,
+    "weeklyTotal": 128209,
     "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
   },
