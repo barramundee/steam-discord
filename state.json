@@ -900,9 +900,9 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 0,
+        "playtime": 1,
         "name": "DEATH STRANDING 2: ON THE BEACH",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "3321460": {
         "playtime": 1868,
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 575994,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 575995,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
