@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 47056,
+        "playtime": 47086,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -942,7 +942,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 576145,
+    "weeklyTotal": 576175,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9260,7 +9260,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 15,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128224,
     "weeklyTopGame": "Forza Horizon 4",
     "newGames": 0
