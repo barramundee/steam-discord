@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 47602,
+        "playtime": 47625,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 56,
-    "weeklyTotal": 576691,
+    "weeklyMinutes": 23,
+    "weeklyTotal": 576714,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9149,7 +9149,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 223,
+        "playtime": 257,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9260,8 +9260,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128278,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 128312,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
