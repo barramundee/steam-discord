@@ -7180,7 +7180,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2232,
+        "playtime": 2262,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7501,8 +7501,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 2,
-    "weeklyTotal": 414519,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 414549,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
