@@ -5541,7 +5541,7 @@
         "firstPlayPosted": false
       },
       "1150530": {
-        "playtime": 22,
+        "playtime": 38,
         "name": "Wizard with a Gun",
         "firstPlayPosted": false
       },
@@ -5867,8 +5867,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 407714,
+    "weeklyMinutes": 16,
+    "weeklyTotal": 407730,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -9265,7 +9265,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 12,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128438,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
