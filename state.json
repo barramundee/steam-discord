@@ -4765,6 +4765,11 @@
         "name": "Total War: MEDIEVAL II - Definitive Edition",
         "firstPlayPosted": false
       },
+      "6100": {
+        "playtime": 0,
+        "name": "Eets",
+        "firstPlayPosted": false
+      },
       "8190": {
         "playtime": 1,
         "name": "Just Cause 2",
@@ -5500,6 +5505,11 @@
         "name": "ISLANDERS",
         "firstPlayPosted": false
       },
+      "1053710": {
+        "playtime": 0,
+        "name": "The Red Lantern",
+        "firstPlayPosted": false
+      },
       "1057090": {
         "playtime": 913,
         "name": "Ori and the Will of the Wisps",
@@ -5523,6 +5533,11 @@
       "1128920": {
         "playtime": 51,
         "name": "EVERSPACE™ 2",
+        "firstPlayPosted": false
+      },
+      "1134700": {
+        "playtime": 0,
+        "name": "Wild Terra 2: New Lands",
         "firstPlayPosted": false
       },
       "1145350": {
@@ -5603,6 +5618,11 @@
       "1432050": {
         "playtime": 918,
         "name": "Nobody Saves the World",
+        "firstPlayPosted": false
+      },
+      "1433340": {
+        "playtime": 0,
+        "name": "Happy's Humble Burger Farm",
         "firstPlayPosted": false
       },
       "1458140": {
@@ -5864,13 +5884,18 @@
         "playtime": 15,
         "name": "Cloudheim Demo",
         "firstPlayPosted": false
+      },
+      "4704690": {
+        "playtime": 0,
+        "name": "MECCHA CHAMELEON",
+        "firstPlayPosted": false
       }
     },
     "level": 19,
     "weeklyMinutes": 0,
     "weeklyTotal": 407730,
     "weeklyTopGame": "Path of Exile 2",
-    "newGames": 0
+    "newGames": 5
   },
   "76561198165227407": {
     "games": {
