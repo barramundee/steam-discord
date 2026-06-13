@@ -5475,6 +5475,11 @@
         "name": "Katamari Damacy REROLL",
         "firstPlayPosted": false
       },
+      "858710": {
+        "playtime": 0,
+        "name": "Gravity Circuit",
+        "firstPlayPosted": false
+      },
       "881100": {
         "playtime": 5272,
         "name": "Noita",
@@ -5563,6 +5568,11 @@
       "1172470": {
         "playtime": 2115,
         "name": "Apex Legends",
+        "firstPlayPosted": false
+      },
+      "1180660": {
+        "playtime": 0,
+        "name": "Tell Me Why",
         "firstPlayPosted": false
       },
       "1203620": {
@@ -5893,9 +5903,9 @@
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": 407730,
+    "weeklyTotal": 407692,
     "weeklyTopGame": "Path of Exile 2",
-    "newGames": 5
+    "newGames": 2
   },
   "76561198165227407": {
     "games": {
