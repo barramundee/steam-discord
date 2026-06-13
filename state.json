@@ -5741,7 +5741,7 @@
         "firstPlayPosted": false
       },
       "2379780": {
-        "playtime": 4785,
+        "playtime": 4838,
         "name": "Balatro",
         "firstPlayPosted": false
       },
@@ -5862,8 +5862,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 407639,
+    "weeklyMinutes": 53,
+    "weeklyTotal": 407692,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
@@ -9149,7 +9149,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 257,
+        "playtime": 310,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9260,8 +9260,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128312,
+    "weeklyMinutes": 53,
+    "weeklyTotal": 128365,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
