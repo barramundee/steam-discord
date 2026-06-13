@@ -5540,6 +5540,11 @@
         "name": "Icarus",
         "firstPlayPosted": false
       },
+      "1150530": {
+        "playtime": 22,
+        "name": "Wizard with a Gun",
+        "firstPlayPosted": false
+      },
       "1172470": {
         "playtime": 2115,
         "name": "Apex Legends",
@@ -5862,10 +5867,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 53,
-    "weeklyTotal": 407692,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 407714,
     "weeklyTopGame": "Path of Exile 2",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
@@ -9260,7 +9265,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 53,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128365,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
