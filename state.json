@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 48449,
+        "playtime": 48479,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -942,7 +942,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 577538,
+    "weeklyTotal": 577568,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7541,7 +7541,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 2,
+    "weeklyMinutes": 0,
     "weeklyTotal": 414592,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
@@ -8964,7 +8964,7 @@
         "firstPlayPosted": false
       },
       "1501750": {
-        "playtime": 70,
+        "playtime": 99,
         "name": "Lords of the Fallen",
         "firstPlayPosted": true
       },
@@ -9300,8 +9300,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128550,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 128579,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
