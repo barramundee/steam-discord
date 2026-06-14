@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 48613,
+        "playtime": 48645,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 577702,
+    "weeklyMinutes": 32,
+    "weeklyTotal": 577734,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7220,7 +7220,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2363,
+        "playtime": 2393,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7542,7 +7542,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 414652,
+    "weeklyTotal": 414682,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
