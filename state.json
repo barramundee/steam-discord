@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 48778,
+        "playtime": 48808,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -942,7 +942,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 577867,
+    "weeklyTotal": 577897,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9179,7 +9179,7 @@
         "firstPlayPosted": false
       },
       "2824490": {
-        "playtime": 5531,
+        "playtime": 5545,
         "name": "He is Coming",
         "firstPlayPosted": false
       },
@@ -9300,8 +9300,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128579,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 128593,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
