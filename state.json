@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 48419,
+        "playtime": 48449,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -941,8 +941,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 577508,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 577538,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7115,7 +7115,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 6270,
+        "playtime": 6272,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -7541,8 +7541,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 414590,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 414592,
     "weeklyTopGame": "Mina the Hollower",
     "newGames": 0
   },
