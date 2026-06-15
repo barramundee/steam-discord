@@ -9189,7 +9189,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 471,
+        "playtime": 516,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9300,8 +9300,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128593,
+    "weeklyMinutes": 45,
+    "weeklyTotal": 128638,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
