@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 49115,
+        "playtime": 49153,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -938,13 +938,18 @@
         "playtime": 342,
         "name": "RV There Yet?",
         "firstPlayPosted": false
+      },
+      "4704690": {
+        "playtime": 0,
+        "name": "MECCHA CHAMELEON",
+        "firstPlayPosted": false
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 578204,
+    "weeklyMinutes": 38,
+    "weeklyTotal": 578242,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561199040518497": {
     "games": {
