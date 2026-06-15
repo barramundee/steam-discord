@@ -940,14 +940,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 40,
+        "playtime": 70,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 37,
-    "weeklyMinutes": 40,
-    "weeklyTotal": 578282,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 578312,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5901,14 +5901,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 30,
+        "playtime": 60,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 407757,
+    "weeklyTotal": 407787,
     "weeklyTopGame": "Path of Exile 2",
     "newGames": 0
   },
