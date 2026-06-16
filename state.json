@@ -8823,6 +8823,11 @@
         "name": "CARRION",
         "firstPlayPosted": false
       },
+      "978300": {
+        "playtime": 0,
+        "name": "Saints Row The Third Remastered",
+        "firstPlayPosted": false
+      },
       "993090": {
         "playtime": 0,
         "name": "Lossless Scaling",
@@ -9308,7 +9313,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 128681,
     "weeklyTopGame": "Demon Hunt",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
