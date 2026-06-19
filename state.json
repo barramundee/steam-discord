@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 5620,
+        "playtime": 5638,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 39,
-    "weeklyTotal": 581099,
+    "weeklyMinutes": 18,
+    "weeklyTotal": 581117,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7823,6 +7823,11 @@
         "name": "The Darkness II",
         "firstPlayPosted": false
       },
+      "71250": {
+        "playtime": 0,
+        "name": "Sonic Adventure DX",
+        "firstPlayPosted": false
+      },
       "72200": {
         "playtime": 71,
         "name": "Universe Sandbox Legacy",
@@ -9313,7 +9318,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 128756,
     "weeklyTopGame": "Demon Hunt",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
