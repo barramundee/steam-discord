@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6085,
+        "playtime": 6115,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 39,
-    "weeklyTotal": 581766,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 581796,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5901,14 +5901,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 87,
+        "playtime": 117,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 19,
-    "weeklyMinutes": 137,
-    "weeklyTotal": 408411,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 408441,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
