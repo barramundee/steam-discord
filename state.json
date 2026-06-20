@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 52045,
+        "playtime": 52074,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 581873,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 581902,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5901,14 +5901,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 182,
+        "playtime": 213,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 19,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 408506,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 408537,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
