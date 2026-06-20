@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 5927,
+        "playtime": 5957,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 581608,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 581638,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
