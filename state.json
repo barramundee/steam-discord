@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 52166,
+        "playtime": 52194,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 32,
-    "weeklyTotal": 581994,
+    "weeklyMinutes": 28,
+    "weeklyTotal": 582022,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7060,7 +7060,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 1251,
+        "playtime": 1282,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -7546,8 +7546,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 7,
-    "weeklyTotal": 414732,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 414763,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
@@ -9204,7 +9204,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 559,
+        "playtime": 587,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9315,8 +9315,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128657,
+    "weeklyMinutes": 28,
+    "weeklyTotal": 128685,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
