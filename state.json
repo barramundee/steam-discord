@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -940,14 +940,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 94,
+        "playtime": 106,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 37,
-    "weeklyMinutes": 139,
-    "weeklyTotal": 582560,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40008,
+    "weeklyTotal": null,
     "weeklyTopGame": "Subnautica",
     "newGames": 0
   },
@@ -3488,7 +3488,7 @@
         "firstPlayPosted": false
       },
       "2767030": {
-        "playtime": 924,
+        "playtime": 945,
         "name": "Marvel Rivals",
         "firstPlayPosted": false
       },
@@ -3535,7 +3535,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 377631,
+    "weeklyTotal": null,
     "weeklyTopGame": "Crimson Desert",
     "newGames": 0
   },
@@ -4734,7 +4734,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5908,7 +5908,7 @@
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": 408629,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7547,7 +7547,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 414953,
+    "weeklyTotal": null,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
@@ -9316,7 +9316,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 128685,
+    "weeklyTotal": null,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
@@ -9324,6 +9324,7 @@
   "sales": {},
   "digests": {
     "2026_2944": true,
-    "2026_2945": true
+    "2026_2945": true,
+    "2026_2946": true
   }
 }
