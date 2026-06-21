@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6132,
+        "playtime": 6162,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 6,
-    "weeklyTotal": 582344,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 582374,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5491,7 +5491,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 10783,
+        "playtime": 10813,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5907,8 +5907,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 408537,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 408567,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7546,7 +7546,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 26,
+    "weeklyMinutes": 0,
     "weeklyTotal": 414953,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
