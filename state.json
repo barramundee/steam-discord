@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6209,
+        "playtime": 6239,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 3055,
+        "playtime": 3070,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -940,14 +940,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 92,
+        "playtime": 94,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 582421,
+    "weeklyMinutes": 139,
+    "weeklyTotal": 582560,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5907,7 +5907,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 32,
+    "weeklyMinutes": 0,
     "weeklyTotal": 408629,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
