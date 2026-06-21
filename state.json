@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -940,14 +940,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 106,
+        "playtime": 136,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 37,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 582602,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 40008,
     "weeklyTopGame": "Subnautica",
     "newGames": 0
   },
@@ -3535,7 +3535,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 377652,
     "weeklyTopGame": "Crimson Desert",
     "newGames": 0
   },
@@ -4734,7 +4734,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5901,14 +5901,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 213,
+        "playtime": 243,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 408659,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7547,7 +7547,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 414953,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
@@ -9316,7 +9316,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 128685,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
