@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 3190,
+        "playtime": 3220,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 582825,
+    "weeklyTotal": 582855,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7546,7 +7546,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 16,
+    "weeklyMinutes": 0,
     "weeklyTotal": 414999,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
