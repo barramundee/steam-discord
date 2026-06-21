@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 2763,
+        "playtime": 2799,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 582052,
+    "weeklyMinutes": 36,
+    "weeklyTotal": 582088,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7060,7 +7060,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 1356,
+        "playtime": 1363,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -7546,8 +7546,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 414837,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 414844,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
