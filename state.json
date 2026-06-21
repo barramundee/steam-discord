@@ -946,7 +946,7 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 28,
+    "weeklyMinutes": 0,
     "weeklyTotal": 582022,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7060,7 +7060,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 1282,
+        "playtime": 1326,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -7546,8 +7546,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 414763,
+    "weeklyMinutes": 44,
+    "weeklyTotal": 414807,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
@@ -9315,7 +9315,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 28,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128685,
     "weeklyTopGame": "Demon Hunt",
     "newGames": 0
