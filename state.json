@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 3485,
+        "playtime": 3527,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 583417,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 583459,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7230,7 +7230,7 @@
         "firstPlayPosted": false
       },
       "1599340": {
-        "playtime": 25144,
+        "playtime": 25174,
         "name": "Lost Ark",
         "firstPlayPosted": false
       },
@@ -7546,8 +7546,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 415442,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415472,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
