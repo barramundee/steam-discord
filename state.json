@@ -940,14 +940,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 239,
+        "playtime": 269,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 37,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 583490,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 583520,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -5901,14 +5901,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 332,
+        "playtime": 362,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 408893,
+    "weeklyTotal": 408923,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7546,7 +7546,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 36,
+    "weeklyMinutes": 0,
     "weeklyTotal": 415508,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
