@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 3310,
+        "playtime": 3332,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 582945,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 582967,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
