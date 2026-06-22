@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 3455,
+        "playtime": 3485,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 583387,
+    "weeklyTotal": 583417,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3536,7 +3536,7 @@
     "level": 20,
     "weeklyMinutes": 0,
     "weeklyTotal": 377652,
-    "weeklyTopGame": "Crimson Desert",
+    "weeklyTopGame": "Vampire Crawlers",
     "newGames": 0
   },
   "76561198197833939": {
@@ -5907,7 +5907,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 11,
+    "weeklyMinutes": 0,
     "weeklyTotal": 408863,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
