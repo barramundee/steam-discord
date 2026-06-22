@@ -5826,7 +5826,7 @@
         "firstPlayPosted": false
       },
       "3156770": {
-        "playtime": 1791,
+        "playtime": 1793,
         "name": "Witchfire",
         "firstPlayPosted": false
       },
@@ -5907,8 +5907,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 408718,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 408720,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7230,7 +7230,7 @@
         "firstPlayPosted": false
       },
       "1599340": {
-        "playtime": 24962,
+        "playtime": 24992,
         "name": "Lost Ark",
         "firstPlayPosted": false
       },
@@ -7547,7 +7547,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 415260,
+    "weeklyTotal": 415290,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
