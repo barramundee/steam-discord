@@ -7543,13 +7543,18 @@
         "playtime": 69,
         "name": "Highguard",
         "firstPlayPosted": false
+      },
+      "4704690": {
+        "playtime": 0,
+        "name": "MECCHA CHAMELEON",
+        "firstPlayPosted": false
       }
     },
     "level": 29,
     "weeklyMinutes": 0,
     "weeklyTotal": 415578,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
