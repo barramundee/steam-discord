@@ -7545,16 +7545,16 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 0,
+        "playtime": 16,
         "name": "MECCHA CHAMELEON",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 415578,
+    "weeklyMinutes": 16,
+    "weeklyTotal": 415594,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
