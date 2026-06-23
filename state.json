@@ -7230,7 +7230,7 @@
         "firstPlayPosted": false
       },
       "1599340": {
-        "playtime": 25210,
+        "playtime": 25240,
         "name": "Lost Ark",
         "firstPlayPosted": false
       },
@@ -7546,8 +7546,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 415508,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415538,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
