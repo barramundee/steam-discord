@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6444,
+        "playtime": 6456,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 584547,
+    "weeklyMinutes": 12,
+    "weeklyTotal": 584559,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3323,7 +3323,7 @@
         "firstPlayPosted": false
       },
       "1364780": {
-        "playtime": 39,
+        "playtime": 69,
         "name": "Street Fighter™ 6",
         "firstPlayPosted": true
       },
@@ -3540,7 +3540,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 377691,
+    "weeklyTotal": 377721,
     "weeklyTopGame": "Vampire Crawlers",
     "newGames": 0
   },
@@ -5496,7 +5496,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 11050,
+        "playtime": 11064,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5912,8 +5912,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 409126,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 409140,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
