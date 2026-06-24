@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 52944,
+        "playtime": 52974,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 36,
-    "weeklyTotal": 584239,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 584269,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7551,7 +7551,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 17,
+    "weeklyMinutes": 0,
     "weeklyTotal": 415753,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
@@ -9320,9 +9320,9 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 0,
-    "weeklyTopGame": null,
+    "weeklyMinutes": 128730,
+    "weeklyTotal": 128730,
+    "weeklyTopGame": "Demon Hunt",
     "newGames": 0
   },
   "steamSales": {},
