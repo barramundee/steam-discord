@@ -700,7 +700,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 53098,
+        "playtime": 53132,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 584393,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 584427,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3322,6 +3322,11 @@
         "name": "The Room 4: Old Sins",
         "firstPlayPosted": false
       },
+      "1364780": {
+        "playtime": 0,
+        "name": "Street Fighter™ 6",
+        "firstPlayPosted": false
+      },
       "1412570": {
         "playtime": 161,
         "name": "Monster Hunter Stories 2: Wings of Ruin Trial Version",
@@ -3537,7 +3542,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 377652,
     "weeklyTopGame": "Vampire Crawlers",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
@@ -5626,7 +5631,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61229,
+        "playtime": 61249,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5907,8 +5912,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 408986,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 409006,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
