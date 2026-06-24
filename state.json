@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6324,
+        "playtime": 6354,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 34,
-    "weeklyTotal": 584427,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 584457,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3542,7 +3542,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 377652,
     "weeklyTopGame": "Vampire Crawlers",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198197833939": {
     "games": {
@@ -5496,7 +5496,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 10930,
+        "playtime": 10960,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5912,8 +5912,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 20,
-    "weeklyTotal": 409006,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 409036,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
