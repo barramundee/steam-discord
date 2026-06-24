@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6486,
+        "playtime": 6516,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 584589,
+    "weeklyTotal": 584619,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7550,14 +7550,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 225,
+        "playtime": 255,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 29,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 415896,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415926,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
