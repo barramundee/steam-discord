@@ -5907,7 +5907,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 26,
+    "weeklyMinutes": 0,
     "weeklyTotal": 408986,
     "weeklyTopGame": "Valheim",
     "newGames": 0
@@ -7230,7 +7230,7 @@
         "firstPlayPosted": false
       },
       "1599340": {
-        "playtime": 25361,
+        "playtime": 25373,
         "name": "Lost Ark",
         "firstPlayPosted": false
       },
@@ -7551,8 +7551,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 60,
-    "weeklyTotal": 415834,
+    "weeklyMinutes": 12,
+    "weeklyTotal": 415846,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
