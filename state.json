@@ -5626,7 +5626,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61203,
+        "playtime": 61229,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5907,8 +5907,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 408960,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 408986,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -7230,7 +7230,7 @@
         "firstPlayPosted": false
       },
       "1599340": {
-        "playtime": 25301,
+        "playtime": 25361,
         "name": "Lost Ark",
         "firstPlayPosted": false
       },
@@ -7551,8 +7551,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 415774,
+    "weeklyMinutes": 60,
+    "weeklyTotal": 415834,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
