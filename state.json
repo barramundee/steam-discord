@@ -560,7 +560,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 6384,
+        "playtime": 6414,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 30,
-    "weeklyTotal": 584487,
+    "weeklyTotal": 584517,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -3323,7 +3323,7 @@
         "firstPlayPosted": false
       },
       "1364780": {
-        "playtime": 4,
+        "playtime": 9,
         "name": "Street Fighter™ 6",
         "firstPlayPosted": true
       },
@@ -3539,8 +3539,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 4,
-    "weeklyTotal": 377656,
+    "weeklyMinutes": 5,
+    "weeklyTotal": 377661,
     "weeklyTopGame": "Vampire Crawlers",
     "newGames": 0
   },
@@ -5496,7 +5496,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 10990,
+        "playtime": 11020,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5913,7 +5913,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 409066,
+    "weeklyTotal": 409096,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -7550,14 +7550,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 194,
+        "playtime": 224,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 29,
-    "weeklyMinutes": 19,
-    "weeklyTotal": 415865,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415895,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
