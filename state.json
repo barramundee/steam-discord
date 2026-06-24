@@ -3323,7 +3323,7 @@
         "firstPlayPosted": false
       },
       "1364780": {
-        "playtime": 129,
+        "playtime": 167,
         "name": "Street Fighter™ 6",
         "firstPlayPosted": true
       },
@@ -3539,8 +3539,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 377781,
+    "weeklyMinutes": 38,
+    "weeklyTotal": 377819,
     "weeklyTopGame": "Street Fighter™ 6",
     "newGames": 0
   },
@@ -5912,7 +5912,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 45,
+    "weeklyMinutes": 0,
     "weeklyTotal": 409215,
     "weeklyTopGame": "Valheim",
     "newGames": 0
