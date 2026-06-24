@@ -675,7 +675,7 @@
         "firstPlayPosted": false
       },
       "1282100": {
-        "playtime": 3664,
+        "playtime": 3694,
         "name": "Remnant II",
         "firstPlayPosted": false
       },
@@ -946,8 +946,8 @@
       }
     },
     "level": 37,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 584173,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 584203,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7545,14 +7545,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 118,
+        "playtime": 158,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 415696,
+    "weeklyMinutes": 40,
+    "weeklyTotal": 415736,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
