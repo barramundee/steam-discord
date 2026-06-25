@@ -3327,6 +3327,11 @@
         "name": "Street Fighter™ 6",
         "firstPlayPosted": true
       },
+      "1374490": {
+        "playtime": 0,
+        "name": "RuneScape: Dragonwilds",
+        "firstPlayPosted": false
+      },
       "1412570": {
         "playtime": 161,
         "name": "Monster Hunter Stories 2: Wings of Ruin Trial Version",
@@ -3492,6 +3497,11 @@
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
+      "2738630": {
+        "playtime": 0,
+        "name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
+        "firstPlayPosted": false
+      },
       "2767030": {
         "playtime": 945,
         "name": "Marvel Rivals",
@@ -3510,6 +3520,11 @@
       "3057670": {
         "playtime": 44,
         "name": "Pluto",
+        "firstPlayPosted": false
+      },
+      "3140180": {
+        "playtime": 0,
+        "name": "THYSIASTERY",
         "firstPlayPosted": false
       },
       "3240220": {
@@ -3542,7 +3557,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 377819,
     "weeklyTopGame": "Street Fighter™ 6",
-    "newGames": 0
+    "newGames": 3
   },
   "76561198197833939": {
     "games": {
