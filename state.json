@@ -5646,7 +5646,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61465,
+        "playtime": 61495,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5927,8 +5927,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 409356,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 409386,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -7571,7 +7571,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 6,
+    "weeklyMinutes": 0,
     "weeklyTotal": 416006,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
