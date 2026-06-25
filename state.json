@@ -5646,7 +5646,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61525,
+        "playtime": 61555,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5928,7 +5928,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 409416,
+    "weeklyTotal": 409446,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -7080,7 +7080,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 1518,
+        "playtime": 1555,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -7571,8 +7571,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 40,
-    "weeklyTotal": 416046,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 416083,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
