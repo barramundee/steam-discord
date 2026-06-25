@@ -3323,7 +3323,7 @@
         "firstPlayPosted": false
       },
       "1364780": {
-        "playtime": 167,
+        "playtime": 189,
         "name": "Street Fighter™ 6",
         "firstPlayPosted": true
       },
@@ -3554,8 +3554,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 377819,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 377841,
     "weeklyTopGame": "Street Fighter™ 6",
     "newGames": 0
   },
