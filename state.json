@@ -5631,7 +5631,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61354,
+        "playtime": 61399,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5912,8 +5912,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 409245,
+    "weeklyMinutes": 45,
+    "weeklyTotal": 409290,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
