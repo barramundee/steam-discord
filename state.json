@@ -1337,7 +1337,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 40008,
-    "weeklyTopGame": "Subnautica: Below Zero",
+    "weeklyTopGame": null,
     "newGames": 0
   },
   "76561198017069362": {
@@ -7080,7 +7080,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 1472,
+        "playtime": 1478,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -7571,8 +7571,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 416000,
+    "weeklyMinutes": 6,
+    "weeklyTotal": 416006,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
