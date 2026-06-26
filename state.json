@@ -4451,6 +4451,11 @@
         "name": "Overcooked! 2",
         "firstPlayPosted": false
       },
+      "731040": {
+        "playtime": 0,
+        "name": "The Invincible",
+        "firstPlayPosted": false
+      },
       "737800": {
         "playtime": 0,
         "name": "F1 2018",
@@ -4756,7 +4761,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 0,
     "weeklyTopGame": null,
-    "newGames": 0
+    "newGames": 1
   },
   "76561198089331916": {
     "games": {
