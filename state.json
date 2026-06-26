@@ -3523,9 +3523,9 @@
         "firstPlayPosted": false
       },
       "3140180": {
-        "playtime": 0,
+        "playtime": 41,
         "name": "THYSIASTERY",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "3240220": {
         "playtime": 0,
@@ -3554,8 +3554,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 377841,
+    "weeklyMinutes": 41,
+    "weeklyTotal": 377882,
     "weeklyTopGame": "Street Fighter™ 6",
     "newGames": 0
   },
@@ -4761,7 +4761,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 0,
     "weeklyTopGame": null,
-    "newGames": 1
+    "newGames": 0
   },
   "76561198089331916": {
     "games": {
