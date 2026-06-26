@@ -5927,7 +5927,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 409593,
     "weeklyTopGame": "Valheim",
     "newGames": 0
@@ -7080,7 +7080,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 1656,
+        "playtime": 1683,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -7571,8 +7571,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 416273,
+    "weeklyMinutes": 27,
+    "weeklyTotal": 416300,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
