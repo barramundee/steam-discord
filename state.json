@@ -3554,7 +3554,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 378087,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
@@ -5651,7 +5651,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61738,
+        "playtime": 61768,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5932,8 +5932,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 409629,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 409659,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
