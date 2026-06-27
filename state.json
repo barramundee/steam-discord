@@ -3498,9 +3498,9 @@
         "firstPlayPosted": false
       },
       "2738630": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2767030": {
         "playtime": 945,
@@ -3554,8 +3554,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 377882,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 377912,
     "weeklyTopGame": "Street Fighter™ 6",
     "newGames": 0
   },
