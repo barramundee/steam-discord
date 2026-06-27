@@ -3498,7 +3498,7 @@
         "firstPlayPosted": false
       },
       "2738630": {
-        "playtime": 206,
+        "playtime": 236,
         "name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
         "firstPlayPosted": true
       },
@@ -3554,8 +3554,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 378088,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 378118,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
   },
@@ -5651,7 +5651,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61828,
+        "playtime": 61846,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5932,8 +5932,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 409719,
+    "weeklyMinutes": 18,
+    "weeklyTotal": 409737,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
