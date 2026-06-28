@@ -7389,6 +7389,11 @@
         "name": "The Looker",
         "firstPlayPosted": false
       },
+      "1986840": {
+        "playtime": 0,
+        "name": "POPGOES Arcade",
+        "firstPlayPosted": false
+      },
       "2001120": {
         "playtime": 1252,
         "name": "Split Fiction",
@@ -7570,16 +7575,16 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 733,
+        "playtime": 757,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 416757,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 416781,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
