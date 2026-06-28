@@ -5651,7 +5651,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 61978,
+        "playtime": 62007,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5932,8 +5932,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 410010,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 410039,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7250,7 +7250,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2436,
+        "playtime": 2439,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7581,8 +7581,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 416903,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 416906,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
