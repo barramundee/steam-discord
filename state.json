@@ -5516,7 +5516,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 11094,
+        "playtime": 11124,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5933,7 +5933,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 409869,
+    "weeklyTotal": 409899,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "2161700": {
-        "playtime": 438,
+        "playtime": 468,
         "name": "Persona 3 Reload",
         "firstPlayPosted": false
       },
@@ -7581,8 +7581,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 416819,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 416849,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
