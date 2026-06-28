@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "2161700": {
-        "playtime": 400,
+        "playtime": 403,
         "name": "Persona 3 Reload",
         "firstPlayPosted": false
       },
@@ -7581,10 +7581,10 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 24,
-    "weeklyTotal": 416781,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 416784,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
