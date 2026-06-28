@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40008,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -3555,7 +3555,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 378162,
+    "weeklyTotal": null,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
   },
@@ -4759,7 +4759,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5516,7 +5516,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 11124,
+        "playtime": 11154,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5932,8 +5932,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 409899,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "2161700": {
-        "playtime": 468,
+        "playtime": 498,
         "name": "Persona 3 Reload",
         "firstPlayPosted": false
       },
@@ -7581,8 +7581,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 416849,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
@@ -9351,7 +9351,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 128730,
+    "weeklyTotal": null,
     "weeklyTopGame": "Holding Pattern",
     "newGames": 0
   },
@@ -9360,6 +9360,7 @@
   "digests": {
     "2026_2944": true,
     "2026_2945": true,
-    "2026_2946": true
+    "2026_2946": true,
+    "2026_2947": true
   }
 }
