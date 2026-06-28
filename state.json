@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 40008,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -3555,7 +3555,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 378162,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
   },
@@ -4759,7 +4759,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5516,7 +5516,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 11154,
+        "playtime": 11205,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5933,7 +5933,7 @@
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 409980,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "2161700": {
-        "playtime": 498,
+        "playtime": 522,
         "name": "Persona 3 Reload",
         "firstPlayPosted": false
       },
@@ -7582,7 +7582,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 416903,
     "weeklyTopGame": "Sekiro™: Shadows Die Twice",
     "newGames": 0
   },
@@ -9351,7 +9351,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 128730,
     "weeklyTopGame": "Holding Pattern",
     "newGames": 0
   },
