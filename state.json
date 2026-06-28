@@ -4785,6 +4785,16 @@
         "name": "Counter-Strike 2",
         "firstPlayPosted": false
       },
+      "2100": {
+        "playtime": 0,
+        "name": "Dark Messiah of Might & Magic Single Player",
+        "firstPlayPosted": false
+      },
+      "2130": {
+        "playtime": 0,
+        "name": "Dark Messiah of Might & Magic Multi-Player",
+        "firstPlayPosted": false
+      },
       "4000": {
         "playtime": 1760,
         "name": "Garry's Mod",
@@ -5935,7 +5945,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 410039,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 2
   },
   "76561198165227407": {
     "games": {
