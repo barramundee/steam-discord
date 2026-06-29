@@ -4786,9 +4786,9 @@
         "firstPlayPosted": false
       },
       "2100": {
-        "playtime": 0,
+        "playtime": 11,
         "name": "Dark Messiah of Might & Magic Single Player",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2130": {
         "playtime": 0,
@@ -5526,7 +5526,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 11455,
+        "playtime": 11470,
         "name": "Valheim",
         "firstPlayPosted": false
       },
@@ -5942,8 +5942,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 410477,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 410503,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
