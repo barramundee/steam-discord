@@ -1329,14 +1329,14 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 969,
+        "playtime": 977,
         "name": "PEAK",
         "firstPlayPosted": false
       }
     },
     "level": 10,
-    "weeklyMinutes": 46,
-    "weeklyTotal": 40084,
+    "weeklyMinutes": 8,
+    "weeklyTotal": 40092,
     "weeklyTopGame": "PEAK",
     "newGames": 0
   },
