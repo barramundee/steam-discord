@@ -1329,14 +1329,14 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 923,
+        "playtime": 969,
         "name": "PEAK",
         "firstPlayPosted": false
       }
     },
     "level": 10,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 40038,
+    "weeklyMinutes": 46,
+    "weeklyTotal": 40084,
     "weeklyTopGame": "PEAK",
     "newGames": 0
   },
@@ -5942,7 +5942,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 52,
+    "weeklyMinutes": 0,
     "weeklyTotal": 411292,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
