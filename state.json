@@ -7260,7 +7260,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2439,
+        "playtime": 2444,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7591,8 +7591,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 416914,
+    "weeklyMinutes": 5,
+    "weeklyTotal": 416919,
     "weeklyTopGame": "Lost Ark",
     "newGames": 0
   },
