@@ -7619,9 +7619,9 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 0,
+        "playtime": 31,
         "name": "Two Worlds: Epic Edition",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2280": {
         "playtime": 22,
@@ -9365,8 +9365,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128746,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 128777,
     "weeklyTopGame": "GrassChopper Demo",
     "newGames": 0
   },
