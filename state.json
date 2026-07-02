@@ -5535,6 +5535,11 @@
         "name": "Assassin's Creed III Remastered",
         "firstPlayPosted": false
       },
+      "953490": {
+        "playtime": 0,
+        "name": "CARRION",
+        "firstPlayPosted": false
+      },
       "990080": {
         "playtime": 2232,
         "name": "Hogwarts Legacy",
@@ -5945,7 +5950,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 411292,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
@@ -7619,7 +7624,7 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 31,
+        "playtime": 32,
         "name": "Two Worlds: Epic Edition",
         "firstPlayPosted": true
       },
@@ -9365,8 +9370,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 128777,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 128778,
     "weeklyTopGame": "GrassChopper Demo",
     "newGames": 0
   },
