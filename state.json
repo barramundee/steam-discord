@@ -7618,6 +7618,11 @@
         "name": "Half-Life Deathmatch: Source",
         "firstPlayPosted": false
       },
+      "1930": {
+        "playtime": 0,
+        "name": "Two Worlds: Epic Edition",
+        "firstPlayPosted": false
+      },
       "2280": {
         "playtime": 22,
         "name": "DOOM + DOOM II",
@@ -9363,7 +9368,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 128743,
     "weeklyTopGame": "GrassChopper Demo",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
