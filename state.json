@@ -1329,14 +1329,14 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 977,
+        "playtime": 1007,
         "name": "PEAK",
         "firstPlayPosted": false
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 40092,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 40122,
     "weeklyTopGame": "PEAK",
     "newGames": 0
   },
@@ -5106,7 +5106,7 @@
         "firstPlayPosted": false
       },
       "244850": {
-        "playtime": 1147,
+        "playtime": 1177,
         "name": "Space Engineers",
         "firstPlayPosted": false
       },
@@ -5948,7 +5948,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 411481,
+    "weeklyTotal": 411511,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
