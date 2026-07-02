@@ -9244,7 +9244,7 @@
         "firstPlayPosted": false
       },
       "2824490": {
-        "playtime": 5555,
+        "playtime": 5558,
         "name": "He is Coming",
         "firstPlayPosted": false
       },
@@ -9365,10 +9365,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128743,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 128746,
     "weeklyTopGame": "GrassChopper Demo",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
