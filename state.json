@@ -5947,7 +5947,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 19,
+    "weeklyMinutes": 0,
     "weeklyTotal": 412003,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7624,7 +7624,7 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 167,
+        "playtime": 182,
         "name": "Two Worlds: Epic Edition",
         "firstPlayPosted": true
       },
@@ -9375,8 +9375,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 128936,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 128951,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
