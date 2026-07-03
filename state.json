@@ -5106,7 +5106,7 @@
         "firstPlayPosted": false
       },
       "244850": {
-        "playtime": 1234,
+        "playtime": 1264,
         "name": "Space Engineers",
         "firstPlayPosted": false
       },
@@ -5947,8 +5947,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 411864,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 411894,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
