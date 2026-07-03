@@ -5536,9 +5536,9 @@
         "firstPlayPosted": false
       },
       "953490": {
-        "playtime": 0,
+        "playtime": 27,
         "name": "CARRION",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "990080": {
         "playtime": 2232,
@@ -5947,8 +5947,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 412003,
+    "weeklyMinutes": 27,
+    "weeklyTotal": 412030,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9375,7 +9375,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 33,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129010,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
