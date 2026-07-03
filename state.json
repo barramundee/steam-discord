@@ -5090,6 +5090,11 @@
         "name": "DARK SOULS™ II",
         "firstPlayPosted": false
       },
+      "238370": {
+        "playtime": 0,
+        "name": "Magicka 2",
+        "firstPlayPosted": false
+      },
       "238460": {
         "playtime": 553,
         "name": "BattleBlock Theater",
@@ -5325,6 +5330,11 @@
         "name": "EVERSPACE™",
         "firstPlayPosted": false
       },
+      "397080": {
+        "playtime": 0,
+        "name": "Magicka 2: Spell Balance Beta",
+        "firstPlayPosted": false
+      },
       "403640": {
         "playtime": 2684,
         "name": "Dishonored 2",
@@ -5531,7 +5541,7 @@
         "firstPlayPosted": false
       },
       "881100": {
-        "playtime": 5449,
+        "playtime": 5479,
         "name": "Noita",
         "firstPlayPosted": false
       },
@@ -5957,10 +5967,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 412031,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 412061,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 2
   },
   "76561198165227407": {
     "games": {
@@ -9385,7 +9395,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 39,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129049,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
