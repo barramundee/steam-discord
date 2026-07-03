@@ -7265,7 +7265,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2553,
+        "playtime": 2583,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7597,7 +7597,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 417028,
+    "weeklyTotal": 417058,
     "weeklyTopGame": "Lost Ark",
     "newGames": 0
   },
@@ -9375,10 +9375,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 64,
+    "weeklyMinutes": 0,
     "weeklyTotal": 128936,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
