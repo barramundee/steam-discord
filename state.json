@@ -5521,7 +5521,7 @@
         "firstPlayPosted": false
       },
       "881100": {
-        "playtime": 5370,
+        "playtime": 5400,
         "name": "Noita",
         "firstPlayPosted": false
       },
@@ -5947,8 +5947,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 411754,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 411784,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7265,7 +7265,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2673,
+        "playtime": 2703,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7597,7 +7597,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 417148,
+    "weeklyTotal": 417178,
     "weeklyTopGame": "Lost Ark",
     "newGames": 0
   },
