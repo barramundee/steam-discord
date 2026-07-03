@@ -3092,6 +3092,11 @@
         "name": "Resident Evil 2",
         "firstPlayPosted": false
       },
+      "892970": {
+        "playtime": 0,
+        "name": "Valheim",
+        "firstPlayPosted": false
+      },
       "899770": {
         "playtime": 3865,
         "name": "Last Epoch",
@@ -3357,6 +3362,11 @@
         "name": "BONELAB",
         "firstPlayPosted": false
       },
+      "1623730": {
+        "playtime": 0,
+        "name": "Palworld",
+        "firstPlayPosted": false
+      },
       "1649240": {
         "playtime": 158,
         "name": "Returnal™",
@@ -3557,7 +3567,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 378162,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
-    "newGames": 0
+    "newGames": 2
   },
   "76561198197833939": {
     "games": {
