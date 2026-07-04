@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2018,
+        "playtime": 2048,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 378253,
+    "weeklyTotal": 378283,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
   },
@@ -5541,7 +5541,7 @@
         "firstPlayPosted": false
       },
       "881100": {
-        "playtime": 5563,
+        "playtime": 5588,
         "name": "Noita",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 412193,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 412218,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
