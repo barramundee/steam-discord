@@ -3564,7 +3564,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 12,
+    "weeklyMinutes": 0,
     "weeklyTotal": 378325,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
@@ -5541,7 +5541,7 @@
         "firstPlayPosted": false
       },
       "881100": {
-        "playtime": 5618,
+        "playtime": 5653,
         "name": "Noita",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 412248,
+    "weeklyMinutes": 35,
+    "weeklyTotal": 412283,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
