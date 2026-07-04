@@ -5686,7 +5686,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 63081,
+        "playtime": 63113,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 412096,
+    "weeklyMinutes": 32,
+    "weeklyTotal": 412128,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7616,7 +7616,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 5,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417244,
     "weeklyTopGame": "Lost Ark",
     "newGames": 0
