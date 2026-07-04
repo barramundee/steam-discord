@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 1958,
+        "playtime": 1988,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 378193,
+    "weeklyTotal": 378223,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
   },
@@ -5541,7 +5541,7 @@
         "firstPlayPosted": false
       },
       "881100": {
-        "playtime": 5503,
+        "playtime": 5533,
         "name": "Noita",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 412133,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 412163,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7616,7 +7616,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 20,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417294,
     "weeklyTopGame": "Lost Ark",
     "newGames": 0
@@ -9395,7 +9395,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 21,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129100,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
