@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2095,
+        "playtime": 2125,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 378330,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 378360,
     "weeklyTopGame": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
     "newGames": 0
   },
@@ -5967,7 +5967,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 11,
+    "weeklyMinutes": 0,
     "weeklyTotal": 412403,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9395,7 +9395,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 31,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129161,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
