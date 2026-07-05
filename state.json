@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2683,
+        "playtime": 2713,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 378918,
+    "weeklyTotal": 378948,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5967,7 +5967,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 19,
+    "weeklyMinutes": 0,
     "weeklyTotal": 412570,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
