@@ -7285,7 +7285,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2819,
+        "playtime": 2849,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7616,8 +7616,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 417294,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 417324,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
