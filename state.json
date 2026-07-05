@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2563,
+        "playtime": 2593,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 378798,
+    "weeklyTotal": 378828,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5686,7 +5686,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 63339,
+        "playtime": 63351,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 412509,
+    "weeklyMinutes": 12,
+    "weeklyTotal": 412521,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7644,7 +7644,7 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 280,
+        "playtime": 310,
         "name": "Two Worlds: Epic Edition",
         "firstPlayPosted": true
       },
@@ -9395,8 +9395,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129239,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 129269,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
