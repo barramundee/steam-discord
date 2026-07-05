@@ -5686,7 +5686,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 63305,
+        "playtime": 63309,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 412475,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 412479,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7285,7 +7285,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2849,
+        "playtime": 2890,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7616,8 +7616,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 417324,
+    "weeklyMinutes": 41,
+    "weeklyTotal": 417365,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
