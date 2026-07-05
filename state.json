@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 37,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40151,
+    "weeklyTotal": null,
     "weeklyTopGame": "PEAK",
     "newGames": 0
   },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 378983,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -4769,7 +4769,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5091,9 +5091,9 @@
         "firstPlayPosted": false
       },
       "238370": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Magicka 2",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "238460": {
         "playtime": 553,
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 6,
-    "weeklyTotal": 412576,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7617,7 +7617,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 417365,
+    "weeklyTotal": null,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9396,7 +9396,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 129285,
+    "weeklyTotal": null,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
@@ -9406,6 +9406,7 @@
     "2026_2944": true,
     "2026_2945": true,
     "2026_2946": true,
-    "2026_2947": true
+    "2026_2947": true,
+    "2026_2948": true
   }
 }
