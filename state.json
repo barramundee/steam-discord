@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2436,
+        "playtime": 2466,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 378671,
+    "weeklyTotal": 378701,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -9395,7 +9395,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 36,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129197,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
