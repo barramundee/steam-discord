@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2496,
+        "playtime": 2533,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 378731,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 378768,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -9389,14 +9389,14 @@
         "firstPlayPosted": false
       },
       "4634490": {
-        "playtime": 203,
+        "playtime": 213,
         "name": "Master Healer Kale with useless party",
         "firstPlayPosted": false
       }
     },
     "level": 31,
-    "weeklyMinutes": 32,
-    "weeklyTotal": 129229,
+    "weeklyMinutes": 10,
+    "weeklyTotal": 129239,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
