@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2533,
+        "playtime": 2563,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 378768,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 378798,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5686,7 +5686,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 63309,
+        "playtime": 63339,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 4,
-    "weeklyTotal": 412479,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 412509,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7616,7 +7616,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 41,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417365,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
