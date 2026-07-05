@@ -8304,7 +8304,7 @@
         "firstPlayPosted": false
       },
       "275850": {
-        "playtime": 425,
+        "playtime": 432,
         "name": "No Man's Sky",
         "firstPlayPosted": false
       },
@@ -9395,8 +9395,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129344,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 129351,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
