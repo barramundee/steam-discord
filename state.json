@@ -5686,7 +5686,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 63551,
+        "playtime": 63590,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 8,
-    "weeklyTotal": 412814,
+    "weeklyMinutes": 39,
+    "weeklyTotal": 412853,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7049,6 +7049,11 @@
         "name": "Resident Evil 2",
         "firstPlayPosted": false
       },
+      "892970": {
+        "playtime": 0,
+        "name": "Valheim",
+        "firstPlayPosted": false
+      },
       "899770": {
         "playtime": 3850,
         "name": "Last Epoch",
@@ -7324,6 +7329,11 @@
         "name": "HITMAN World of Assassination",
         "firstPlayPosted": false
       },
+      "1659420": {
+        "playtime": 0,
+        "name": "UNCHARTED™: Legacy of Thieves Collection",
+        "firstPlayPosted": false
+      },
       "1687950": {
         "playtime": 10871,
         "name": "Persona 5 Royal",
@@ -7447,6 +7457,11 @@
       "2296990": {
         "playtime": 105,
         "name": "We Were Here Expeditions: The FriendShip",
+        "firstPlayPosted": false
+      },
+      "2322010": {
+        "playtime": 0,
+        "name": "God of War Ragnarök",
         "firstPlayPosted": false
       },
       "2337860": {
@@ -7584,6 +7599,11 @@
         "name": "R.E.P.O.",
         "firstPlayPosted": false
       },
+      "3280350": {
+        "playtime": 0,
+        "name": "DEATH STRANDING 2: ON THE BEACH",
+        "firstPlayPosted": false
+      },
       "3419430": {
         "playtime": 1439,
         "name": "Bongo Cat",
@@ -7619,7 +7639,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 417396,
     "weeklyTopGame": "RuneScape: Dragonwilds",
-    "newGames": 0
+    "newGames": 4
   },
   "76561198131238066": {
     "games": {
