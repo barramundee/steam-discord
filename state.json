@@ -7644,7 +7644,7 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 423,
+        "playtime": 449,
         "name": "Two Worlds: Epic Edition",
         "firstPlayPosted": true
       },
@@ -9395,8 +9395,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129389,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 129415,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
