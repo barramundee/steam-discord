@@ -5967,7 +5967,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 39,
+    "weeklyMinutes": 0,
     "weeklyTotal": 413335,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7600,7 +7600,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 60,
+        "playtime": 90,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7637,7 +7637,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 417456,
+    "weeklyTotal": 417486,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9415,7 +9415,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 19,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129524,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
