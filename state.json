@@ -5146,7 +5146,7 @@
         "firstPlayPosted": false
       },
       "252490": {
-        "playtime": 968,
+        "playtime": 1018,
         "name": "Rust",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 412924,
+    "weeklyMinutes": 50,
+    "weeklyTotal": 412974,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
