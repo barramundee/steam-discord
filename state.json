@@ -5146,7 +5146,7 @@
         "firstPlayPosted": false
       },
       "252490": {
-        "playtime": 1198,
+        "playtime": 1228,
         "name": "Rust",
         "firstPlayPosted": false
       },
@@ -5968,7 +5968,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 413208,
+    "weeklyTotal": 413238,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7664,7 +7664,7 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 449,
+        "playtime": 479,
         "name": "Two Worlds: Epic Edition",
         "firstPlayPosted": true
       },
@@ -9415,8 +9415,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129415,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 129445,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
