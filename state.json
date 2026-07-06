@@ -5146,7 +5146,7 @@
         "firstPlayPosted": false
       },
       "252490": {
-        "playtime": 897,
+        "playtime": 908,
         "name": "Rust",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 39,
-    "weeklyTotal": 412853,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 412864,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7639,7 +7639,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 417396,
     "weeklyTopGame": "RuneScape: Dragonwilds",
-    "newGames": 4
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
