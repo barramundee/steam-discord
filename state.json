@@ -5686,7 +5686,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 63683,
+        "playtime": 63719,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5967,8 +5967,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 413335,
+    "weeklyMinutes": 36,
+    "weeklyTotal": 413371,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9415,7 +9415,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 43,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129567,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
