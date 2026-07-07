@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2899,
+        "playtime": 2929,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 379134,
+    "weeklyTotal": 379164,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -7641,7 +7641,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 29,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417611,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
