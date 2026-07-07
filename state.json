@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2869,
+        "playtime": 2899,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 379104,
+    "weeklyTotal": 379134,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5972,7 +5972,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 22,
+    "weeklyMinutes": 0,
     "weeklyTotal": 413647,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7605,7 +7605,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 186,
+        "playtime": 215,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7641,8 +7641,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 417582,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 417611,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
