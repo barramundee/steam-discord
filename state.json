@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 2748,
+        "playtime": 2779,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 378983,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 379014,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5490,6 +5490,11 @@
         "name": "Doki Doki Literature Club",
         "firstPlayPosted": false
       },
+      "731040": {
+        "playtime": 0,
+        "name": "The Invincible",
+        "firstPlayPosted": false
+      },
       "741820": {
         "playtime": 0,
         "name": "Prey: Typhon Hunter",
@@ -5970,7 +5975,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 413625,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
