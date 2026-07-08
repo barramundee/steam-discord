@@ -5546,7 +5546,7 @@
         "firstPlayPosted": false
       },
       "881100": {
-        "playtime": 5653,
+        "playtime": 5683,
         "name": "Noita",
         "firstPlayPosted": false
       },
@@ -5972,8 +5972,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 413911,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 413941,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
