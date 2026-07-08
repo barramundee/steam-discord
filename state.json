@@ -3523,7 +3523,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 3119,
+        "playtime": 3149,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 379354,
+    "weeklyTotal": 379384,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5491,9 +5491,9 @@
         "firstPlayPosted": false
       },
       "731040": {
-        "playtime": 0,
+        "playtime": 41,
         "name": "The Invincible",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "741820": {
         "playtime": 0,
@@ -5972,8 +5972,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 413876,
+    "weeklyMinutes": 41,
+    "weeklyTotal": 413917,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
