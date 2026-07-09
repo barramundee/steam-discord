@@ -5316,9 +5316,9 @@
         "firstPlayPosted": false
       },
       "371970": {
-        "playtime": 0,
+        "playtime": 3,
         "name": "Barony",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "374320": {
         "playtime": 336,
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 414145,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 414148,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
