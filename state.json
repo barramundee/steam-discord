@@ -5316,7 +5316,7 @@
         "firstPlayPosted": false
       },
       "371970": {
-        "playtime": 3,
+        "playtime": 33,
         "name": "Barony",
         "firstPlayPosted": true
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 414237,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 414267,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9425,7 +9425,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 2,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129619,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
