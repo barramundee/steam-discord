@@ -5315,6 +5315,11 @@
         "name": "Starbound - Unstable",
         "firstPlayPosted": false
       },
+      "371970": {
+        "playtime": 0,
+        "name": "Barony",
+        "firstPlayPosted": false
+      },
       "374320": {
         "playtime": 336,
         "name": "DARK SOULS™ III",
@@ -5975,7 +5980,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 414145,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
