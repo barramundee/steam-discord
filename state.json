@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 430,
+        "playtime": 460,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 379938,
+    "weeklyTotal": 379968,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 6802,
+        "playtime": 6832,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5978,7 +5978,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 414709,
+    "weeklyTotal": 414739,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9425,7 +9425,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 33,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129798,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
