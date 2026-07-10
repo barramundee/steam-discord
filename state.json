@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 220,
+        "playtime": 250,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 379728,
+    "weeklyTotal": 379758,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 6602,
+        "playtime": 6632,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 23,
-    "weeklyTotal": 414509,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 414539,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
