@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 644,
+        "playtime": 674,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 380152,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 380182,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -9309,7 +9309,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 644,
+        "playtime": 674,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9425,8 +9425,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129837,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 129867,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
