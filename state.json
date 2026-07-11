@@ -7300,7 +7300,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2905,
+        "playtime": 2909,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7646,8 +7646,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 417674,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 417678,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9430,10 +9430,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 406,
+    "weeklyMinutes": 0,
     "weeklyTotal": 130304,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
