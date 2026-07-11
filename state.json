@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 7076,
+        "playtime": 7106,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5978,7 +5978,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 415042,
+    "weeklyTotal": 415072,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9309,7 +9309,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 686,
+        "playtime": 700,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9425,8 +9425,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129879,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 129893,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
