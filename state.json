@@ -7674,7 +7674,7 @@
         "firstPlayPosted": false
       },
       "1930": {
-        "playtime": 876,
+        "playtime": 904,
         "name": "Two Worlds: Epic Edition",
         "firstPlayPosted": true
       },
@@ -9418,6 +9418,11 @@
         "name": "Scritchy Scratchy",
         "firstPlayPosted": false
       },
+      "4309180": {
+        "playtime": 378,
+        "name": "Holding Pattern",
+        "firstPlayPosted": false
+      },
       "4634490": {
         "playtime": 213,
         "name": "Master Healer Kale with useless party",
@@ -9425,10 +9430,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 129898,
+    "weeklyMinutes": 406,
+    "weeklyTotal": 130304,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
