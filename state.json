@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 7136,
+        "playtime": 7160,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 415102,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 415126,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9425,7 +9425,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 5,
+    "weeklyMinutes": 0,
     "weeklyTotal": 129898,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
