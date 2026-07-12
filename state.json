@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 1949,
+        "playtime": 1986,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 415362,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 415399,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7646,7 +7646,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 14,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417762,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
