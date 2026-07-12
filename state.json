@@ -3564,7 +3564,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 34,
+    "weeklyMinutes": 0,
     "weeklyTotal": 380516,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 7353,
+        "playtime": 7383,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 50,
-    "weeklyTotal": 415671,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415701,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7060,7 +7060,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 44,
+        "playtime": 70,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7646,8 +7646,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 417762,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 417788,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9430,7 +9430,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 14,
+    "weeklyMinutes": 0,
     "weeklyTotal": 130358,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
