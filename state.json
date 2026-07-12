@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 1919,
+        "playtime": 1949,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5978,7 +5978,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 415332,
+    "weeklyTotal": 415362,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7060,7 +7060,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 30,
+        "playtime": 44,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7646,8 +7646,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 417748,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 417762,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
