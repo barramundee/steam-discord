@@ -5971,14 +5971,14 @@
         "firstPlayPosted": false
       },
       "4704690": {
-        "playtime": 369,
+        "playtime": 399,
         "name": "MECCHA CHAMELEON",
         "firstPlayPosted": true
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 415482,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415512,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
