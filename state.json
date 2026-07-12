@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 40,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40163,
+    "weeklyTotal": null,
     "weeklyTopGame": "PEAK",
     "newGames": 0
   },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 380362,
+    "weeklyTotal": null,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -4769,7 +4769,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 7177,
+        "playtime": 7210,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 17,
-    "weeklyTotal": 415416,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7647,7 +7647,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 417762,
+    "weeklyTotal": null,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9364,7 +9364,7 @@
         "firstPlayPosted": false
       },
       "3509230": {
-        "playtime": 728,
+        "playtime": 740,
         "name": "Gambonanza",
         "firstPlayPosted": false
       },
@@ -9431,7 +9431,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 130332,
+    "weeklyTotal": null,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
@@ -9442,6 +9442,7 @@
     "2026_2945": true,
     "2026_2946": true,
     "2026_2947": true,
-    "2026_2948": true
+    "2026_2948": true,
+    "2026_2949": true
   }
 }
