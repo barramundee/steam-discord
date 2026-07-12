@@ -9364,7 +9364,7 @@
         "firstPlayPosted": false
       },
       "3509230": {
-        "playtime": 715,
+        "playtime": 728,
         "name": "Gambonanza",
         "firstPlayPosted": false
       },
@@ -9430,8 +9430,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130319,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 130332,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
