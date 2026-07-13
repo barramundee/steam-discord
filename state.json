@@ -1337,7 +1337,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 40163,
-    "weeklyTopGame": "PEAK",
+    "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
   "76561198017069362": {
@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 7502,
+        "playtime": 7532,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5978,7 +5978,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 416253,
+    "weeklyTotal": 416283,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 333,
+        "playtime": 366,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7646,8 +7646,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 417818,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 417851,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -9435,7 +9435,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 130448,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
