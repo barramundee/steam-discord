@@ -5977,7 +5977,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 37,
+    "weeklyMinutes": 0,
     "weeklyTotal": 416223,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9309,7 +9309,7 @@
         "firstPlayPosted": false
       },
       "2868840": {
-        "playtime": 886,
+        "playtime": 896,
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
@@ -9435,8 +9435,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 6,
-    "weeklyTotal": 130408,
+    "weeklyMinutes": 10,
+    "weeklyTotal": 130418,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
