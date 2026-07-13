@@ -3564,7 +3564,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 46,
+    "weeklyMinutes": 0,
     "weeklyTotal": 381246,
     "weeklyTopGame": "Palworld",
     "newGames": 0
@@ -5696,7 +5696,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 64921,
+        "playtime": 64958,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 416186,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 416223,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9304,7 +9304,7 @@
         "firstPlayPosted": false
       },
       "2824490": {
-        "playtime": 5558,
+        "playtime": 5564,
         "name": "He is Coming",
         "firstPlayPosted": false
       },
@@ -9435,8 +9435,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130402,
+    "weeklyMinutes": 6,
+    "weeklyTotal": 130408,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
