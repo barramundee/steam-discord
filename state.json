@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 1068,
+        "playtime": 1093,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 380576,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 380601,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5977,7 +5977,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 29,
+    "weeklyMinutes": 0,
     "weeklyTotal": 415790,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
