@@ -7908,6 +7908,11 @@
         "name": "Fallout 2",
         "firstPlayPosted": false
       },
+      "40300": {
+        "playtime": 0,
+        "name": "Risen",
+        "firstPlayPosted": false
+      },
       "40800": {
         "playtime": 26,
         "name": "Super Meat Boy",
@@ -9433,7 +9438,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 130358,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
