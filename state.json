@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 1153,
+        "playtime": 1183,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 380661,
+    "weeklyTotal": 380691,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5696,7 +5696,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 64747,
+        "playtime": 64777,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 415790,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 415820,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9435,7 +9435,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 3,
+    "weeklyMinutes": 0,
     "weeklyTotal": 130400,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
