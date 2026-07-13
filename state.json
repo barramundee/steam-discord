@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 1483,
+        "playtime": 1574,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 380991,
+    "weeklyMinutes": 91,
+    "weeklyTotal": 381082,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 1986,
+        "playtime": 2072,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 18,
-    "weeklyTotal": 415934,
+    "weeklyMinutes": 86,
+    "weeklyTotal": 416020,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7909,7 +7909,7 @@
         "firstPlayPosted": false
       },
       "40300": {
-        "playtime": 30,
+        "playtime": 32,
         "name": "Risen",
         "firstPlayPosted": true
       },
@@ -9435,8 +9435,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130400,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 130402,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
