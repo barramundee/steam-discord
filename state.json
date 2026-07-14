@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2453,
+        "playtime": 2483,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 381961,
+    "weeklyTotal": 381991,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2673,
+        "playtime": 2703,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5978,7 +5978,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 417022,
+    "weeklyTotal": 417052,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9309,7 +9309,7 @@
         "firstPlayPosted": false
       },
       "2868840": {
-        "playtime": 896,
+        "playtime": 950,
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
@@ -9435,8 +9435,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130476,
+    "weeklyMinutes": 54,
+    "weeklyTotal": 130530,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
