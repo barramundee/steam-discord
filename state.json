@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2213,
+        "playtime": 2243,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 381721,
+    "weeklyTotal": 381751,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -5696,7 +5696,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 65056,
+        "playtime": 65060,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 416808,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 416812,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9044,7 +9044,7 @@
         "firstPlayPosted": false
       },
       "1293830": {
-        "playtime": 422,
+        "playtime": 450,
         "name": "Forza Horizon 4",
         "firstPlayPosted": false
       },
@@ -9435,8 +9435,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130448,
+    "weeklyMinutes": 28,
+    "weeklyTotal": 130476,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
