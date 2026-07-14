@@ -5666,7 +5666,7 @@
         "firstPlayPosted": false
       },
       "1245620": {
-        "playtime": 7652,
+        "playtime": 7682,
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2318,
+        "playtime": 2366,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 50,
-    "weeklyTotal": 416513,
+    "weeklyMinutes": 78,
+    "weeklyTotal": 416591,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
