@@ -3564,7 +3564,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 33,
+    "weeklyMinutes": 0,
     "weeklyTotal": 382409,
     "weeklyTopGame": "Palworld",
     "newGames": 0
@@ -8784,7 +8784,7 @@
         "firstPlayPosted": false
       },
       "578330": {
-        "playtime": 18,
+        "playtime": 48,
         "name": "LEGO® City Undercover",
         "firstPlayPosted": false
       },
@@ -9475,8 +9475,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 14,
-    "weeklyTotal": 130544,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 130574,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
