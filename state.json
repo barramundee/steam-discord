@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2944,
+        "playtime": 2974,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 417521,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 417551,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9473,7 +9473,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 130530,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 7
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
