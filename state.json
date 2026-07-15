@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2868,
+        "playtime": 2901,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 382376,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 382409,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -5977,7 +5977,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 25,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417690,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -8784,7 +8784,7 @@
         "firstPlayPosted": false
       },
       "578330": {
-        "playtime": 15,
+        "playtime": 18,
         "name": "LEGO® City Undercover",
         "firstPlayPosted": false
       },
@@ -8974,9 +8974,9 @@
         "firstPlayPosted": false
       },
       "1051690": {
-        "playtime": 0,
+        "playtime": 11,
         "name": "Nightmare Reaper",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1083790": {
         "playtime": 0,
@@ -9475,8 +9475,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130530,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 130544,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
