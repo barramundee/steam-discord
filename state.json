@@ -8868,6 +8868,11 @@
         "name": "Halcyon 6: Lightspeed Edition",
         "firstPlayPosted": false
       },
+      "656350": {
+        "playtime": 0,
+        "name": "UnderMine",
+        "firstPlayPosted": false
+      },
       "667720": {
         "playtime": 22,
         "name": "Red Faction Guerrilla Re-Mars-tered",
@@ -8963,6 +8968,11 @@
         "name": "60 Seconds! Reatomized",
         "firstPlayPosted": false
       },
+      "1051690": {
+        "playtime": 0,
+        "name": "Nightmare Reaper",
+        "firstPlayPosted": false
+      },
       "1083790": {
         "playtime": 0,
         "name": "Deathbulge: Battle of the Bands",
@@ -9016,6 +9026,11 @@
       "1200580": {
         "playtime": 0,
         "name": "One Gun Guy",
+        "firstPlayPosted": false
+      },
+      "1220010": {
+        "playtime": 0,
+        "name": "Home Behind 2",
         "firstPlayPosted": false
       },
       "1229490": {
@@ -9118,6 +9133,11 @@
         "name": "High On Life",
         "firstPlayPosted": false
       },
+      "1605250": {
+        "playtime": 0,
+        "name": "Moros Protocol",
+        "firstPlayPosted": false
+      },
       "1608450": {
         "playtime": 0,
         "name": "Hellslave",
@@ -9136,6 +9156,11 @@
       "1730700": {
         "playtime": 320,
         "name": "We Love Katamari REROLL+ Royal Reverie",
+        "firstPlayPosted": false
+      },
+      "1734320": {
+        "playtime": 0,
+        "name": "Brutal Orchestra",
         "firstPlayPosted": false
       },
       "1745510": {
@@ -9293,6 +9318,11 @@
         "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
         "firstPlayPosted": false
       },
+      "2518630": {
+        "playtime": 0,
+        "name": "None Shall Intrude",
+        "firstPlayPosted": false
+      },
       "2543510": {
         "playtime": 0,
         "name": "GUNTOUCHABLES",
@@ -9321,6 +9351,11 @@
       "3070070": {
         "playtime": 1446,
         "name": "TCG Card Shop Simulator",
+        "firstPlayPosted": false
+      },
+      "3159570": {
+        "playtime": 0,
+        "name": "Lynked: Banner of the Spark",
         "firstPlayPosted": false
       },
       "3191030": {
@@ -9438,7 +9473,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 130530,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 0
+    "newGames": 7
   },
   "steamSales": {},
   "sales": {},
