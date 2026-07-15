@@ -3564,7 +3564,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 60,
+    "weeklyMinutes": 0,
     "weeklyTotal": 382196,
     "weeklyTopGame": "Palworld",
     "newGames": 0
@@ -5977,7 +5977,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 46,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417597,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7359,6 +7359,11 @@
         "name": "Super Auto Pets",
         "firstPlayPosted": false
       },
+      "1741160": {
+        "playtime": 0,
+        "name": "Catch Me!",
+        "firstPlayPosted": false
+      },
       "1755300": {
         "playtime": 0,
         "name": "Smart Factory Tycoon",
@@ -7649,7 +7654,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 417900,
     "weeklyTopGame": "Palworld",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
