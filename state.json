@@ -5977,7 +5977,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 24,
+    "weeklyMinutes": 0,
     "weeklyTotal": 417756,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9139,9 +9139,9 @@
         "firstPlayPosted": false
       },
       "1605250": {
-        "playtime": 0,
+        "playtime": 42,
         "name": "Moros Protocol",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1608450": {
         "playtime": 0,
@@ -9475,8 +9475,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130574,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 130616,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
