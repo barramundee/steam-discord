@@ -1159,7 +1159,7 @@
         "firstPlayPosted": false
       },
       "1210320": {
-        "playtime": 195,
+        "playtime": 225,
         "name": "Potion Craft: Alchemist Simulator",
         "firstPlayPosted": false
       },
@@ -1335,8 +1335,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 40435,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 40465,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2995,
+        "playtime": 3025,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 382503,
+    "weeklyTotal": 382533,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -9139,7 +9139,7 @@
         "firstPlayPosted": false
       },
       "1605250": {
-        "playtime": 87,
+        "playtime": 136,
         "name": "Moros Protocol",
         "firstPlayPosted": true
       },
@@ -9475,8 +9475,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130661,
+    "weeklyMinutes": 49,
+    "weeklyTotal": 130710,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
