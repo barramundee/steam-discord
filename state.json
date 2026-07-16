@@ -1335,7 +1335,7 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 31,
+    "weeklyMinutes": 0,
     "weeklyTotal": 40435,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 2965,
+        "playtime": 2995,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3564,8 +3564,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 382473,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 382503,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
