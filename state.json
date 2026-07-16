@@ -1199,7 +1199,7 @@
         "firstPlayPosted": false
       },
       "1586800": {
-        "playtime": 109,
+        "playtime": 139,
         "name": "Lil Gator Game",
         "firstPlayPosted": true
       },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 40374,
+    "weeklyTotal": 40404,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -5746,7 +5746,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3244,
+        "playtime": 3299,
         "name": "Palworld",
         "firstPlayPosted": false
       },
@@ -5977,8 +5977,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 418057,
+    "weeklyMinutes": 55,
+    "weeklyTotal": 418112,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
