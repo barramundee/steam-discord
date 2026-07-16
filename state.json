@@ -1159,7 +1159,7 @@
         "firstPlayPosted": false
       },
       "1210320": {
-        "playtime": 255,
+        "playtime": 285,
         "name": "Potion Craft: Alchemist Simulator",
         "firstPlayPosted": false
       },
@@ -1336,7 +1336,7 @@
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 40495,
+    "weeklyTotal": 40525,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -3363,7 +3363,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3055,
+        "playtime": 3085,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3565,7 +3565,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 382563,
+    "weeklyTotal": 382593,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
