@@ -1199,7 +1199,7 @@
         "firstPlayPosted": false
       },
       "1586800": {
-        "playtime": 139,
+        "playtime": 170,
         "name": "Lil Gator Game",
         "firstPlayPosted": true
       },
@@ -1335,8 +1335,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 40404,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 40435,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -5977,7 +5977,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 55,
+    "weeklyMinutes": 0,
     "weeklyTotal": 418112,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
