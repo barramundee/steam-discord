@@ -7204,6 +7204,11 @@
         "name": "ELDEN RING",
         "firstPlayPosted": false
       },
+      "1272160": {
+        "playtime": 0,
+        "name": "The Life and Suffering of Sir Brante",
+        "firstPlayPosted": false
+      },
       "1283700": {
         "playtime": 10158,
         "name": "SUPERVIVE",
@@ -7659,7 +7664,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 417988,
     "weeklyTopGame": "Palworld",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
