@@ -1213,6 +1213,11 @@
         "name": "We Love Katamari REROLL+ Royal Reverie",
         "firstPlayPosted": false
       },
+      "1741160": {
+        "playtime": 0,
+        "name": "Catch Me!",
+        "firstPlayPosted": false
+      },
       "1754850": {
         "playtime": 180,
         "name": "The Planet Crafter Demo",
@@ -1338,7 +1343,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 40546,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198017069362": {
     "games": {
