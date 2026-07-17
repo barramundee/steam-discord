@@ -1348,7 +1348,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 40587,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198017069362": {
     "games": {
@@ -9478,6 +9478,11 @@
         "name": "Scritchy Scratchy",
         "firstPlayPosted": false
       },
+      "4248000": {
+        "playtime": 13,
+        "name": "How Many Dudes? Demo",
+        "firstPlayPosted": false
+      },
       "4309180": {
         "playtime": 378,
         "name": "Holding Pattern",
@@ -9490,10 +9495,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130710,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 130723,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
