@@ -1163,6 +1163,11 @@
         "name": "Potion Craft: Alchemist Simulator",
         "firstPlayPosted": false
       },
+      "1272160": {
+        "playtime": 0,
+        "name": "The Life and Suffering of Sir Brante",
+        "firstPlayPosted": false
+      },
       "1284190": {
         "playtime": 1109,
         "name": "The Planet Crafter",
@@ -1343,7 +1348,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 40587,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198017069362": {
     "games": {
