@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 40,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1346,7 +1346,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40587,
+    "weeklyTotal": null,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 383109,
+    "weeklyTotal": null,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -4779,7 +4779,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5987,8 +5987,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 34,
-    "weeklyTotal": 419051,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7667,7 +7667,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 418053,
+    "weeklyTotal": null,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -9154,7 +9154,7 @@
         "firstPlayPosted": false
       },
       "1605250": {
-        "playtime": 136,
+        "playtime": 165,
         "name": "Moros Protocol",
         "firstPlayPosted": true
       },
@@ -9496,7 +9496,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 130756,
+    "weeklyTotal": null,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
@@ -9508,6 +9508,7 @@
     "2026_2946": true,
     "2026_2947": true,
     "2026_2948": true,
-    "2026_2949": true
+    "2026_2949": true,
+    "2026_2950": true
   }
 }
