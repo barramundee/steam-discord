@@ -5987,7 +5987,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 41,
+    "weeklyMinutes": 0,
     "weeklyTotal": 418960,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9079,7 +9079,7 @@
         "firstPlayPosted": false
       },
       "1293830": {
-        "playtime": 450,
+        "playtime": 459,
         "name": "Forza Horizon 4",
         "firstPlayPosted": false
       },
@@ -9495,8 +9495,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130747,
+    "weeklyMinutes": 9,
+    "weeklyTotal": 130756,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
