@@ -3373,7 +3373,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3691,
+        "playtime": 3721,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383199,
+    "weeklyTotal": 383229,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -7070,7 +7070,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 174,
+        "playtime": 204,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7667,7 +7667,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 418167,
+    "weeklyTotal": 418197,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -9479,7 +9479,7 @@
         "firstPlayPosted": false
       },
       "4248000": {
-        "playtime": 55,
+        "playtime": 62,
         "name": "How Many Dudes? Demo",
         "firstPlayPosted": false
       },
@@ -9495,8 +9495,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 130833,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 130840,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
