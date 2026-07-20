@@ -3373,7 +3373,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3631,
+        "playtime": 3661,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383139,
+    "weeklyTotal": 383169,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -5987,7 +5987,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 37,
+    "weeklyMinutes": 0,
     "weeklyTotal": 419286,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
