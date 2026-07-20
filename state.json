@@ -3373,7 +3373,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3841,
+        "playtime": 3871,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383349,
+    "weeklyTotal": 383379,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -7666,7 +7666,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 52,
+    "weeklyMinutes": 0,
     "weeklyTotal": 418359,
     "weeklyTopGame": "Palworld",
     "newGames": 0
@@ -9364,7 +9364,7 @@
         "firstPlayPosted": false
       },
       "2868840": {
-        "playtime": 950,
+        "playtime": 954,
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
@@ -9500,10 +9500,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130840,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 130844,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
