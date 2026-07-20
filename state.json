@@ -3373,7 +3373,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3811,
+        "playtime": 3841,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383319,
+    "weeklyTotal": 383349,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -7070,7 +7070,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 314,
+        "playtime": 366,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7666,8 +7666,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 418307,
+    "weeklyMinutes": 52,
+    "weeklyTotal": 418359,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -9343,6 +9343,11 @@
         "name": "None Shall Intrude",
         "firstPlayPosted": false
       },
+      "2524850": {
+        "playtime": 0,
+        "name": "Denshattack!",
+        "firstPlayPosted": false
+      },
       "2543510": {
         "playtime": 0,
         "name": "GUNTOUCHABLES",
@@ -9498,7 +9503,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 130840,
     "weeklyTopGame": "Two Worlds: Epic Edition",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
