@@ -3373,7 +3373,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3871,
+        "playtime": 3901,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383379,
+    "weeklyTotal": 383409,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -9424,7 +9424,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 974,
+        "playtime": 1013,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9500,8 +9500,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 4,
-    "weeklyTotal": 130844,
+    "weeklyMinutes": 39,
+    "weeklyTotal": 130883,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
