@@ -3373,7 +3373,7 @@
         "firstPlayPosted": false
       },
       "1623730": {
-        "playtime": 3751,
+        "playtime": 3780,
         "name": "Palworld",
         "firstPlayPosted": true
       },
@@ -3574,8 +3574,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 383259,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 383288,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -5987,7 +5987,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 21,
+    "weeklyMinutes": 0,
     "weeklyTotal": 419307,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7070,7 +7070,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 234,
+        "playtime": 254,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7666,8 +7666,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 418227,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 418247,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
