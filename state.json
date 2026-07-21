@@ -5980,6 +5980,11 @@
         "name": "Cloudheim Demo",
         "firstPlayPosted": false
       },
+      "4248000": {
+        "playtime": 42,
+        "name": "How Many Dudes? Demo",
+        "firstPlayPosted": false
+      },
       "4704690": {
         "playtime": 448,
         "name": "MECCHA CHAMELEON",
@@ -5987,10 +5992,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 419520,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 419562,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
