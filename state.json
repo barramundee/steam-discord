@@ -5992,7 +5992,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 43,
+    "weeklyMinutes": 0,
     "weeklyTotal": 419831,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7635,7 +7635,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 578,
+        "playtime": 608,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7671,8 +7671,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 418751,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 418781,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
