@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 66517,
+        "playtime": 66526,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5992,8 +5992,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 27,
-    "weeklyTotal": 419678,
+    "weeklyMinutes": 9,
+    "weeklyTotal": 419687,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8364,7 +8364,7 @@
         "firstPlayPosted": false
       },
       "275850": {
-        "playtime": 432,
+        "playtime": 445,
         "name": "No Man's Sky",
         "firstPlayPosted": false
       },
@@ -9505,8 +9505,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130922,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 130935,
     "weeklyTopGame": "Two Worlds: Epic Edition",
     "newGames": 0
   },
