@@ -5981,7 +5981,7 @@
         "firstPlayPosted": false
       },
       "4248000": {
-        "playtime": 42,
+        "playtime": 72,
         "name": "How Many Dudes? Demo",
         "firstPlayPosted": false
       },
@@ -5992,8 +5992,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 29,
-    "weeklyTotal": 419621,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 419651,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
