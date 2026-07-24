@@ -1159,7 +1159,7 @@
         "firstPlayPosted": false
       },
       "1210320": {
-        "playtime": 347,
+        "playtime": 366,
         "name": "Potion Craft: Alchemist Simulator",
         "firstPlayPosted": false
       },
@@ -1345,8 +1345,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 40587,
+    "weeklyMinutes": 19,
+    "weeklyTotal": 40606,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
