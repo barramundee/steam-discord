@@ -9384,7 +9384,7 @@
         "firstPlayPosted": false
       },
       "3039910": {
-        "playtime": 739,
+        "playtime": 759,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9515,8 +9515,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 130935,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 130955,
     "weeklyTopGame": "Moros Protocol",
     "newGames": 0
   },
