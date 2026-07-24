@@ -8908,6 +8908,11 @@
         "name": "Red Faction Guerrilla Re-Mars-tered",
         "firstPlayPosted": false
       },
+      "674750": {
+        "playtime": 0,
+        "name": "Yet Another Zombie Defense HD",
+        "firstPlayPosted": false
+      },
       "702670": {
         "playtime": 91,
         "name": "Donut County",
@@ -9513,7 +9518,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 130935,
     "weeklyTopGame": "Moros Protocol",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
