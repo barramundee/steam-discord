@@ -6949,6 +6949,11 @@
         "name": "Real Pool 3D - Poolians",
         "firstPlayPosted": false
       },
+      "674750": {
+        "playtime": 0,
+        "name": "Yet Another Zombie Defense HD",
+        "firstPlayPosted": false
+      },
       "674940": {
         "playtime": 12,
         "name": "Stick Fight: The Game",
@@ -7674,7 +7679,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 419016,
     "weeklyTopGame": "Palworld",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
