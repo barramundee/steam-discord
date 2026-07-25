@@ -7325,7 +7325,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2909,
+        "playtime": 2939,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7676,8 +7676,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 419376,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 419406,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
