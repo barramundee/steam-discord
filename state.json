@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 66938,
+        "playtime": 66968,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5993,7 +5993,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 420153,
+    "weeklyTotal": 420183,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7080,7 +7080,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 941,
+        "playtime": 971,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7676,8 +7676,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 419172,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 419202,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
