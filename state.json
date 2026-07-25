@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 66995,
+        "playtime": 67010,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5992,8 +5992,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 420210,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 420225,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7325,7 +7325,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 2939,
+        "playtime": 2984,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7676,8 +7676,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 419406,
+    "weeklyMinutes": 45,
+    "weeklyTotal": 419451,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
