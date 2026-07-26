@@ -1339,14 +1339,14 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 1048,
+        "playtime": 1049,
         "name": "PEAK",
         "firstPlayPosted": false
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 40606,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 40607,
     "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
     "newGames": 0
   },
@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 67285,
+        "playtime": 67307,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5997,8 +5997,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 420500,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 420522,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
