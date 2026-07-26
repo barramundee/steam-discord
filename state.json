@@ -5871,9 +5871,9 @@
         "firstPlayPosted": false
       },
       "2569760": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "The Mound: Omen of Cthulhu",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2642680": {
         "playtime": 1451,
@@ -5997,8 +5997,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 19,
-    "weeklyTotal": 420374,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 420404,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7645,7 +7645,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 816,
+        "playtime": 846,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7681,8 +7681,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 419494,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 419524,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
