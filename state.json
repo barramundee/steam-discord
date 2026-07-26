@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 67255,
+        "playtime": 67285,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5997,8 +5997,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 420470,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 420500,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9525,7 +9525,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 13,
+    "weeklyMinutes": 0,
     "weeklyTotal": 131286,
     "weeklyTopGame": "It's Chopping Time!",
     "newGames": 0
