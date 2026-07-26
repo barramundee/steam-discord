@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 67100,
+        "playtime": 67140,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5870,6 +5870,11 @@
         "name": "Half Sword",
         "firstPlayPosted": false
       },
+      "2569760": {
+        "playtime": 0,
+        "name": "The Mound: Omen of Cthulhu",
+        "firstPlayPosted": false
+      },
       "2642680": {
         "playtime": 1451,
         "name": "Half Sword Demo",
@@ -5992,10 +5997,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 420315,
+    "weeklyMinutes": 40,
+    "weeklyTotal": 420355,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
@@ -9520,7 +9525,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 25,
+    "weeklyMinutes": 0,
     "weeklyTotal": 131273,
     "weeklyTopGame": "It's Chopping Time!",
     "newGames": 0
