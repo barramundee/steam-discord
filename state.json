@@ -5997,7 +5997,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 14,
+    "weeklyMinutes": 0,
     "weeklyTotal": 421118,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7085,7 +7085,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 1358,
+        "playtime": 1371,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7681,8 +7681,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 419986,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 419999,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
