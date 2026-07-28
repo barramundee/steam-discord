@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 67980,
+        "playtime": 68002,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5997,8 +5997,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 7,
-    "weeklyTotal": 421195,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 421217,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
