@@ -1347,7 +1347,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 40645,
-    "weeklyTopGame": "Librarian: Tidy Up the Arcane Library!",
+    "weeklyTopGame": "Potion Craft: Alchemist Simulator",
     "newGames": 0
   },
   "76561198017069362": {
@@ -5706,7 +5706,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 67971,
+        "playtime": 67973,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -5997,8 +5997,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 421186,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 421188,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
