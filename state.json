@@ -7650,7 +7650,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 1086,
+        "playtime": 1099,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7686,8 +7686,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 420029,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 420042,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
