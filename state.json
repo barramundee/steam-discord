@@ -1339,14 +1339,14 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 1088,
+        "playtime": 1113,
         "name": "PEAK",
         "firstPlayPosted": false
       }
     },
     "level": 10,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 40646,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 40671,
     "weeklyTopGame": "PowerWash Simulator",
     "newGames": 0
   },
@@ -5711,7 +5711,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 68797,
+        "playtime": 68834,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6002,8 +6002,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 422234,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 422271,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
