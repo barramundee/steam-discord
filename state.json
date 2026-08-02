@@ -1347,7 +1347,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 40671,
-    "weeklyTopGame": "Satisfactory",
+    "weeklyTopGame": "PowerWash Simulator",
     "newGames": 0
   },
   "76561198017069362": {
@@ -5161,7 +5161,7 @@
         "firstPlayPosted": false
       },
       "252490": {
-        "playtime": 1785,
+        "playtime": 1822,
         "name": "Rust",
         "firstPlayPosted": false
       },
@@ -6007,8 +6007,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 19,
-    "weeklyTotal": 423197,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 423234,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
