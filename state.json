@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 40,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1346,7 +1346,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40671,
+    "weeklyTotal": null,
     "weeklyTopGame": "Satisfactory",
     "newGames": 0
   },
@@ -3575,7 +3575,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 383478,
+    "weeklyTotal": null,
     "weeklyTopGame": "Palworld",
     "newGames": 0
   },
@@ -4779,7 +4779,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5711,7 +5711,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 69473,
+        "playtime": 69486,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6002,8 +6002,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 46,
-    "weeklyTotal": 422987,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7687,7 +7687,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 420042,
+    "weeklyTotal": null,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -9531,7 +9531,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 131250,
+    "weeklyTotal": null,
     "weeklyTopGame": "It's Chopping Time!",
     "newGames": 0
   },
@@ -9545,6 +9545,7 @@
     "2026_2948": true,
     "2026_2949": true,
     "2026_2950": true,
-    "2026_2951": true
+    "2026_2951": true,
+    "2026_2952": true
   }
 }
