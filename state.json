@@ -5161,7 +5161,7 @@
         "firstPlayPosted": false
       },
       "252490": {
-        "playtime": 1706,
+        "playtime": 1736,
         "name": "Rust",
         "firstPlayPosted": false
       },
@@ -5378,6 +5378,11 @@
       "425670": {
         "playtime": 0,
         "name": "Seraph",
+        "firstPlayPosted": false
+      },
+      "427410": {
+        "playtime": 0,
+        "name": "Abiotic Factor",
         "firstPlayPosted": false
       },
       "430210": {
@@ -6003,9 +6008,9 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423118,
+    "weeklyTotal": 423148,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
