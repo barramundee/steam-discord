@@ -2432,6 +2432,11 @@
         "name": "Rise to Ruins",
         "firstPlayPosted": false
       },
+      "330020": {
+        "playtime": 0,
+        "name": "Children of Morta",
+        "firstPlayPosted": false
+      },
       "330840": {
         "playtime": 365,
         "name": "Game of Thrones - A Telltale Games Series",
@@ -2725,6 +2730,11 @@
       "468630": {
         "playtime": 102,
         "name": "Warhammer 40,000: Dawn of War III Open Beta",
+        "firstPlayPosted": false
+      },
+      "473950": {
+        "playtime": 0,
+        "name": "Manifold Garden",
         "firstPlayPosted": false
       },
       "480490": {
@@ -3027,6 +3037,11 @@
         "name": "A Plague Tale: Innocence",
         "firstPlayPosted": false
       },
+      "757310": {
+        "playtime": 0,
+        "name": "Sable",
+        "firstPlayPosted": false
+      },
       "761890": {
         "playtime": 16,
         "name": "Albion Online",
@@ -3085,6 +3100,11 @@
       "851850": {
         "playtime": 232,
         "name": "DRAGON BALL Z: KAKAROT",
+        "firstPlayPosted": false
+      },
+      "858210": {
+        "playtime": 0,
+        "name": "Nova Drift",
         "firstPlayPosted": false
       },
       "858810": {
@@ -3357,6 +3377,11 @@
         "name": "Deadlock",
         "firstPlayPosted": false
       },
+      "1488200": {
+        "playtime": 0,
+        "name": "Symphony of War: The Nephilim Saga",
+        "firstPlayPosted": false
+      },
       "1517290": {
         "playtime": 325,
         "name": "Battlefield™ 2042",
@@ -3365,6 +3390,11 @@
       "1569580": {
         "playtime": 582,
         "name": "Blue Prince",
+        "firstPlayPosted": false
+      },
+      "1587130": {
+        "playtime": 0,
+        "name": "Blood West",
         "firstPlayPosted": false
       },
       "1592190": {
@@ -3577,7 +3607,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 383478,
     "weeklyTopGame": "Palworld",
-    "newGames": 0
+    "newGames": 6
   },
   "76561198197833939": {
     "games": {
@@ -5381,7 +5411,7 @@
         "firstPlayPosted": false
       },
       "427410": {
-        "playtime": 5,
+        "playtime": 35,
         "name": "Abiotic Factor",
         "firstPlayPosted": true
       },
@@ -6007,8 +6037,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 16,
-    "weeklyTotal": 423336,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 423366,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
