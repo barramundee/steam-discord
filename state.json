@@ -3607,7 +3607,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 383478,
     "weeklyTopGame": "Palworld",
-    "newGames": 6
+    "newGames": 0
   },
   "76561198197833939": {
     "games": {
@@ -5411,7 +5411,7 @@
         "firstPlayPosted": false
       },
       "427410": {
-        "playtime": 35,
+        "playtime": 65,
         "name": "Abiotic Factor",
         "firstPlayPosted": true
       },
@@ -6038,7 +6038,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423366,
+    "weeklyTotal": 423396,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
