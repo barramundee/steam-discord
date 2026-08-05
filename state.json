@@ -2897,6 +2897,11 @@
         "name": "Survived By",
         "firstPlayPosted": false
       },
+      "606150": {
+        "playtime": 0,
+        "name": "Moonlighter",
+        "firstPlayPosted": false
+      },
       "614570": {
         "playtime": 0,
         "name": "Dishonored®: Death of the Outsider™ ",
@@ -3607,7 +3612,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 383478,
     "weeklyTopGame": null,
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
@@ -6037,7 +6042,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 43,
+    "weeklyMinutes": 0,
     "weeklyTotal": 424556,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
