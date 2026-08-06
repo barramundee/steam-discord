@@ -1353,7 +1353,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 40671,
     "weeklyTopGame": "PowerWash Simulator",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198017069362": {
     "games": {
@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 70454,
+        "playtime": 70461,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6047,8 +6047,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 424894,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 424901,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7739,7 +7739,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 420042,
     "weeklyTopGame": "Valheim",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
@@ -9588,7 +9588,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 131276,
     "weeklyTopGame": "It's Chopping Time!",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
