@@ -1073,6 +1073,11 @@
         "name": "Graveyard Keeper",
         "firstPlayPosted": false
       },
+      "606150": {
+        "playtime": 0,
+        "name": "Moonlighter",
+        "firstPlayPosted": false
+      },
       "613100": {
         "playtime": 52,
         "name": "House Flipper",
@@ -1348,7 +1353,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 40671,
     "weeklyTopGame": "PowerWash Simulator",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198017069362": {
     "games": {
@@ -6924,6 +6929,11 @@
         "name": "Clatter",
         "firstPlayPosted": false
       },
+      "606150": {
+        "playtime": 0,
+        "name": "Moonlighter",
+        "firstPlayPosted": false
+      },
       "607050": {
         "playtime": 0,
         "name": "Wargroove",
@@ -7729,7 +7739,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 420042,
     "weeklyTopGame": "Valheim",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
@@ -8893,6 +8903,11 @@
         "name": "Star of Providence",
         "firstPlayPosted": false
       },
+      "606150": {
+        "playtime": 0,
+        "name": "Moonlighter",
+        "firstPlayPosted": false
+      },
       "629820": {
         "playtime": 585,
         "name": "Maneater",
@@ -9573,7 +9588,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 131276,
     "weeklyTopGame": "It's Chopping Time!",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
