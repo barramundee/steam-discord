@@ -5421,7 +5421,7 @@
         "firstPlayPosted": false
       },
       "427410": {
-        "playtime": 771,
+        "playtime": 801,
         "name": "Abiotic Factor",
         "firstPlayPosted": true
       },
@@ -6047,8 +6047,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 424931,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 424961,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
