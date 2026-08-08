@@ -6062,7 +6062,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 32,
+    "weeklyMinutes": 0,
     "weeklyTotal": 425428,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9602,7 +9602,7 @@
     "level": 31,
     "weeklyMinutes": 0,
     "weeklyTotal": 131276,
-    "weeklyTopGame": "It's Chopping Time!",
+    "weeklyTopGame": "shatAAAAp! Playtest",
     "newGames": 0
   },
   "steamSales": {},
