@@ -6045,6 +6045,11 @@
         "name": "Cloudheim Demo",
         "firstPlayPosted": false
       },
+      "4080030": {
+        "playtime": 0,
+        "name": "The Message from Deep Space",
+        "firstPlayPosted": false
+      },
       "4248000": {
         "playtime": 126,
         "name": "How Many Dudes? Demo",
@@ -6057,10 +6062,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 25,
+    "weeklyMinutes": 0,
     "weeklyTotal": 425279,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
