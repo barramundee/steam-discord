@@ -4975,6 +4975,11 @@
         "name": "Arma: Cold War Assault Remastered",
         "firstPlayPosted": false
       },
+      "70600": {
+        "playtime": 0,
+        "name": "Worms Ultimate Mayhem",
+        "firstPlayPosted": false
+      },
       "72850": {
         "playtime": 4954,
         "name": "The Elder Scrolls V: Skyrim",
@@ -6062,10 +6067,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 29,
+    "weeklyMinutes": 0,
     "weeklyTotal": 425486,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
