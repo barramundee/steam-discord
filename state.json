@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 40,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1351,7 +1351,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40671,
+    "weeklyTotal": null,
     "weeklyTopGame": "Satisfactory",
     "newGames": 0
   },
@@ -3615,7 +3615,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 383478,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -4819,7 +4819,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -5426,7 +5426,7 @@
         "firstPlayPosted": false
       },
       "427410": {
-        "playtime": 1086,
+        "playtime": 1116,
         "name": "Abiotic Factor",
         "firstPlayPosted": true
       },
@@ -6067,8 +6067,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 425649,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7757,7 +7757,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 420042,
+    "weeklyTotal": null,
     "weeklyTopGame": "DEATH STRANDING 2: ON THE BEACH",
     "newGames": 0
   },
@@ -9606,7 +9606,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 131276,
+    "weeklyTotal": null,
     "weeklyTopGame": "shatAAAAp! Playtest",
     "newGames": 0
   },
@@ -9621,6 +9621,7 @@
     "2026_2949": true,
     "2026_2950": true,
     "2026_2951": true,
-    "2026_2952": true
+    "2026_2952": true,
+    "2026_2953": true
   }
 }
