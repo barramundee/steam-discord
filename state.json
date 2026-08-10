@@ -5521,7 +5521,7 @@
         "firstPlayPosted": false
       },
       "605230": {
-        "playtime": 688,
+        "playtime": 706,
         "name": "Grey Hack",
         "firstPlayPosted": false
       },
@@ -6067,8 +6067,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 426099,
+    "weeklyMinutes": 18,
+    "weeklyTotal": 426117,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
