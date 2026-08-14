@@ -5736,7 +5736,7 @@
         "firstPlayPosted": false
       },
       "1222700": {
-        "playtime": 224,
+        "playtime": 265,
         "name": "A Way Out",
         "firstPlayPosted": false
       },
@@ -6067,8 +6067,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 426887,
+    "weeklyMinutes": 41,
+    "weeklyTotal": 426928,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
