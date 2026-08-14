@@ -6051,7 +6051,7 @@
         "firstPlayPosted": false
       },
       "4080030": {
-        "playtime": 547,
+        "playtime": 577,
         "name": "The Message from Deep Space",
         "firstPlayPosted": true
       },
@@ -6067,8 +6067,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 12,
-    "weeklyTotal": 426987,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 427017,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
