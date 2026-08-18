@@ -6077,7 +6077,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 429186,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9625,7 +9625,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 42,
+    "weeklyMinutes": 0,
     "weeklyTotal": 131371,
     "weeklyTopGame": "BALL x PIT",
     "newGames": 0
