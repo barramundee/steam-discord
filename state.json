@@ -7374,6 +7374,11 @@
         "name": "Initial Drift Online",
         "firstPlayPosted": false
       },
+      "1478500": {
+        "playtime": 0,
+        "name": "Big Walk",
+        "firstPlayPosted": false
+      },
       "1486630": {
         "playtime": 0,
         "name": "Intravenous",
@@ -7759,7 +7764,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 420042,
     "weeklyTopGame": null,
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
