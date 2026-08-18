@@ -5781,7 +5781,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 72605,
+        "playtime": 72635,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6077,8 +6077,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 4,
-    "weeklyTotal": 429126,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 429156,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9389,7 +9389,7 @@
         "firstPlayPosted": false
       },
       "2062430": {
-        "playtime": 2456,
+        "playtime": 2486,
         "name": "BALL x PIT",
         "firstPlayPosted": false
       },
@@ -9625,9 +9625,9 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 131299,
-    "weeklyTopGame": "shatAAAAp! Playtest",
+    "weeklyMinutes": 30,
+    "weeklyTotal": 131329,
+    "weeklyTopGame": "BALL x PIT",
     "newGames": 0
   },
   "steamSales": {},
