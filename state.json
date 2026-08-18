@@ -9578,6 +9578,11 @@
         "name": "RACCOIN: Coin Pusher Roguelike",
         "firstPlayPosted": false
       },
+      "3849000": {
+        "playtime": 0,
+        "name": "The Lantern of the Laughless Saint",
+        "firstPlayPosted": false
+      },
       "3929760": {
         "playtime": 380,
         "name": "Incredicer",
@@ -9613,7 +9618,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 131276,
     "weeklyTopGame": "shatAAAAp! Playtest",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
