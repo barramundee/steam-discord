@@ -9584,9 +9584,9 @@
         "firstPlayPosted": false
       },
       "3849000": {
-        "playtime": 0,
+        "playtime": 23,
         "name": "The Lantern of the Laughless Saint",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "3929760": {
         "playtime": 380,
@@ -9620,8 +9620,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 131276,
+    "weeklyMinutes": 23,
+    "weeklyTotal": 131299,
     "weeklyTopGame": "shatAAAAp! Playtest",
     "newGames": 0
   },
