@@ -9389,7 +9389,7 @@
         "firstPlayPosted": false
       },
       "2062430": {
-        "playtime": 2528,
+        "playtime": 2558,
         "name": "BALL x PIT",
         "firstPlayPosted": false
       },
@@ -9625,8 +9625,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 131371,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 131401,
     "weeklyTopGame": "BALL x PIT",
     "newGames": 0
   },
