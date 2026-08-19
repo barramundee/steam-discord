@@ -9543,6 +9543,11 @@
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
+      "3503440": {
+        "playtime": 0,
+        "name": "Astro Prospector",
+        "firstPlayPosted": false
+      },
       "3509230": {
         "playtime": 760,
         "name": "Gambonanza",
@@ -9628,7 +9633,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 131468,
     "weeklyTopGame": "BALL x PIT",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
