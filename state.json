@@ -1357,7 +1357,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 40671,
-    "weeklyTopGame": "Satisfactory",
+    "weeklyTopGame": "PowerWash Simulator",
     "newGames": 0
   },
   "76561198017069362": {
@@ -9544,7 +9544,7 @@
         "firstPlayPosted": false
       },
       "3503440": {
-        "playtime": 203,
+        "playtime": 234,
         "name": "Astro Prospector",
         "firstPlayPosted": true
       },
@@ -9630,8 +9630,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 131648,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 131679,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
