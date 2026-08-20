@@ -5781,7 +5781,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 73407,
+        "playtime": 73437,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6077,8 +6077,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 430123,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 430153,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9544,7 +9544,7 @@
         "firstPlayPosted": false
       },
       "3503440": {
-        "playtime": 234,
+        "playtime": 250,
         "name": "Astro Prospector",
         "firstPlayPosted": true
       },
@@ -9630,8 +9630,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 131679,
+    "weeklyMinutes": 16,
+    "weeklyTotal": 131695,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
