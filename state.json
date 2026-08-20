@@ -5436,7 +5436,7 @@
         "firstPlayPosted": false
       },
       "427410": {
-        "playtime": 1739,
+        "playtime": 1769,
         "name": "Abiotic Factor",
         "firstPlayPosted": true
       },
@@ -6078,7 +6078,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 430006,
+    "weeklyTotal": 430036,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9630,7 +9630,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 45,
+    "weeklyMinutes": 0,
     "weeklyTotal": 131648,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
