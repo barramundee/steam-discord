@@ -1354,14 +1354,14 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 146,
+        "playtime": 180,
         "name": "How to Fish",
         "firstPlayPosted": true
       }
     },
     "level": 10,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 40817,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 40851,
     "weeklyTopGame": "PowerWash Simulator",
     "newGames": 0
   },
@@ -6082,7 +6082,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 33,
+    "weeklyMinutes": 0,
     "weeklyTotal": 430801,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7765,7 +7765,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 157,
+        "playtime": 186,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -7781,8 +7781,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 420199,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 420228,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9640,7 +9640,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 6,
+    "weeklyMinutes": 0,
     "weeklyTotal": 131762,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
