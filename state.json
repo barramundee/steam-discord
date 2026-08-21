@@ -7759,6 +7759,11 @@
         "name": "About Fishing Playtest",
         "firstPlayPosted": false
       },
+      "4001890": {
+        "playtime": 0,
+        "name": "How to Fish",
+        "firstPlayPosted": false
+      },
       "4128260": {
         "playtime": 69,
         "name": "Highguard",
@@ -7774,7 +7779,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 420042,
     "weeklyTopGame": "Divinity: Original Sin 2",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
