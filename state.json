@@ -1352,13 +1352,18 @@
         "playtime": 1113,
         "name": "PEAK",
         "firstPlayPosted": false
+      },
+      "4001890": {
+        "playtime": 0,
+        "name": "How to Fish",
+        "firstPlayPosted": false
       }
     },
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 40671,
     "weeklyTopGame": "PowerWash Simulator",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198017069362": {
     "games": {
@@ -7760,9 +7765,9 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 0,
+        "playtime": 1,
         "name": "How to Fish",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "4128260": {
         "playtime": 69,
@@ -7776,10 +7781,10 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 420042,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 420043,
     "weeklyTopGame": "Divinity: Original Sin 2",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198131238066": {
     "games": {
