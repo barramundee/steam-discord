@@ -1354,14 +1354,14 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 86,
+        "playtime": 116,
         "name": "How to Fish",
         "firstPlayPosted": true
       }
     },
     "level": 10,
-    "weeklyMinutes": 52,
-    "weeklyTotal": 40757,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 40787,
     "weeklyTopGame": "PowerWash Simulator",
     "newGames": 0
   },
@@ -5441,7 +5441,7 @@
         "firstPlayPosted": false
       },
       "427410": {
-        "playtime": 1946,
+        "playtime": 1995,
         "name": "Abiotic Factor",
         "firstPlayPosted": true
       },
@@ -6082,8 +6082,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 430719,
+    "weeklyMinutes": 49,
+    "weeklyTotal": 430768,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7765,7 +7765,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 97,
+        "playtime": 127,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -7782,7 +7782,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 420139,
+    "weeklyTotal": 420169,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
