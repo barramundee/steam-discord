@@ -5786,7 +5786,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 73826,
+        "playtime": 73856,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6083,7 +6083,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 430614,
+    "weeklyTotal": 430644,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7994,7 +7994,7 @@
         "firstPlayPosted": false
       },
       "22330": {
-        "playtime": 2106,
+        "playtime": 2136,
         "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
         "firstPlayPosted": false
       },
@@ -9640,8 +9640,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 3,
-    "weeklyTotal": 131700,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 131730,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
