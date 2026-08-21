@@ -9554,7 +9554,7 @@
         "firstPlayPosted": false
       },
       "3503440": {
-        "playtime": 282,
+        "playtime": 324,
         "name": "Astro Prospector",
         "firstPlayPosted": true
       },
@@ -9640,8 +9640,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 131792,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 131834,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
