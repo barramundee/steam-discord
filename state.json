@@ -7994,7 +7994,7 @@
         "firstPlayPosted": false
       },
       "22330": {
-        "playtime": 2236,
+        "playtime": 2251,
         "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
         "firstPlayPosted": false
       },
@@ -9640,8 +9640,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 131864,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 131879,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
