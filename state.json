@@ -7425,7 +7425,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3066,
+        "playtime": 3069,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7781,8 +7781,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 420266,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 420269,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9641,7 +9641,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 131872,
+    "weeklyTotal": 131810,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
