@@ -7425,7 +7425,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3093,
+        "playtime": 3123,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7781,8 +7781,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 420293,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 420323,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
