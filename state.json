@@ -5786,7 +5786,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 74170,
+        "playtime": 74185,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6082,8 +6082,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 431268,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 431283,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7425,7 +7425,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3332,
+        "playtime": 3362,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7782,7 +7782,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 420532,
+    "weeklyTotal": 420562,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9619,9 +9619,9 @@
         "firstPlayPosted": false
       },
       "4144990": {
-        "playtime": 0,
+        "playtime": 20,
         "name": "Criticality",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "4248000": {
         "playtime": 62,
@@ -9645,8 +9645,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 131879,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 131899,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
