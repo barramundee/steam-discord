@@ -7781,7 +7781,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 23,
+    "weeklyMinutes": 0,
     "weeklyTotal": 420585,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": false
       },
       "4144990": {
-        "playtime": 50,
+        "playtime": 80,
         "name": "Criticality",
         "firstPlayPosted": true
       },
@@ -9646,7 +9646,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 131929,
+    "weeklyTotal": 131959,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
