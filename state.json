@@ -5586,7 +5586,7 @@
         "firstPlayPosted": true
       },
       "738520": {
-        "playtime": 30,
+        "playtime": 61,
         "name": "Breathedge",
         "firstPlayPosted": true
       },
@@ -6082,8 +6082,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 431237,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 431268,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7425,7 +7425,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3302,
+        "playtime": 3332,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7781,8 +7781,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 420502,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 420532,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
