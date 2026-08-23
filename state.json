@@ -5586,9 +5586,9 @@
         "firstPlayPosted": true
       },
       "738520": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Breathedge",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "741820": {
         "playtime": 0,
@@ -6082,8 +6082,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 431207,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 431237,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
