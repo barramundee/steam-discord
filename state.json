@@ -9618,6 +9618,11 @@
         "name": "Scritchy Scratchy",
         "firstPlayPosted": false
       },
+      "4144990": {
+        "playtime": 0,
+        "name": "Criticality",
+        "firstPlayPosted": false
+      },
       "4248000": {
         "playtime": 62,
         "name": "How Many Dudes? Demo",
@@ -9643,7 +9648,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 131879,
     "weeklyTopGame": "Astro Prospector",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
