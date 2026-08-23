@@ -1354,14 +1354,14 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 210,
+        "playtime": 240,
         "name": "How to Fish",
         "firstPlayPosted": true
       }
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 40881,
+    "weeklyTotal": 40911,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
   },
@@ -7765,7 +7765,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 254,
+        "playtime": 284,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -7782,7 +7782,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 420615,
+    "weeklyTotal": 420645,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8004,7 +8004,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 4813,
+        "playtime": 4843,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9645,8 +9645,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 14,
-    "weeklyTotal": 132189,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 132219,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
