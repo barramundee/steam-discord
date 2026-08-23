@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 40,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40851,
+    "weeklyTotal": null,
     "weeklyTopGame": "PowerWash Simulator",
     "newGames": 0
   },
@@ -3630,7 +3630,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 383478,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -4834,7 +4834,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -6083,7 +6083,7 @@
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": 431326,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7782,7 +7782,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 420585,
+    "weeklyTotal": null,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": false
       },
       "4144990": {
-        "playtime": 170,
+        "playtime": 200,
         "name": "Criticality",
         "firstPlayPosted": true
       },
@@ -9645,8 +9645,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 132049,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
@@ -9663,6 +9663,7 @@
     "2026_2951": true,
     "2026_2952": true,
     "2026_2953": true,
-    "2026_2954": true
+    "2026_2954": true,
+    "2026_2955": true
   }
 }
