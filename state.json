@@ -2463,7 +2463,7 @@
         "firstPlayPosted": false
       },
       "333640": {
-        "playtime": 139,
+        "playtime": 153,
         "name": "Caves of Qud",
         "firstPlayPosted": false
       },
@@ -3629,8 +3629,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 383478,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 383492,
     "weeklyTopGame": "Caves of Qud",
     "newGames": 0
   },
