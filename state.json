@@ -6082,7 +6082,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 25,
+    "weeklyMinutes": 0,
     "weeklyTotal": 431326,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": false
       },
       "4144990": {
-        "playtime": 140,
+        "playtime": 170,
         "name": "Criticality",
         "firstPlayPosted": true
       },
@@ -9646,7 +9646,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 132019,
+    "weeklyTotal": 132049,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
