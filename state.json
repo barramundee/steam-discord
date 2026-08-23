@@ -5961,7 +5961,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 21380,
+        "playtime": 21405,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6082,8 +6082,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 18,
-    "weeklyTotal": 431301,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 431326,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": false
       },
       "4144990": {
-        "playtime": 110,
+        "playtime": 140,
         "name": "Criticality",
         "firstPlayPosted": true
       },
@@ -9646,7 +9646,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 131989,
+    "weeklyTotal": 132019,
     "weeklyTopGame": "Astro Prospector",
     "newGames": 0
   },
