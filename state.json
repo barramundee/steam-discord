@@ -7786,7 +7786,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 15,
+    "weeklyMinutes": 0,
     "weeklyTotal": 420696,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
@@ -8009,7 +8009,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5294,
+        "playtime": 5324,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9651,7 +9651,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 132670,
+    "weeklyTotal": 132700,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
