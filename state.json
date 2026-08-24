@@ -6082,7 +6082,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 10,
+    "weeklyMinutes": 0,
     "weeklyTotal": 431640,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7584,6 +7584,11 @@
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
+      "2019300": {
+        "playtime": 0,
+        "name": "Dokimon",
+        "firstPlayPosted": false
+      },
       "2073850": {
         "playtime": 356,
         "name": "THE FINALS",
@@ -7784,7 +7789,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 420681,
     "weeklyTopGame": "Divinity: Original Sin 2",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
@@ -8004,7 +8009,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5210,
+        "playtime": 5234,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9645,8 +9650,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 21,
-    "weeklyTotal": 132586,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 132610,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
