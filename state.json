@@ -6082,7 +6082,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 23,
+    "weeklyMinutes": 0,
     "weeklyTotal": 431663,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -8009,7 +8009,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5234,
+        "playtime": 5264,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9650,8 +9650,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 132610,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 132640,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
