@@ -7250,7 +7250,7 @@
         "firstPlayPosted": false
       },
       "1086940": {
-        "playtime": 13143,
+        "playtime": 13173,
         "name": "Baldur's Gate 3",
         "firstPlayPosted": false
       },
@@ -7797,7 +7797,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 421022,
+    "weeklyTotal": 421052,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8019,7 +8019,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5745,
+        "playtime": 5771,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9660,8 +9660,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 133121,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 133147,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
