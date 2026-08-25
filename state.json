@@ -6092,7 +6092,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 40,
+    "weeklyMinutes": 0,
     "weeklyTotal": 432016,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9660,7 +9660,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 133347,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
