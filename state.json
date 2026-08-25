@@ -5451,9 +5451,9 @@
         "firstPlayPosted": false
       },
       "431240": {
-        "playtime": 0,
+        "playtime": 37,
         "name": "Golf With Your Friends",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "431960": {
         "playtime": 283,
@@ -6097,10 +6097,10 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 432016,
+    "weeklyMinutes": 37,
+    "weeklyTotal": 432053,
     "weeklyTopGame": "Deadlock",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198165227407": {
     "games": {
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 6014,
+        "playtime": 6061,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9665,8 +9665,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 43,
-    "weeklyTotal": 133390,
+    "weeklyMinutes": 47,
+    "weeklyTotal": 133437,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
