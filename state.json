@@ -6065,6 +6065,11 @@
         "name": "RV There Yet?",
         "firstPlayPosted": false
       },
+      "4001890": {
+        "playtime": 0,
+        "name": "How to Fish",
+        "firstPlayPosted": false
+      },
       "4017410": {
         "playtime": 15,
         "name": "Cloudheim Demo",
@@ -6090,7 +6095,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 431671,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
