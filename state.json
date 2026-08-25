@@ -6066,7 +6066,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 222,
+        "playtime": 252,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -6093,7 +6093,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 431946,
+    "weeklyTotal": 431976,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7796,7 +7796,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 16,
+    "weeklyMinutes": 0,
     "weeklyTotal": 421262,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
