@@ -8019,7 +8019,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5415,
+        "playtime": 5445,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9660,8 +9660,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 132791,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 132821,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
