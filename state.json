@@ -5450,6 +5450,11 @@
         "name": "Megaton Rainfall",
         "firstPlayPosted": false
       },
+      "431240": {
+        "playtime": 0,
+        "name": "Golf With Your Friends",
+        "firstPlayPosted": false
+      },
       "431960": {
         "playtime": 283,
         "name": "Wallpaper Engine",
@@ -6095,7 +6100,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 432016,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
@@ -8019,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5971,
+        "playtime": 6014,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9660,8 +9665,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 133347,
+    "weeklyMinutes": 43,
+    "weeklyTotal": 133390,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
