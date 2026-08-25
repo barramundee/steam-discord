@@ -6066,7 +6066,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 102,
+        "playtime": 132,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -6093,7 +6093,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 431826,
+    "weeklyTotal": 431856,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7250,7 +7250,7 @@
         "firstPlayPosted": false
       },
       "1086940": {
-        "playtime": 13277,
+        "playtime": 13307,
         "name": "Baldur's Gate 3",
         "firstPlayPosted": false
       },
@@ -7797,7 +7797,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 421156,
+    "weeklyTotal": 421186,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8019,7 +8019,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5876,
+        "playtime": 5909,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9660,8 +9660,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 133252,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 133285,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
