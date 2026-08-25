@@ -6066,7 +6066,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 252,
+        "playtime": 292,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -6092,8 +6092,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 431976,
+    "weeklyMinutes": 40,
+    "weeklyTotal": 432016,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8019,7 +8019,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 5941,
+        "playtime": 5971,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9660,8 +9660,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 133317,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 133347,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
