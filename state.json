@@ -5915,6 +5915,11 @@
         "name": "The Looker",
         "firstPlayPosted": false
       },
+      "2019300": {
+        "playtime": 0,
+        "name": "Dokimon",
+        "firstPlayPosted": false
+      },
       "2060160": {
         "playtime": 477,
         "name": "The Farmer Was Replaced",
@@ -6085,7 +6090,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 431671,
     "weeklyTopGame": "Deadlock",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198165227407": {
     "games": {
@@ -7240,7 +7245,7 @@
         "firstPlayPosted": false
       },
       "1086940": {
-        "playtime": 12880,
+        "playtime": 12933,
         "name": "Baldur's Gate 3",
         "firstPlayPosted": false
       },
@@ -7786,8 +7791,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 420759,
+    "weeklyMinutes": 53,
+    "weeklyTotal": 420812,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
