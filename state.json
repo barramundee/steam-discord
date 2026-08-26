@@ -5791,7 +5791,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 74534,
+        "playtime": 74555,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 432132,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 432153,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7255,7 +7255,7 @@
         "firstPlayPosted": false
       },
       "1086940": {
-        "playtime": 13587,
+        "playtime": 13617,
         "name": "Baldur's Gate 3",
         "firstPlayPosted": false
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 421466,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 421496,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 6432,
+        "playtime": 6433,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9633,6 +9633,11 @@
         "name": "Incredicer",
         "firstPlayPosted": false
       },
+      "3946950": {
+        "playtime": 3,
+        "name": "Click the Button",
+        "firstPlayPosted": false
+      },
       "3948120": {
         "playtime": 694,
         "name": "Scritchy Scratchy",
@@ -9665,10 +9670,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 54,
-    "weeklyTotal": 133808,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 133812,
     "weeklyTopGame": "Fallout: New Vegas",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
