@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 21435,
+        "playtime": 21465,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6098,7 +6098,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 432183,
+    "weeklyTotal": 432213,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7801,7 +7801,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 15,
+    "weeklyMinutes": 0,
     "weeklyTotal": 421541,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
@@ -9634,7 +9634,7 @@
         "firstPlayPosted": false
       },
       "3946950": {
-        "playtime": 63,
+        "playtime": 96,
         "name": "Click the Button",
         "firstPlayPosted": false
       },
@@ -9670,8 +9670,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 133872,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 133905,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
