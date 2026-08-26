@@ -5756,7 +5756,7 @@
         "firstPlayPosted": false
       },
       "1222700": {
-        "playtime": 368,
+        "playtime": 398,
         "name": "A Way Out",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 432321,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 432351,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7255,7 +7255,7 @@
         "firstPlayPosted": false
       },
       "1086940": {
-        "playtime": 13692,
+        "playtime": 13722,
         "name": "Baldur's Gate 3",
         "firstPlayPosted": false
       },
@@ -7802,7 +7802,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 421571,
+    "weeklyTotal": 421601,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
