@@ -2888,7 +2888,7 @@
         "firstPlayPosted": false
       },
       "595520": {
-        "playtime": 226,
+        "playtime": 230,
         "name": "FINAL FANTASY XII THE ZODIAC AGE",
         "firstPlayPosted": false
       },
@@ -3629,8 +3629,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 383522,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 383526,
     "weeklyTopGame": "FINAL FANTASY XII THE ZODIAC AGE",
     "newGames": 0
   },
@@ -5451,7 +5451,7 @@
         "firstPlayPosted": false
       },
       "431240": {
-        "playtime": 67,
+        "playtime": 97,
         "name": "Golf With Your Friends",
         "firstPlayPosted": true
       },
@@ -6098,7 +6098,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 432422,
+    "weeklyTotal": 432452,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 6542,
+        "playtime": 6572,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9671,7 +9671,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 134094,
+    "weeklyTotal": 134124,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
