@@ -9648,6 +9648,11 @@
         "name": "Criticality",
         "firstPlayPosted": true
       },
+      "4195130": {
+        "playtime": 30,
+        "name": "Ultrapool Demo",
+        "firstPlayPosted": false
+      },
       "4248000": {
         "playtime": 62,
         "name": "How Many Dudes? Demo",
@@ -9675,8 +9680,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 19,
-    "weeklyTotal": 134344,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 134374,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 1
   },
