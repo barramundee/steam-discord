@@ -9648,6 +9648,11 @@
         "name": "Criticality",
         "firstPlayPosted": true
       },
+      "4195110": {
+        "playtime": 0,
+        "name": "Ultrapool",
+        "firstPlayPosted": false
+      },
       "4195130": {
         "playtime": 85,
         "name": "Ultrapool Demo",
@@ -9683,7 +9688,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 134325,
     "weeklyTopGame": "Fallout: New Vegas",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
