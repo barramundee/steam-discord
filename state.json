@@ -9667,13 +9667,18 @@
         "playtime": 213,
         "name": "Master Healer Kale with useless party",
         "firstPlayPosted": false
+      },
+      "4765160": {
+        "playtime": 19,
+        "name": "Orb Breaker Demo",
+        "firstPlayPosted": false
       }
     },
     "level": 31,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 134325,
+    "weeklyMinutes": 19,
+    "weeklyTotal": 134344,
     "weeklyTopGame": "Fallout: New Vegas",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
