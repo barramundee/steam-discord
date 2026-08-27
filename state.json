@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 21663,
+        "playtime": 21686,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 432583,
+    "weeklyMinutes": 23,
+    "weeklyTotal": 432606,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
