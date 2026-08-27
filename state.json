@@ -9649,9 +9649,9 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Ultrapool",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "4195130": {
         "playtime": 85,
@@ -9685,10 +9685,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 134325,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 134355,
     "weeklyTopGame": "Fallout: New Vegas",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
