@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 21958,
+        "playtime": 22006,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 432917,
+    "weeklyMinutes": 48,
+    "weeklyTotal": 432965,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 6854,
+        "playtime": 6884,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9706,7 +9706,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 134878,
+    "weeklyTotal": 134908,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
