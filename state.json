@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 22246,
+        "playtime": 22276,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6098,7 +6098,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 433227,
+    "weeklyTotal": 433257,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7440,7 +7440,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3415,
+        "playtime": 3444,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 422182,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 422211,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
