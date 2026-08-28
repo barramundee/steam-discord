@@ -5791,7 +5791,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 74596,
+        "playtime": 74617,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 432746,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 432767,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9708,7 +9708,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 134733,
     "weeklyTopGame": "Fallout: New Vegas",
-    "newGames": 4
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
