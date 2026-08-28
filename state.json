@@ -2888,7 +2888,7 @@
         "firstPlayPosted": false
       },
       "595520": {
-        "playtime": 273,
+        "playtime": 303,
         "name": "FINAL FANTASY XII THE ZODIAC AGE",
         "firstPlayPosted": false
       },
@@ -3630,7 +3630,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383569,
+    "weeklyTotal": 383599,
     "weeklyTopGame": "FINAL FANTASY XII THE ZODIAC AGE",
     "newGames": 0
   },
@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 22126,
+        "playtime": 22156,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6098,7 +6098,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 433107,
+    "weeklyTotal": 433137,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9705,7 +9705,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 23,
+    "weeklyMinutes": 0,
     "weeklyTotal": 135114,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
