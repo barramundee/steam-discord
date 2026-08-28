@@ -9483,6 +9483,16 @@
         "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
         "firstPlayPosted": false
       },
+      "2492660": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
+        "firstPlayPosted": false
+      },
+      "2492670": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+        "firstPlayPosted": false
+      },
       "2518630": {
         "playtime": 0,
         "name": "None Shall Intrude",
@@ -9511,6 +9521,11 @@
       "2868840": {
         "playtime": 954,
         "name": "Slay the Spire 2",
+        "firstPlayPosted": false
+      },
+      "3036720": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT",
         "firstPlayPosted": false
       },
       "3039910": {
@@ -9628,6 +9643,11 @@
         "name": "The Lantern of the Laughless Saint",
         "firstPlayPosted": true
       },
+      "3859630": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID MASTER COLLECTION Vol.2",
+        "firstPlayPosted": false
+      },
       "3929760": {
         "playtime": 380,
         "name": "Incredicer",
@@ -9688,7 +9708,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 134733,
     "weeklyTopGame": "Fallout: New Vegas",
-    "newGames": 0
+    "newGames": 4
   },
   "steamSales": {},
   "sales": {},
