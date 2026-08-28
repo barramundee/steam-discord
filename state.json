@@ -6097,7 +6097,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 22,
+    "weeklyMinutes": 0,
     "weeklyTotal": 432987,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7760,7 +7760,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 1129,
+        "playtime": 1159,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7802,7 +7802,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 422076,
+    "weeklyTotal": 422106,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 6914,
+        "playtime": 6944,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9706,7 +9706,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 134938,
+    "weeklyTotal": 134968,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
