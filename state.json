@@ -1360,7 +1360,7 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 3,
+    "weeklyMinutes": 0,
     "weeklyTotal": 40956,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 21898,
+        "playtime": 21928,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6098,7 +6098,7 @@
     },
     "level": 19,
     "weeklyMinutes": 30,
-    "weeklyTotal": 432857,
+    "weeklyTotal": 432887,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9669,7 +9669,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 423,
+        "playtime": 472,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 134799,
+    "weeklyMinutes": 49,
+    "weeklyTotal": 134848,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
