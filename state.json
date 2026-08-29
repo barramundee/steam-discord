@@ -7440,7 +7440,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3486,
+        "playtime": 3516,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 12,
-    "weeklyTotal": 422253,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 422283,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 7580,
+        "playtime": 7610,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9706,7 +9706,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 135622,
+    "weeklyTotal": 135652,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
