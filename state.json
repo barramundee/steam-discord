@@ -5791,7 +5791,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 74823,
+        "playtime": 74825,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 17,
-    "weeklyTotal": 433551,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 433553,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7440,7 +7440,7 @@
         "firstPlayPosted": false
       },
       "1593500": {
-        "playtime": 3619,
+        "playtime": 3654,
         "name": "God of War",
         "firstPlayPosted": false
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 422405,
+    "weeklyMinutes": 35,
+    "weeklyTotal": 422440,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 7739,
+        "playtime": 7765,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 135781,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 135807,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
