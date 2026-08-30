@@ -3588,7 +3588,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 3352,
+        "playtime": 3382,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3629,8 +3629,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 383729,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 383759,
     "weeklyTopGame": "FINAL FANTASY XII THE ZODIAC AGE",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 7907,
+        "playtime": 7932,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 135949,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 135974,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
