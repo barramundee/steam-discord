@@ -3588,7 +3588,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 3560,
+        "playtime": 3584,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3629,8 +3629,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 383937,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 383961,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 22709,
+        "playtime": 22740,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 433949,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 433980,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
