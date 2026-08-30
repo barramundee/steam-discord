@@ -3629,7 +3629,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 28,
+    "weeklyMinutes": 0,
     "weeklyTotal": 383787,
     "weeklyTopGame": "FINAL FANTASY XII THE ZODIAC AGE",
     "newGames": 0
@@ -5971,7 +5971,7 @@
         "firstPlayPosted": false
       },
       "2694490": {
-        "playtime": 22576,
+        "playtime": 22619,
         "name": "Path of Exile 2",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 433768,
+    "weeklyMinutes": 43,
+    "weeklyTotal": 433811,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7620,9 +7620,9 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "God of War Ragnarök",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2337860": {
         "playtime": 0,
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 422440,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 422470,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
