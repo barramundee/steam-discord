@@ -3,7 +3,7 @@
     "games": {},
     "level": 11,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -947,7 +947,7 @@
     },
     "level": 40,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 40956,
+    "weeklyTotal": null,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
   },
@@ -3630,7 +3630,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 383961,
+    "weeklyTotal": null,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -4834,7 +4834,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -6098,7 +6098,7 @@
     },
     "level": 19,
     "weeklyMinutes": 0,
-    "weeklyTotal": 433980,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7802,7 +7802,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 422552,
+    "weeklyTotal": null,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 13,
-    "weeklyTotal": 135987,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
@@ -9724,6 +9724,7 @@
     "2026_2952": true,
     "2026_2953": true,
     "2026_2954": true,
-    "2026_2955": true
+    "2026_2955": true,
+    "2026_2956": true
   }
 }
