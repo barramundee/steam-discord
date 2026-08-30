@@ -3588,7 +3588,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 3614,
+        "playtime": 3645,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3629,8 +3629,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 383991,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 384022,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -7620,7 +7620,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 112,
+        "playtime": 119,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7760,7 +7760,7 @@
         "firstPlayPosted": false
       },
       "3280350": {
-        "playtime": 1235,
+        "playtime": 1241,
         "name": "DEATH STRANDING 2: ON THE BEACH",
         "firstPlayPosted": true
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 422582,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 422595,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 7975,
+        "playtime": 8005,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 136017,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 136047,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
