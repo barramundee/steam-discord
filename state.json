@@ -3588,7 +3588,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 3440,
+        "playtime": 3470,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3630,7 +3630,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 383817,
+    "weeklyTotal": 383847,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -6097,7 +6097,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 18,
+    "weeklyMinutes": 0,
     "weeklyTotal": 433859,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -7620,7 +7620,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 107,
+        "playtime": 112,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 47,
-    "weeklyTotal": 422547,
+    "weeklyMinutes": 5,
+    "weeklyTotal": 422552,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
