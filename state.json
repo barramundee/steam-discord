@@ -5791,7 +5791,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 74898,
+        "playtime": 74932,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -6097,8 +6097,8 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 433980,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 434014,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -7620,7 +7620,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 124,
+        "playtime": 154,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 422600,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 422630,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9705,7 +9705,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 43,
+    "weeklyMinutes": 0,
     "weeklyTotal": 136090,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
