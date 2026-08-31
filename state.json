@@ -3588,7 +3588,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 3862,
+        "playtime": 3898,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3629,8 +3629,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 384239,
+    "weeklyMinutes": 36,
+    "weeklyTotal": 384275,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
