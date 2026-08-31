@@ -8024,7 +8024,7 @@
         "firstPlayPosted": false
       },
       "22380": {
-        "playtime": 8248,
+        "playtime": 8289,
         "name": "Fallout: New Vegas",
         "firstPlayPosted": false
       },
@@ -9524,9 +9524,9 @@
         "firstPlayPosted": false
       },
       "3036720": {
-        "playtime": 0,
+        "playtime": 1,
         "name": "METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "3039910": {
         "playtime": 759,
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 136290,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 136332,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
