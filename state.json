@@ -6097,7 +6097,7 @@
       }
     },
     "level": 19,
-    "weeklyMinutes": 49,
+    "weeklyMinutes": 0,
     "weeklyTotal": 434238,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9669,7 +9669,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 532,
+        "playtime": 562,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9706,7 +9706,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 136392,
+    "weeklyTotal": 136422,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
