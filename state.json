@@ -7620,7 +7620,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 366,
+        "playtime": 399,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7801,8 +7801,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 422842,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 422875,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
