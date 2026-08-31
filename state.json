@@ -7801,7 +7801,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 33,
+    "weeklyMinutes": 0,
     "weeklyTotal": 422875,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
@@ -9669,7 +9669,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 615,
+        "playtime": 645,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9705,8 +9705,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 136475,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 136505,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
