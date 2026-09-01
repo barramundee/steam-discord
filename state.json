@@ -1104,7 +1104,7 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 31,
+        "playtime": 60,
         "name": "We Were Here Together",
         "firstPlayPosted": true
       },
@@ -1360,8 +1360,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 40987,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 41016,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
   },
@@ -7195,7 +7195,7 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 65,
+        "playtime": 93,
         "name": "We Were Here Together",
         "firstPlayPosted": true
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 422940,
+    "weeklyMinutes": 28,
+    "weeklyTotal": 422968,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 909,
+        "playtime": 939,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 136978,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 137008,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
