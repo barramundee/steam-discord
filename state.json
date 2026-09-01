@@ -7195,9 +7195,9 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "We Were Here Together",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "883710": {
         "playtime": 536,
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 422875,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 422905,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
