@@ -1104,9 +1104,9 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 0,
+        "playtime": 31,
         "name": "We Were Here Together",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "960090": {
         "playtime": 7175,
@@ -1360,8 +1360,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 40956,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 40987,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
   },
@@ -7195,7 +7195,7 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 30,
+        "playtime": 65,
         "name": "We Were Here Together",
         "firstPlayPosted": true
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 422905,
+    "weeklyMinutes": 35,
+    "weeklyTotal": 422940,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
