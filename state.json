@@ -3567,6 +3567,21 @@
         "name": "Avowed",
         "firstPlayPosted": false
       },
+      "2552430": {
+        "playtime": 0,
+        "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+        "firstPlayPosted": false
+      },
+      "2552440": {
+        "playtime": 0,
+        "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+        "firstPlayPosted": false
+      },
+      "2552450": {
+        "playtime": 0,
+        "name": "KINGDOM HEARTS III + Re Mind (DLC)",
+        "firstPlayPosted": false
+      },
       "2694490": {
         "playtime": 120,
         "name": "Path of Exile 2",
@@ -3632,7 +3647,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 384488,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
-    "newGames": 0
+    "newGames": 3
   },
   "76561198197833939": {
     "games": {
@@ -9705,7 +9720,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 42,
+    "weeklyMinutes": 0,
     "weeklyTotal": 136978,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
