@@ -1360,7 +1360,7 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 36,
+    "weeklyMinutes": 0,
     "weeklyTotal": 41082,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
@@ -3603,7 +3603,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 4249,
+        "playtime": 4277,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 384626,
+    "weeklyMinutes": 28,
+    "weeklyTotal": 384654,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -7816,7 +7816,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 36,
+    "weeklyMinutes": 0,
     "weeklyTotal": 423035,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 1006,
+        "playtime": 1036,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9721,7 +9721,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 137075,
+    "weeklyTotal": 137105,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
