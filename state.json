@@ -3644,7 +3644,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 28,
+    "weeklyMinutes": 0,
     "weeklyTotal": 384654,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 1036,
+        "playtime": 1066,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9721,7 +9721,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 137105,
+    "weeklyTotal": 137135,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
