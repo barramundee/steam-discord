@@ -1104,7 +1104,7 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 246,
+        "playtime": 264,
         "name": "We Were Here Together",
         "firstPlayPosted": true
       },
@@ -1360,8 +1360,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 41202,
+    "weeklyMinutes": 18,
+    "weeklyTotal": 41220,
     "weeklyTopGame": "How to Fish",
     "newGames": 0
   },
@@ -3603,7 +3603,7 @@
         "firstPlayPosted": false
       },
       "2909400": {
-        "playtime": 4577,
+        "playtime": 4607,
         "name": "FINAL FANTASY VII REBIRTH",
         "firstPlayPosted": false
       },
@@ -3645,7 +3645,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 384954,
+    "weeklyTotal": 384984,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -7195,7 +7195,7 @@
         "firstPlayPosted": false
       },
       "865360": {
-        "playtime": 281,
+        "playtime": 298,
         "name": "We Were Here Together",
         "firstPlayPosted": true
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 423156,
+    "weeklyMinutes": 17,
+    "weeklyTotal": 423173,
     "weeklyTopGame": "Divinity: Original Sin 2",
     "newGames": 0
   },
