@@ -3644,7 +3644,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 20,
+    "weeklyMinutes": 0,
     "weeklyTotal": 385371,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
@@ -7816,7 +7816,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 9,
+    "weeklyMinutes": 0,
     "weeklyTotal": 423191,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
