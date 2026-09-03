@@ -3568,7 +3568,7 @@
         "firstPlayPosted": false
       },
       "2552430": {
-        "playtime": 16,
+        "playtime": 45,
         "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 385262,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 385291,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 1280,
+        "playtime": 1328,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 137349,
+    "weeklyMinutes": 48,
+    "weeklyTotal": 137397,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
