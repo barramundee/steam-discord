@@ -9504,7 +9504,7 @@
         "firstPlayPosted": true
       },
       "2492670": {
-        "playtime": 1,
+        "playtime": 3,
         "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 137397,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 137399,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
