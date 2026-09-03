@@ -3568,9 +3568,9 @@
         "firstPlayPosted": false
       },
       "2552430": {
-        "playtime": 0,
+        "playtime": 16,
         "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2552440": {
         "playtime": 0,
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 385246,
+    "weeklyMinutes": 16,
+    "weeklyTotal": 385262,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
