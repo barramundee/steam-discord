@@ -3568,7 +3568,7 @@
         "firstPlayPosted": false
       },
       "2552430": {
-        "playtime": 105,
+        "playtime": 125,
         "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 385351,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 385371,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "2001120": {
-        "playtime": 1261,
+        "playtime": 1270,
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 9,
-    "weeklyTotal": 423182,
+    "weeklyTotal": 423191,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
