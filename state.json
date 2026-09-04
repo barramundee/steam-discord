@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "2001120": {
-        "playtime": 1411,
+        "playtime": 1441,
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423433,
+    "weeklyTotal": 423463,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
@@ -9720,7 +9720,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 48,
+    "weeklyMinutes": 0,
     "weeklyTotal": 137993,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
