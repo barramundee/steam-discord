@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "2001120": {
-        "playtime": 1337,
+        "playtime": 1367,
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423258,
+    "weeklyTotal": 423288,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 1692,
+        "playtime": 1718,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 137763,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 137789,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
