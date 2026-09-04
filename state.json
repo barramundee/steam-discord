@@ -7635,7 +7635,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 459,
+        "playtime": 489,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423362,
+    "weeklyTotal": 423392,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 1718,
+        "playtime": 1753,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 137850,
+    "weeklyMinutes": 35,
+    "weeklyTotal": 137885,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
