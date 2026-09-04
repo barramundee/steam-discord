@@ -7635,7 +7635,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 399,
+        "playtime": 429,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 423302,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 423332,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
