@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "2001120": {
-        "playtime": 1367,
+        "playtime": 1381,
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 423288,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 423302,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
@@ -9499,7 +9499,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 18,
+        "playtime": 48,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 26,
-    "weeklyTotal": 137789,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 137819,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
