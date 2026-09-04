@@ -7816,7 +7816,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 14,
+    "weeklyMinutes": 0,
     "weeklyTotal": 423302,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
@@ -9499,7 +9499,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 48,
+        "playtime": 69,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 137819,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 137840,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
