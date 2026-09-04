@@ -7635,7 +7635,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 429,
+        "playtime": 459,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423332,
+    "weeklyTotal": 423362,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
@@ -9499,7 +9499,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 78,
+        "playtime": 79,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 137849,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 137850,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
