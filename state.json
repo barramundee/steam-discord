@@ -3568,7 +3568,7 @@
         "firstPlayPosted": false
       },
       "2552430": {
-        "playtime": 187,
+        "playtime": 211,
         "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 385433,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 385457,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -9499,7 +9499,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 135,
+        "playtime": 165,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9721,7 +9721,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 138191,
+    "weeklyTotal": 138221,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
