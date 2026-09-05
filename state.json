@@ -7816,7 +7816,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 20,
+    "weeklyMinutes": 0,
     "weeklyTotal": 423483,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 1891,
+        "playtime": 1921,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9721,7 +9721,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 138023,
+    "weeklyTotal": 138053,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
