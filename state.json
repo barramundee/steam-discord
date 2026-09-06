@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "2001120": {
-        "playtime": 1461,
+        "playtime": 1491,
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 423693,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 423723,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
