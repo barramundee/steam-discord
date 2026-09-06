@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 41220,
+    "weeklyTotal": null,
     "weeklyTopGame": "We Were Here Together",
     "newGames": 0
   },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 26,
-    "weeklyTotal": 385543,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -4849,7 +4849,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 423693,
+    "weeklyTotal": null,
     "weeklyTopGame": "Baldur's Gate 3",
     "newGames": 0
   },
@@ -9721,7 +9721,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 138756,
+    "weeklyTotal": null,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
@@ -9740,6 +9740,7 @@
     "2026_2953": true,
     "2026_2954": true,
     "2026_2955": true,
-    "2026_2956": true
+    "2026_2956": true,
+    "2026_2957": true
   }
 }
