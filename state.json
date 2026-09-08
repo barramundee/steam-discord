@@ -8539,7 +8539,7 @@
         "firstPlayPosted": false
       },
       "287700": {
-        "playtime": 3287,
+        "playtime": 3303,
         "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
         "firstPlayPosted": false
       },
@@ -9599,7 +9599,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 1013,
+        "playtime": 1017,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 26,
-    "weeklyTotal": 139414,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 139434,
     "weeklyTopGame": "Fallout: New Vegas",
     "newGames": 0
   },
