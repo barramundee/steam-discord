@@ -1349,7 +1349,7 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 1113,
+        "playtime": 1120,
         "name": "PEAK",
         "firstPlayPosted": false
       },
@@ -1360,8 +1360,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 41220,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 41227,
     "weeklyTopGame": "Split Fiction",
     "newGames": 0
   },
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 2816,
+        "playtime": 2840,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 47,
-    "weeklyTotal": 139594,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 139618,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
