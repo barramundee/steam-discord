@@ -8879,7 +8879,7 @@
         "firstPlayPosted": false
       },
       "489830": {
-        "playtime": 2790,
+        "playtime": 2820,
         "name": "The Elder Scrolls V: Skyrim Special Edition",
         "firstPlayPosted": false
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 7,
-    "weeklyTotal": 139928,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 139958,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
