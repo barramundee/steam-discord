@@ -7610,7 +7610,7 @@
         "firstPlayPosted": false
       },
       "2001120": {
-        "playtime": 1612,
+        "playtime": 1642,
         "name": "Split Fiction",
         "firstPlayPosted": false
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 423866,
+    "weeklyTotal": 423896,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
@@ -8879,7 +8879,7 @@
         "firstPlayPosted": false
       },
       "489830": {
-        "playtime": 2921,
+        "playtime": 2939,
         "name": "The Elder Scrolls V: Skyrim Special Edition",
         "firstPlayPosted": false
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 140059,
+    "weeklyMinutes": 18,
+    "weeklyTotal": 140077,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
