@@ -6485,7 +6485,7 @@
         "firstPlayPosted": false
       },
       "268910": {
-        "playtime": 504,
+        "playtime": 515,
         "name": "Cuphead",
         "firstPlayPosted": false
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 423784,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 423795,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
