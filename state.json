@@ -6485,7 +6485,7 @@
         "firstPlayPosted": false
       },
       "268910": {
-        "playtime": 586,
+        "playtime": 587,
         "name": "Cuphead",
         "firstPlayPosted": false
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 423956,
+    "weeklyMinutes": 1,
+    "weeklyTotal": 423957,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
@@ -8539,7 +8539,7 @@
         "firstPlayPosted": false
       },
       "287700": {
-        "playtime": 3399,
+        "playtime": 3435,
         "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
         "firstPlayPosted": false
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 140487,
+    "weeklyMinutes": 36,
+    "weeklyTotal": 140523,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
