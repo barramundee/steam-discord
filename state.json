@@ -8539,7 +8539,7 @@
         "firstPlayPosted": false
       },
       "287700": {
-        "playtime": 4129,
+        "playtime": 4159,
         "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
         "firstPlayPosted": false
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 141563,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 141593,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
