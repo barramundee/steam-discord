@@ -9499,7 +9499,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 1051,
+        "playtime": 1081,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 142335,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 142365,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
