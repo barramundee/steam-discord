@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 41264,
+    "weeklyTotal": null,
     "weeklyTopGame": "Split Fiction",
     "newGames": 0
   },
@@ -3645,7 +3645,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 385617,
+    "weeklyTotal": null,
     "weeklyTopGame": "FINAL FANTASY VII REBIRTH",
     "newGames": 0
   },
@@ -4849,7 +4849,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -6485,7 +6485,7 @@
         "firstPlayPosted": false
       },
       "268910": {
-        "playtime": 800,
+        "playtime": 806,
         "name": "Cuphead",
         "firstPlayPosted": false
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 424170,
+    "weeklyTotal": null,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
@@ -9499,7 +9499,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 965,
+        "playtime": 995,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 142249,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
@@ -9741,6 +9741,7 @@
     "2026_2954": true,
     "2026_2955": true,
     "2026_2956": true,
-    "2026_2957": true
+    "2026_2957": true,
+    "2026_2958": true
   }
 }
