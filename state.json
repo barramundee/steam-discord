@@ -7205,7 +7205,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 1628,
+        "playtime": 1658,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 424433,
+    "weeklyTotal": 424463,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
@@ -9443,6 +9443,26 @@
         "name": "Shogun Showdown",
         "firstPlayPosted": false
       },
+      "2131630": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID - Master Collection Version",
+        "firstPlayPosted": false
+      },
+      "2131640": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+        "firstPlayPosted": false
+      },
+      "2131650": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+        "firstPlayPosted": false
+      },
+      "2131680": {
+        "playtime": 0,
+        "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
+        "firstPlayPosted": false
+      },
       "2239150": {
         "playtime": 77,
         "name": "Thronefall",
@@ -9461,6 +9481,11 @@
       "2304440": {
         "playtime": 0,
         "name": "Creatures of Ava",
+        "firstPlayPosted": false
+      },
+      "2306740": {
+        "playtime": 0,
+        "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
         "firstPlayPosted": false
       },
       "2311990": {
@@ -9723,7 +9748,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 142966,
     "weeklyTopGame": "Ultrapool",
-    "newGames": 0
+    "newGames": 5
   },
   "steamSales": {},
   "sales": {},
