@@ -7205,7 +7205,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 1461,
+        "playtime": 1491,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7817,7 +7817,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 424266,
+    "weeklyTotal": 424296,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
@@ -9684,7 +9684,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 3805,
+        "playtime": 3826,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9720,8 +9720,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 27,
-    "weeklyTotal": 142945,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 142966,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
