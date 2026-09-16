@@ -7205,7 +7205,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 1708,
+        "playtime": 1726,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7816,8 +7816,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 424513,
+    "weeklyMinutes": 18,
+    "weeklyTotal": 424531,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
@@ -9524,7 +9524,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 1403,
+        "playtime": 1433,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9746,7 +9746,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 143030,
+    "weeklyTotal": 143060,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
