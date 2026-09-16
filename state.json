@@ -6799,6 +6799,11 @@
         "name": "Riders of Icarus",
         "firstPlayPosted": false
       },
+      "447700": {
+        "playtime": 0,
+        "name": "Crystal Crisis",
+        "firstPlayPosted": false
+      },
       "457140": {
         "playtime": 823,
         "name": "Oxygen Not Included",
@@ -7816,10 +7821,10 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 18,
+    "weeklyMinutes": 0,
     "weeklyTotal": 424531,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
@@ -9524,7 +9529,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 1433,
+        "playtime": 1479,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9745,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 143060,
+    "weeklyMinutes": 46,
+    "weeklyTotal": 143106,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
