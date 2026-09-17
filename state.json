@@ -7821,7 +7821,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 45,
+    "weeklyMinutes": 0,
     "weeklyTotal": 425073,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
@@ -8544,7 +8544,7 @@
         "firstPlayPosted": false
       },
       "287700": {
-        "playtime": 4615,
+        "playtime": 4648,
         "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
         "firstPlayPosted": false
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 143735,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 143768,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
