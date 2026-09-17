@@ -7210,7 +7210,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 2223,
+        "playtime": 2268,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7821,8 +7821,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 425028,
+    "weeklyMinutes": 45,
+    "weeklyTotal": 425073,
     "weeklyTopGame": "Marvel’s Spider-Man Remastered",
     "newGames": 0
   },
