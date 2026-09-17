@@ -9714,7 +9714,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 3893,
+        "playtime": 3923,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 33,
-    "weeklyTotal": 143768,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 143798,
     "weeklyTopGame": "Ultrapool",
     "newGames": 0
   },
