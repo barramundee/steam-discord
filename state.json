@@ -7210,7 +7210,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 2639,
+        "playtime": 2669,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7821,8 +7821,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 425444,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 425474,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -9529,7 +9529,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 2382,
+        "playtime": 2412,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 15,
-    "weeklyTotal": 144281,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 144311,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
