@@ -7210,7 +7210,7 @@
         "firstPlayPosted": false
       },
       "892970": {
-        "playtime": 2486,
+        "playtime": 2490,
         "name": "Valheim",
         "firstPlayPosted": true
       },
@@ -7821,8 +7821,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 425291,
+    "weeklyMinutes": 4,
+    "weeklyTotal": 425295,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
