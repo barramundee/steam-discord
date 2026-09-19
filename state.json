@@ -9579,7 +9579,7 @@
         "firstPlayPosted": true
       },
       "3070070": {
-        "playtime": 1446,
+        "playtime": 1449,
         "name": "TCG Card Shop Simulator",
         "firstPlayPosted": false
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 144840,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 144843,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
