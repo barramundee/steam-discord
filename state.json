@@ -3383,7 +3383,7 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 24,
+        "playtime": 54,
         "name": "RuneScape: Dragonwilds",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 385641,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 385671,
     "weeklyTopGame": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
     "newGames": 0
   },
@@ -9579,7 +9579,7 @@
         "firstPlayPosted": true
       },
       "3070070": {
-        "playtime": 1451,
+        "playtime": 1470,
         "name": "TCG Card Shop Simulator",
         "firstPlayPosted": false
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 2,
-    "weeklyTotal": 144845,
+    "weeklyMinutes": 19,
+    "weeklyTotal": 144864,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
