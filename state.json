@@ -3383,9 +3383,9 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 0,
+        "playtime": 24,
         "name": "RuneScape: Dragonwilds",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1412570": {
         "playtime": 161,
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 385617,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 385641,
     "weeklyTopGame": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
     "newGames": 0
   },
@@ -9529,7 +9529,7 @@
         "firstPlayPosted": false
       },
       "2492660": {
-        "playtime": 2642,
+        "playtime": 2673,
         "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 144541,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 144572,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
