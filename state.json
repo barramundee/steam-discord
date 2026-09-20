@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 41264,
+    "weeklyTotal": null,
     "weeklyTopGame": "Split Fiction",
     "newGames": 0
   },
@@ -3383,7 +3383,7 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 123,
+        "playtime": 153,
         "name": "RuneScape: Dragonwilds",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 385740,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -4849,7 +4849,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -7822,7 +7822,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 425580,
+    "weeklyTotal": null,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -9751,7 +9751,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 145236,
+    "weeklyTotal": null,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
@@ -9772,6 +9772,7 @@
     "2026_2955": true,
     "2026_2956": true,
     "2026_2957": true,
-    "2026_2958": true
+    "2026_2958": true,
+    "2026_2959": true
   }
 }
