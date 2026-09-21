@@ -9629,7 +9629,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 1140,
+        "playtime": 1170,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9750,8 +9750,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 145429,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 145459,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
