@@ -3383,7 +3383,7 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 667,
+        "playtime": 697,
         "name": "RuneScape: Dragonwilds",
         "firstPlayPosted": true
       },
@@ -3645,7 +3645,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 386284,
+    "weeklyTotal": 386314,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -7799,6 +7799,11 @@
         "name": "PEAK",
         "firstPlayPosted": false
       },
+      "3669870": {
+        "playtime": 0,
+        "name": "CONTROL Resonant",
+        "firstPlayPosted": false
+      },
       "3940070": {
         "playtime": 53,
         "name": "About Fishing Playtest",
@@ -7824,7 +7829,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 425580,
     "weeklyTopGame": "Valheim",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198131238066": {
     "games": {
@@ -9459,7 +9464,7 @@
         "firstPlayPosted": false
       },
       "2131650": {
-        "playtime": 139,
+        "playtime": 164,
         "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9750,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 145648,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 145673,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
