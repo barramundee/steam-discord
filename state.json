@@ -3383,7 +3383,7 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 998,
+        "playtime": 1044,
         "name": "RuneScape: Dragonwilds",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 386615,
+    "weeklyMinutes": 46,
+    "weeklyTotal": 386661,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9634,7 +9634,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 1506,
+        "playtime": 1537,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9756,7 +9756,7 @@
     },
     "level": 31,
     "weeklyMinutes": 31,
-    "weeklyTotal": 146019,
+    "weeklyTotal": 146050,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
