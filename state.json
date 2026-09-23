@@ -3383,7 +3383,7 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 818,
+        "playtime": 848,
         "name": "RuneScape: Dragonwilds",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 14,
-    "weeklyTotal": 386435,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 386465,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
