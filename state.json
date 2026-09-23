@@ -1362,7 +1362,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 41264,
-    "weeklyTopGame": "Split Fiction",
+    "weeklyTopGame": "Portal",
     "newGames": 0
   },
   "76561198017069362": {
@@ -3383,7 +3383,7 @@
         "firstPlayPosted": true
       },
       "1374490": {
-        "playtime": 938,
+        "playtime": 968,
         "name": "RuneScape: Dragonwilds",
         "firstPlayPosted": true
       },
@@ -3645,7 +3645,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 386555,
+    "weeklyTotal": 386585,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9464,7 +9464,7 @@
         "firstPlayPosted": false
       },
       "2131650": {
-        "playtime": 323,
+        "playtime": 345,
         "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 145966,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 145988,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
