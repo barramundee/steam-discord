@@ -7800,7 +7800,7 @@
         "firstPlayPosted": false
       },
       "3669870": {
-        "playtime": 30,
+        "playtime": 60,
         "name": "CONTROL Resonant",
         "firstPlayPosted": true
       },
@@ -7827,7 +7827,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 425610,
+    "weeklyTotal": 425640,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
@@ -9634,7 +9634,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 1537,
+        "playtime": 1591,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 146050,
+    "weeklyMinutes": 54,
+    "weeklyTotal": 146104,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
