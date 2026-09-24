@@ -7826,7 +7826,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 36,
+    "weeklyMinutes": 0,
     "weeklyTotal": 425793,
     "weeklyTopGame": "Valheim",
     "newGames": 0
@@ -9464,7 +9464,7 @@
         "firstPlayPosted": false
       },
       "2131650": {
-        "playtime": 383,
+        "playtime": 407,
         "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 146164,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 146188,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
