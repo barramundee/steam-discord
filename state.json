@@ -9464,7 +9464,7 @@
         "firstPlayPosted": false
       },
       "2131650": {
-        "playtime": 505,
+        "playtime": 560,
         "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 146286,
+    "weeklyMinutes": 55,
+    "weeklyTotal": 146341,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
