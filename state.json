@@ -7826,7 +7826,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 22,
+    "weeklyMinutes": 0,
     "weeklyTotal": 426813,
     "weeklyTopGame": "Valheim",
     "newGames": 0
@@ -9634,7 +9634,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 1748,
+        "playtime": 1768,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 146802,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 146822,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
