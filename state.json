@@ -7800,7 +7800,7 @@
         "firstPlayPosted": false
       },
       "3669870": {
-        "playtime": 1142,
+        "playtime": 1173,
         "name": "CONTROL Resonant",
         "firstPlayPosted": true
       },
@@ -7826,8 +7826,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 426722,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 426753,
     "weeklyTopGame": "Valheim",
     "newGames": 0
   },
