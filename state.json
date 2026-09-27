@@ -7800,7 +7800,7 @@
         "firstPlayPosted": false
       },
       "3669870": {
-        "playtime": 1578,
+        "playtime": 1609,
         "name": "CONTROL Resonant",
         "firstPlayPosted": true
       },
@@ -7826,8 +7826,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 427158,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 427189,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
