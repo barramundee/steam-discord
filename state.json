@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 41264,
+    "weeklyTotal": null,
     "weeklyTopGame": "Portal",
     "newGames": 0
   },
@@ -3645,7 +3645,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 386661,
+    "weeklyTotal": null,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -4849,7 +4849,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -7827,7 +7827,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 427447,
+    "weeklyTotal": null,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 14,
-    "weeklyTotal": 147061,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
@@ -9778,6 +9778,7 @@
     "2026_2956": true,
     "2026_2957": true,
     "2026_2958": true,
-    "2026_2959": true
+    "2026_2959": true,
+    "2026_2960": true
   }
 }
