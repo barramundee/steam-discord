@@ -7800,7 +7800,7 @@
         "firstPlayPosted": false
       },
       "3669870": {
-        "playtime": 2047,
+        "playtime": 2078,
         "name": "CONTROL Resonant",
         "firstPlayPosted": true
       },
@@ -7826,8 +7826,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 427627,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 427658,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9755,7 +9755,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 25,
+    "weeklyMinutes": 0,
     "weeklyTotal": 147246,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
