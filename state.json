@@ -7800,7 +7800,7 @@
         "firstPlayPosted": false
       },
       "3669870": {
-        "playtime": 2017,
+        "playtime": 2047,
         "name": "CONTROL Resonant",
         "firstPlayPosted": true
       },
@@ -7827,7 +7827,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 427597,
+    "weeklyTotal": 427627,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9464,7 +9464,7 @@
         "firstPlayPosted": false
       },
       "2131650": {
-        "playtime": 1038,
+        "playtime": 1063,
         "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 147221,
+    "weeklyMinutes": 25,
+    "weeklyTotal": 147246,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
