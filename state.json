@@ -9719,7 +9719,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 4091,
+        "playtime": 4094,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9755,8 +9755,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 147503,
+    "weeklyMinutes": 3,
+    "weeklyTotal": 147506,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
     "newGames": 0
   },
