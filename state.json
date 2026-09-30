@@ -2813,7 +2813,7 @@
         "firstPlayPosted": false
       },
       "546560": {
-        "playtime": 162,
+        "playtime": 184,
         "name": "Half-Life: Alyx",
         "firstPlayPosted": true
       },
@@ -3644,8 +3644,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 386823,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 386845,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
