@@ -3618,7 +3618,7 @@
         "firstPlayPosted": true
       },
       "3189340": {
-        "playtime": 12,
+        "playtime": 42,
         "name": "Dungeons of Eternity",
         "firstPlayPosted": true
       },
@@ -3649,8 +3649,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 12,
-    "weeklyTotal": 386907,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 386937,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
