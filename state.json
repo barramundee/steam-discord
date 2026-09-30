@@ -3617,6 +3617,11 @@
         "name": "THYSIASTERY",
         "firstPlayPosted": true
       },
+      "3189340": {
+        "playtime": 0,
+        "name": "Dungeons of Eternity",
+        "firstPlayPosted": false
+      },
       "3240220": {
         "playtime": 0,
         "name": "Grand Theft Auto V Enhanced",
@@ -3647,7 +3652,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 386845,
     "weeklyTopGame": "RuneScape: Dragonwilds",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
