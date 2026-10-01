@@ -9639,7 +9639,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2050,
+        "playtime": 2061,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9765,8 +9765,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 147799,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 147810,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
