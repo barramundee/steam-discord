@@ -9748,6 +9748,11 @@
         "name": "Holding Pattern",
         "firstPlayPosted": false
       },
+      "4415120": {
+        "playtime": 139,
+        "name": "Growing My Manhole",
+        "firstPlayPosted": false
+      },
       "4634490": {
         "playtime": 213,
         "name": "Master Healer Kale with useless party",
@@ -9760,10 +9765,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 147571,
+    "weeklyMinutes": 139,
+    "weeklyTotal": 147710,
     "weeklyTopGame": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
