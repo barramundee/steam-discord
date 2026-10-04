@@ -9754,7 +9754,7 @@
         "firstPlayPosted": false
       },
       "4421010": {
-        "playtime": 238,
+        "playtime": 281,
         "name": "Bills Must Be Paid",
         "firstPlayPosted": true
       },
@@ -9770,8 +9770,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 148404,
+    "weeklyMinutes": 43,
+    "weeklyTotal": 148447,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
