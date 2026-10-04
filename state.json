@@ -9753,6 +9753,11 @@
         "name": "Growing My Manhole",
         "firstPlayPosted": false
       },
+      "4421010": {
+        "playtime": 0,
+        "name": "Bills Must Be Paid",
+        "firstPlayPosted": false
+      },
       "4634490": {
         "playtime": 213,
         "name": "Master Healer Kale with useless party",
@@ -9768,7 +9773,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 148166,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
