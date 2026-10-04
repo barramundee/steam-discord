@@ -7831,7 +7831,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 24,
+    "weeklyMinutes": 0,
     "weeklyTotal": 428353,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
@@ -9754,7 +9754,7 @@
         "firstPlayPosted": false
       },
       "4421010": {
-        "playtime": 84,
+        "playtime": 115,
         "name": "Bills Must Be Paid",
         "firstPlayPosted": true
       },
@@ -9770,8 +9770,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148250,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 148281,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
