@@ -7400,7 +7400,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 32088,
+        "playtime": 32118,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7831,8 +7831,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 428299,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 428329,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9754,7 +9754,7 @@
         "firstPlayPosted": false
       },
       "4421010": {
-        "playtime": 48,
+        "playtime": 84,
         "name": "Bills Must Be Paid",
         "firstPlayPosted": true
       },
@@ -9770,8 +9770,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148214,
+    "weeklyMinutes": 36,
+    "weeklyTotal": 148250,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
