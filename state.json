@@ -9694,7 +9694,7 @@
         "firstPlayPosted": false
       },
       "3796720": {
-        "playtime": 24,
+        "playtime": 66,
         "name": "Mr. Magpie’s Harmless Card Game Demo",
         "firstPlayPosted": false
       },
@@ -9775,8 +9775,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148520,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 148562,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
