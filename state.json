@@ -3649,7 +3649,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 22,
+    "weeklyMinutes": 0,
     "weeklyTotal": 386998,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
@@ -9469,7 +9469,7 @@
         "firstPlayPosted": false
       },
       "2131650": {
-        "playtime": 1712,
+        "playtime": 1743,
         "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
         "firstPlayPosted": true
       },
@@ -9775,8 +9775,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 15,
-    "weeklyTotal": 148471,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 148502,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
