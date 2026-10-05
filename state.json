@@ -3618,7 +3618,7 @@
         "firstPlayPosted": true
       },
       "3189340": {
-        "playtime": 81,
+        "playtime": 103,
         "name": "Dungeons of Eternity",
         "firstPlayPosted": true
       },
@@ -3649,8 +3649,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 386976,
+    "weeklyMinutes": 22,
+    "weeklyTotal": 386998,
     "weeklyTopGame": "RuneScape: Dragonwilds",
     "newGames": 0
   },
@@ -9694,7 +9694,7 @@
         "firstPlayPosted": false
       },
       "3796720": {
-        "playtime": 9,
+        "playtime": 24,
         "name": "Mr. Magpie’s Harmless Card Game Demo",
         "firstPlayPosted": false
       },
@@ -9775,10 +9775,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 9,
-    "weeklyTotal": 148456,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 148471,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
-    "newGames": 1
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
