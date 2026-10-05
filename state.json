@@ -7831,7 +7831,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 43,
+    "weeklyMinutes": 0,
     "weeklyTotal": 428465,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
@@ -9693,6 +9693,11 @@
         "name": "RACCOIN: Coin Pusher Roguelike",
         "firstPlayPosted": false
       },
+      "3796720": {
+        "playtime": 9,
+        "name": "Mr. Magpie’s Harmless Card Game Demo",
+        "firstPlayPosted": false
+      },
       "3849000": {
         "playtime": 23,
         "name": "The Lantern of the Laughless Saint",
@@ -9770,10 +9775,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148447,
+    "weeklyMinutes": 9,
+    "weeklyTotal": 148456,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
