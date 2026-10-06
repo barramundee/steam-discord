@@ -3651,7 +3651,7 @@
     "level": 20,
     "weeklyMinutes": 0,
     "weeklyTotal": 386998,
-    "weeklyTopGame": "RuneScape: Dragonwilds",
+    "weeklyTopGame": "SteamVR",
     "newGames": 0
   },
   "76561198197833939": {
@@ -7400,7 +7400,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 32395,
+        "playtime": 32425,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7831,8 +7831,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 428606,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 428636,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9639,7 +9639,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2061,
+        "playtime": 2109,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9775,8 +9775,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148618,
+    "weeklyMinutes": 48,
+    "weeklyTotal": 148666,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
