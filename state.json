@@ -7400,7 +7400,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 32425,
+        "playtime": 32455,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7832,7 +7832,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 428636,
+    "weeklyTotal": 428666,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9775,7 +9775,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 48,
+    "weeklyMinutes": 0,
     "weeklyTotal": 148666,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
