@@ -7400,7 +7400,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 32283,
+        "playtime": 32313,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7831,8 +7831,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 428494,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 428524,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
