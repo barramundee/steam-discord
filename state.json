@@ -9579,7 +9579,7 @@
         "firstPlayPosted": false
       },
       "3036720": {
-        "playtime": 1,
+        "playtime": 7,
         "name": "METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT",
         "firstPlayPosted": true
       },
@@ -9639,7 +9639,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2109,
+        "playtime": 2129,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9775,8 +9775,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148666,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 148692,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
