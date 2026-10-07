@@ -9772,13 +9772,18 @@
         "playtime": 19,
         "name": "Orb Breaker Demo",
         "firstPlayPosted": false
+      },
+      "5184670": {
+        "playtime": 23,
+        "name": "Clive Barker's Hellraiser: Revival Demo",
+        "firstPlayPosted": false
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148692,
+    "weeklyMinutes": 23,
+    "weeklyTotal": 148715,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
