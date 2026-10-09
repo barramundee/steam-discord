@@ -9584,7 +9584,7 @@
         "firstPlayPosted": true
       },
       "3039910": {
-        "playtime": 759,
+        "playtime": 785,
         "name": "Demon Hunt",
         "firstPlayPosted": true
       },
@@ -9639,7 +9639,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2333,
+        "playtime": 2339,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9780,8 +9780,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 148943,
+    "weeklyMinutes": 32,
+    "weeklyTotal": 148975,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
