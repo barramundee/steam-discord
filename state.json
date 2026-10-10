@@ -9404,7 +9404,7 @@
         "firstPlayPosted": false
       },
       "1942280": {
-        "playtime": 6334,
+        "playtime": 6360,
         "name": "Brotato",
         "firstPlayPosted": false
       },
@@ -9780,8 +9780,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 149134,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 149160,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
