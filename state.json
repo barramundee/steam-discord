@@ -7645,7 +7645,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 920,
+        "playtime": 950,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7832,7 +7832,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 429287,
+    "weeklyTotal": 429317,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9639,7 +9639,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2460,
+        "playtime": 2494,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9780,8 +9780,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 38,
-    "weeklyTotal": 149291,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 149325,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
