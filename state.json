@@ -7815,7 +7815,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 369,
+        "playtime": 385,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -7831,8 +7831,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 429061,
+    "weeklyMinutes": 16,
+    "weeklyTotal": 429077,
     "weeklyTopGame": "CONTROL Resonant",
     "newGames": 0
   },
@@ -9639,7 +9639,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2416,
+        "playtime": 2433,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9780,8 +9780,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 149090,
+    "weeklyMinutes": 17,
+    "weeklyTotal": 149107,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
