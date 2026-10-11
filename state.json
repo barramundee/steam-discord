@@ -7650,7 +7650,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 1051,
+        "playtime": 1081,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7842,7 +7842,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 429418,
+    "weeklyTotal": 429448,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8894,7 +8894,7 @@
         "firstPlayPosted": false
       },
       "480490": {
-        "playtime": 183,
+        "playtime": 204,
         "name": "Prey",
         "firstPlayPosted": false
       },
@@ -9790,8 +9790,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 149325,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 149346,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
