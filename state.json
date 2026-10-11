@@ -8829,9 +8829,9 @@
         "firstPlayPosted": false
       },
       "405640": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Pony Island",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "409710": {
         "playtime": 20,
@@ -9800,10 +9800,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 21,
-    "weeklyTotal": 149523,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 149553,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
-    "newGames": 2
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
