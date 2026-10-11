@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 41264,
+    "weeklyTotal": null,
     "weeklyTopGame": "Borderlands GOTY Enhanced",
     "newGames": 0
   },
@@ -3650,7 +3650,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 386998,
+    "weeklyTotal": null,
     "weeklyTopGame": "SteamVR",
     "newGames": 0
   },
@@ -4854,7 +4854,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -7842,7 +7842,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": 429479,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9791,7 +9791,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 149388,
+    "weeklyTotal": null,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
   },
@@ -9815,6 +9815,7 @@
     "2026_2958": true,
     "2026_2959": true,
     "2026_2960": true,
-    "2026_2961": true
+    "2026_2961": true,
+    "2026_2962": true
   }
 }
