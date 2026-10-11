@@ -6734,6 +6734,11 @@
         "name": "Dishonored 2",
         "firstPlayPosted": false
       },
+      "405640": {
+        "playtime": 0,
+        "name": "Pony Island",
+        "firstPlayPosted": false
+      },
       "407510": {
         "playtime": 10,
         "name": "Devilian",
@@ -7759,6 +7764,11 @@
         "name": "Banana",
         "firstPlayPosted": false
       },
+      "2990600": {
+        "playtime": 0,
+        "name": "Fireside Feelings",
+        "firstPlayPosted": false
+      },
       "3062930": {
         "playtime": 0,
         "name": "Unplagued",
@@ -7834,7 +7844,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 429388,
     "weeklyTopGame": "CONTROL Resonant",
-    "newGames": 0
+    "newGames": 2
   },
   "76561198131238066": {
     "games": {
