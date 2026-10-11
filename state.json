@@ -7650,7 +7650,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 1081,
+        "playtime": 1112,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 429448,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 429479,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9790,7 +9790,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 21,
+    "weeklyMinutes": 0,
     "weeklyTotal": 149346,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
     "newGames": 0
