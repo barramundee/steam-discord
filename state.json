@@ -8828,6 +8828,11 @@
         "name": "LEGO® MARVEL's Avengers",
         "firstPlayPosted": false
       },
+      "405640": {
+        "playtime": 0,
+        "name": "Pony Island",
+        "firstPlayPosted": false
+      },
       "409710": {
         "playtime": 20,
         "name": "BioShock Remastered",
@@ -8894,7 +8899,7 @@
         "firstPlayPosted": false
       },
       "480490": {
-        "playtime": 360,
+        "playtime": 381,
         "name": "Prey",
         "firstPlayPosted": false
       },
@@ -9588,6 +9593,11 @@
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
+      "2990600": {
+        "playtime": 0,
+        "name": "Fireside Feelings",
+        "firstPlayPosted": false
+      },
       "3036720": {
         "playtime": 7,
         "name": "METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT",
@@ -9790,10 +9800,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 149502,
+    "weeklyMinutes": 21,
+    "weeklyTotal": 149523,
     "weeklyTopGame": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
-    "newGames": 0
+    "newGames": 2
   },
   "steamSales": {},
   "sales": {},
