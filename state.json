@@ -8899,7 +8899,7 @@
         "firstPlayPosted": false
       },
       "480490": {
-        "playtime": 582,
+        "playtime": 612,
         "name": "Prey",
         "firstPlayPosted": false
       },
@@ -9800,8 +9800,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 17,
-    "weeklyTotal": 149895,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 149925,
     "weeklyTopGame": "Dice A Million",
     "newGames": 0
   },
