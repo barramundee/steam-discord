@@ -9014,9 +9014,9 @@
         "firstPlayPosted": false
       },
       "606150": {
-        "playtime": 0,
+        "playtime": 17,
         "name": "Moonlighter",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "629820": {
         "playtime": 585,
@@ -9800,8 +9800,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 149945,
+    "weeklyMinutes": 17,
+    "weeklyTotal": 149962,
     "weeklyTopGame": "Prey",
     "newGames": 0
   },
