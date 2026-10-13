@@ -7825,7 +7825,7 @@
         "firstPlayPosted": false
       },
       "4001890": {
-        "playtime": 415,
+        "playtime": 441,
         "name": "How to Fish",
         "firstPlayPosted": true
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 429509,
+    "weeklyMinutes": 26,
+    "weeklyTotal": 429535,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
