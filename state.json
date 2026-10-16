@@ -9644,9 +9644,9 @@
         "firstPlayPosted": false
       },
       "3343160": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Fill Up The Hole",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "3360680": {
         "playtime": 11,
@@ -9810,10 +9810,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 150055,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 150085,
     "weeklyTopGame": "Dice A Million",
-    "newGames": 2
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
