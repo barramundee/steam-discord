@@ -9643,6 +9643,11 @@
         "name": "Piñata Go Boom",
         "firstPlayPosted": false
       },
+      "3343160": {
+        "playtime": 0,
+        "name": "Fill Up The Hole",
+        "firstPlayPosted": false
+      },
       "3360680": {
         "playtime": 11,
         "name": "Sniper Dan Demo",
@@ -9743,6 +9748,11 @@
         "name": "Scritchy Scratchy",
         "firstPlayPosted": false
       },
+      "4009730": {
+        "playtime": 0,
+        "name": "Feed the Reactor",
+        "firstPlayPosted": false
+      },
       "4144990": {
         "playtime": 225,
         "name": "Criticality",
@@ -9803,7 +9813,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 150055,
     "weeklyTopGame": "Dice A Million",
-    "newGames": 0
+    "newGames": 2
   },
   "steamSales": {},
   "sales": {},
