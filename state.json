@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 32917,
+        "playtime": 32947,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 429602,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 429632,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9749,7 +9749,7 @@
         "firstPlayPosted": false
       },
       "4009730": {
-        "playtime": 380,
+        "playtime": 393,
         "name": "Feed the Reactor",
         "firstPlayPosted": true
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 150498,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 150511,
     "weeklyTopGame": "Dice A Million",
     "newGames": 0
   },
