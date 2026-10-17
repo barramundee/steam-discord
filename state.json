@@ -9749,7 +9749,7 @@
         "firstPlayPosted": false
       },
       "4009730": {
-        "playtime": 230,
+        "playtime": 260,
         "name": "Feed the Reactor",
         "firstPlayPosted": true
       },
@@ -9811,7 +9811,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 150348,
+    "weeklyTotal": 150378,
     "weeklyTopGame": "Dice A Million",
     "newGames": 0
   },
