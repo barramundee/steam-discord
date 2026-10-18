@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 41273,
+    "weeklyTotal": null,
     "weeklyTopGame": "Borderlands GOTY Enhanced",
     "newGames": 0
   },
@@ -3650,7 +3650,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": 386998,
+    "weeklyTotal": null,
     "weeklyTopGame": "Dungeons of Eternity",
     "newGames": 0
   },
@@ -4854,7 +4854,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 38,
-    "weeklyTotal": 429863,
+    "weeklyMinutes": 0,
+    "weeklyTotal": null,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9811,7 +9811,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": 150617,
+    "weeklyTotal": null,
     "weeklyTopGame": "Dice A Million",
     "newGames": 0
   },
@@ -9836,6 +9836,7 @@
     "2026_2959": true,
     "2026_2960": true,
     "2026_2961": true,
-    "2026_2962": true
+    "2026_2962": true,
+    "2026_2963": true
   }
 }
