@@ -9664,7 +9664,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2690,
+        "playtime": 2707,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9719,7 +9719,7 @@
         "firstPlayPosted": false
       },
       "3796720": {
-        "playtime": 90,
+        "playtime": 93,
         "name": "Mr. Magpie’s Harmless Card Game Demo",
         "firstPlayPosted": false
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 150511,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 150531,
     "weeklyTopGame": "Dice A Million",
     "newGames": 0
   },
