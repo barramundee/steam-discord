@@ -9664,7 +9664,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2871,
+        "playtime": 2900,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 150730,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 150759,
     "weeklyTopGame": "Dice A Million",
     "newGames": 0
   },
