@@ -1563,7 +1563,7 @@
         "firstPlayPosted": false
       },
       "20920": {
-        "playtime": 1548,
+        "playtime": 1558,
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
         "firstPlayPosted": false
       },
@@ -3649,8 +3649,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 7,
-    "weeklyTotal": 387005,
+    "weeklyMinutes": 10,
+    "weeklyTotal": 387015,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
