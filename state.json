@@ -9664,7 +9664,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 2900,
+        "playtime": 2934,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 150884,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 150918,
     "weeklyTopGame": "Prey",
     "newGames": 0
   },
