@@ -9189,7 +9189,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 2676,
+        "playtime": 2681,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 50,
-    "weeklyTotal": 150858,
+    "weeklyMinutes": 5,
+    "weeklyTotal": 150863,
     "weeklyTopGame": "Prey",
     "newGames": 0
   },
