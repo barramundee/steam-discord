@@ -1563,7 +1563,7 @@
         "firstPlayPosted": false
       },
       "20920": {
-        "playtime": 1560,
+        "playtime": 1574,
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
         "firstPlayPosted": false
       },
@@ -3649,8 +3649,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 2,
-    "weeklyTotal": 387017,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 387031,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 33496,
+        "playtime": 33526,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 430249,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 430279,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
