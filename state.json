@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 33419,
+        "playtime": 33449,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 430172,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 430202,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9810,7 +9810,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 34,
+    "weeklyMinutes": 0,
     "weeklyTotal": 151322,
     "weeklyTopGame": "Prey",
     "newGames": 0
