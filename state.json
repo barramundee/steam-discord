@@ -7650,7 +7650,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 1240,
+        "playtime": 1283,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 430463,
+    "weeklyMinutes": 43,
+    "weeklyTotal": 430506,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
