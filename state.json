@@ -9664,7 +9664,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3003,
+        "playtime": 3045,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 151669,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 151711,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
