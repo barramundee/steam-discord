@@ -1563,7 +1563,7 @@
         "firstPlayPosted": false
       },
       "20920": {
-        "playtime": 1626,
+        "playtime": 1657,
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
         "firstPlayPosted": false
       },
@@ -3649,8 +3649,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 387083,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 387114,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 33789,
+        "playtime": 33819,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7842,7 +7842,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 430645,
+    "weeklyTotal": 430675,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9664,7 +9664,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3063,
+        "playtime": 3094,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9810,8 +9810,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 151986,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 152017,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
