@@ -7841,7 +7841,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 37,
+    "weeklyMinutes": 0,
     "weeklyTotal": 431278,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9799,7 +9799,7 @@
         "firstPlayPosted": false
       },
       "4704520": {
-        "playtime": 300,
+        "playtime": 330,
         "name": "Shreddead",
         "firstPlayPosted": false
       },
@@ -9816,7 +9816,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 152551,
+    "weeklyTotal": 152581,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
