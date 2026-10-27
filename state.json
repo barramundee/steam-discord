@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 34517,
+        "playtime": 34547,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7842,7 +7842,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 431373,
+    "weeklyTotal": 431403,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9815,7 +9815,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 153508,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
