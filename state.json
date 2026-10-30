@@ -7405,7 +7405,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 35235,
+        "playtime": 35528,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7841,8 +7841,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 464,
-    "weeklyTotal": 432091,
+    "weeklyMinutes": 293,
+    "weeklyTotal": 432384,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8809,9 +8809,9 @@
         "firstPlayPosted": false
       },
       "399810": {
-        "playtime": 0,
+        "playtime": 20,
         "name": "Call of Cthulhu",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "401690": {
         "playtime": 192,
@@ -9189,7 +9189,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 4148,
+        "playtime": 4215,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9609,7 +9609,7 @@
         "firstPlayPosted": true
       },
       "3070070": {
-        "playtime": 1509,
+        "playtime": 1527,
         "name": "TCG Card Shop Simulator",
         "firstPlayPosted": false
       },
@@ -9799,7 +9799,7 @@
         "firstPlayPosted": false
       },
       "4704520": {
-        "playtime": 1113,
+        "playtime": 1116,
         "name": "Shreddead",
         "firstPlayPosted": false
       },
@@ -9815,8 +9815,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 97,
-    "weeklyTotal": 153651,
+    "weeklyMinutes": 108,
+    "weeklyTotal": 153759,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
